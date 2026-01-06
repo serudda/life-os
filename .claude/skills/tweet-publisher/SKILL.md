@@ -29,17 +29,45 @@ When user asks "ver drafts", "mis tweets pendientes", "show drafts":
 When user says "publish tweet [name]" or "publicar tweet [name]":
 
 ```
-Step 1: Read the draft file
-Step 2: Display tweet content for final review
-Step 3: Show character count
-Step 4: Ask user to confirm they've posted to Twitter
-Step 5: Once confirmed:
+Step 1: Identify the draft(s)
+        → Check if there are -en.md and -es.md versions
+        → Or a single file with one language
+
+Step 2: Display tweet content(s) for final review
+        → Show both versions if both exist
+        → Show character count for each
+
+Step 3: ASK which version was published
+        → "¿Qué versión publicaste?"
+        → Options:
+          a) 🇪🇸 Solo español
+          b) 🇺🇸 Solo inglés
+          c) 🌎 Ambos
+
+Step 4: User confirms
+
+Step 5: Process based on selection:
         → Get timestamp: date "+%Y-%m-%d %H:%M:%S"
-        → Create file in tweets/published/YYYY-MM/YYYY-MM-DD-topic.md
-        → Update status to "published"
+
+        If SPANISH selected:
+          → Move -es.md to tweets/published/es/YYYY-MM/YYYY-MM-DD-topic.md
+          → Keep -en.md in drafts (for future use)
+
+        If ENGLISH selected:
+          → Move -en.md to tweets/published/en/YYYY-MM/YYYY-MM-DD-topic.md
+          → Keep -es.md in drafts (for future use)
+
+        If BOTH selected:
+          → Move -es.md to tweets/published/es/YYYY-MM/YYYY-MM-DD-topic.md
+          → Move -en.md to tweets/published/en/YYYY-MM/YYYY-MM-DD-topic.md
+
+        → Update status to "published" in moved file(s)
         → Add Published datetime to header
-        → Delete original draft file
+
 Step 6: Confirm completion
+        → Show which file(s) were moved
+        → Show which file(s) remain in drafts (if any)
+
 Step 7: Show series status if applicable
 ```
 
@@ -49,7 +77,7 @@ When user asks about a series ("ver serie X", "status de serie X"):
 
 ```
 → List all tweets in that series folder
-→ Show which are draft vs published
+→ Show which are draft vs published (by language)
 → Show publishing order
 → Suggest next tweet to publish
 ```
@@ -73,14 +101,21 @@ tweets/
 ├── drafts/
 │   ├── series/
 │   │   └── [series-name]/
-│   │       ├── 01-topic.md
-│   │       ├── 02-topic.md
+│   │       ├── 01-topic-en.md
+│   │       ├── 01-topic-es.md
+│   │       ├── 02-topic-en.md
+│   │       ├── 02-topic-es.md
 │   │       └── ...
-│   └── YYYY-MM-DD-topic.md      # Standalone
+│   ├── YYYY-MM-DD-topic-en.md      # Standalone English
+│   └── YYYY-MM-DD-topic-es.md      # Standalone Spanish
 │
 └── published/
-    └── YYYY-MM/
-        └── YYYY-MM-DD-topic.md
+    ├── en/                          # English content
+    │   └── YYYY-MM/
+    │       └── YYYY-MM-DD-topic.md
+    └── es/                          # Spanish content
+        └── YYYY-MM/
+            └── YYYY-MM-DD-topic.md
 ```
 
 ---
@@ -123,16 +158,21 @@ tweets/
 When showing drafts or series:
 
 ```
-## Drafts (5 total)
+## Drafts
 
-### Series: empleo-vs-esclavitud (4 drafts)
-  02-las-10pm.md        | Spanish | 2026-01-06
-  03-lo-que-entregas.md | Spanish | 2026-01-06
-  04-propiedad.md       | Spanish | 2026-01-06
-  05-esclavo-voluntario.md | Spanish | 2026-01-06
+### Series: empleo-vs-esclavitud
 
-### Standalone (1 draft)
-  2026-01-06-otro-tema.md | English | 2026-01-06
+| # | Topic | 🇺🇸 EN | 🇪🇸 ES |
+|---|-------|--------|--------|
+| 01 | la-linea | draft | published |
+| 02 | las-10pm | draft | draft |
+| 03 | lo-que-entregas | draft | draft |
+
+### Standalone
+
+| Topic | 🇺🇸 EN | 🇪🇸 ES | Created |
+|-------|--------|--------|---------|
+| nuevo-tema | draft | draft | 2026-01-06 |
 ```
 
 ---
@@ -144,9 +184,24 @@ After successful publish, show:
 ```
 ✓ Tweet published
 
-  File: tweets/published/2026-01/2026-01-06-la-linea.md
-  Time: 2026-01-06 12:30:06
+  🇪🇸 Spanish:
+     → tweets/published/es/2026-01/2026-01-06-la-linea.md
+     → Published: 2026-01-06 12:30:06
 
-  Series "empleo-vs-esclavitud": 1/5 published
-  Next: 02-las-10pm.md
+  🇺🇸 English:
+     → Remains in drafts (not published yet)
+
+  Series "empleo-vs-esclavitud":
+     🇪🇸 ES: 1/5 published
+     🇺🇸 EN: 0/5 published
 ```
+
+---
+
+## Language Selection Quick Reference
+
+| User says | Action |
+|-----------|--------|
+| "solo español" / "only spanish" | Move only -es.md |
+| "solo inglés" / "only english" | Move only -en.md |
+| "ambos" / "both" | Move both files |

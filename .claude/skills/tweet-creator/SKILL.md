@@ -87,14 +87,34 @@ Step 5: PRESENT OPTIONS
         → User picks favorite concept or requests adjustments
         → Iterate until satisfied
 
-Step 6: SAVE DRAFTS
-        → Save BOTH versions as separate files:
-          - tweets/drafts/YYYY-MM-DD-topic-en.md
-          - tweets/drafts/YYYY-MM-DD-topic-es.md
-        → Or for series:
-          - tweets/drafts/series/[name]/NN-topic-en.md
-          - tweets/drafts/series/[name]/NN-topic-es.md
-        → Confirm both files created
+Step 6: ASK WHERE TO SAVE
+        → "¿Dónde guardo este tweet?"
+        → Options:
+          a) 📄 Standalone (suelto en drafts/)
+          b) 📁 Serie existente: [list available series folders]
+          c) 🆕 Nueva serie (crear carpeta nueva)
+
+        If STANDALONE:
+          → Save to tweets/drafts/YYYY-MM-DD-topic-en.md
+          → Save to tweets/drafts/YYYY-MM-DD-topic-es.md
+
+        If EXISTING SERIES:
+          → List series in tweets/drafts/series/
+          → User picks one
+          → Get next number (NN) based on existing files
+          → Save to tweets/drafts/series/[name]/NN-topic-en.md
+          → Save to tweets/drafts/series/[name]/NN-topic-es.md
+
+        If NEW SERIES:
+          → Ask for series name (kebab-case)
+          → Create folder: tweets/drafts/series/[new-name]/
+          → Save to tweets/drafts/series/[new-name]/01-topic-en.md
+          → Save to tweets/drafts/series/[new-name]/01-topic-es.md
+
+Step 7: CONFIRM
+        → Show files created
+        → Show location
+        → If series, show series status (X drafts)
 ```
 
 ---
