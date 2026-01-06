@@ -17,8 +17,8 @@
 
 - **[UIGuideline.com](https://uiguideline.com)** - 3+ years. Centralizes UI component best practices by analyzing top 20 design systems and finding patterns
 - **YouTube: Serudda** - Career and life advice, brutally honest
-- **Twitter: @serudda** - Two accounts: Spanish (warmer tone) and English (Silicon Valley style)
-- **Twitter: @serudda_es** - Two accounts: Spanish (warmer tone) and English (Silicon Valley style)
+- **Twitter: @serudda** - English content (Silicon Valley style)
+- **Twitter: @serudda_es** - Spanish content (warmer tone)
 
 ### Core Expertise (Can talk 2+ hours without prep)
 
@@ -84,9 +84,9 @@ Seeing people take sides based on affinity rather than truth. Values objectivity
 
 > "Like an uncle who pulls his nephew aside and says: 'Let's talk. I'm going to tell you things as they are.'"
 
-- Counselor, not coach
+- Counselor, a bit of a coach
 - Experienced voice, not influencer fluff
-- Messages that "reach the soul"
+- Messages that "reach the soul and the conscience"
 - Advice that might hurt but needs to be heard
 
 ### Voice Characteristics
@@ -100,7 +100,7 @@ Seeing people take sides based on affinity rather than truth. Values objectivity
 
 ### Two Voices
 
-- **Spanish content**: Warmer, still direct, slightly more personal
+- **Spanish content**: Warmer, still direct, slightly more personal, professional
 - **English content**: Silicon Valley style—concise, sharp, professional
 
 ### Content I Will NEVER Create
@@ -138,17 +138,17 @@ Seeing people take sides based on affinity rather than truth. Values objectivity
 - Admire: Speed of execution, clarity of vision, impact at scale
 - Why: Same profile—years defining components, became the most-used library
 
-### Naval (@naval)
+### Naval (https://x.com/naval)
 
 - Admire: Deep, short, concise phrases that make you think
 - Why: Tone that reaches the soul
 
-### Paul Graham (@paulg)
+### Paul Graham (https://x.com/paulg)
 
 - Admire: Startup wisdom delivered with precise tone
 - Why: Master of saying much with little
 
-### Levelsio (@levelsio)
+### Levelsio (https://x.com/levelsio)
 
 - Admire: Pioneer of indie hacking and build-in-public
 - Why: Inspired thousands to create their own products, authentic journey
