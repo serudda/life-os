@@ -1,76 +1,152 @@
 ---
 name: tweet-publisher
-description: Creates and formats tweets in Sergio's voice. Use when drafting tweets, threads, or social media posts. Channels Naval, Paul Graham, and Levelsio style.
+description: Manages tweet drafts and publishing workflow. Use when listing drafts, publishing tweets, reviewing series, or organizing tweet files. Does NOT create content (use tweet-creator for that).
 ---
 
 # Tweet Publisher
 
-## Identity Context
+## Purpose
 
-Always read @../../../IDENTITY.md first. Sergio's voice is direct, dense, and challenges norms.
+Manage the operational workflow: list drafts, publish tweets, organize files, track series.
 
-## Core Principles
+---
 
-1. **Density over length** - Every word must earn its place
-2. **Challenge over comfort** - Say what others won't
-3. **Experience over theory** - 15+ years of real lessons
-4. **Binary clarity** - Black or white, no wishy-washy
+## Workflow Commands
 
-## Tweet Constraints
+### 1. List Drafts
 
-- Maximum 280 characters
-- No hashtag spam (0-1 max)
-- No emojis unless absolutely necessary
-- No "Good morning Twitter" fluff
-
-## Effective Patterns
+When user asks "ver drafts", "mis tweets pendientes", "show drafts":
 
 ```
-Reframing:
-"X is not Y. X is Z."
-Example: "A job is not security. A job is trading time for someone else's dream."
-
-Challenging norms:
-"Everyone does X. That's the problem."
-Example: "Everyone optimizes their resume. That's the problem. Optimize your skills instead."
-
-Hard-earned wisdom:
-"I spent [X years] learning: [insight]"
-Example: "I spent 15 years learning: your employer is not your family. Act accordingly."
-
-Uncomfortable truth:
-"Unpopular opinion: [truth]"
-Example: "Unpopular opinion: most meetings are just theater for people who don't know what to do."
+→ List all files in tweets/drafts/ (including series subfolders)
+→ Show: title, language, created date
+→ Group by series if applicable
+→ Show total count
 ```
 
-## Thread Structure
+### 2. Publish Tweet
 
-1. **Tweet 1**: Hook - bold claim or question that demands attention
-2. **Tweet 2-N**: Evidence - experiences, examples, reasoning
-3. **Final tweet**: Takeaway - actionable or thought-provoking close
+When user says "publish tweet [name]" or "publicar tweet [name]":
 
-## Language Variants
+```
+Step 1: Read the draft file
+Step 2: Display tweet content for final review
+Step 3: Show character count
+Step 4: Ask user to confirm they've posted to Twitter
+Step 5: Once confirmed:
+        → Get timestamp: date "+%Y-%m-%d %H:%M:%S"
+        → Create file in tweets/published/YYYY-MM/YYYY-MM-DD-topic.md
+        → Update status to "published"
+        → Add Published datetime to header
+        → Delete original draft file
+Step 6: Confirm completion
+Step 7: Show series status if applicable
+```
 
-**Spanish** (warmer, more personal):
-- Can be slightly longer in explanation
-- More conversational connectors
-- Still direct, but with "tío giving advice" warmth
+### 3. Review Series
 
-**English** (Silicon Valley sharp):
-- Tighter, more aphoristic
-- Naval/PG density
-- No warmth needed, just truth
+When user asks about a series ("ver serie X", "status de serie X"):
 
-## Quality Checklist
+```
+→ List all tweets in that series folder
+→ Show which are draft vs published
+→ Show publishing order
+→ Suggest next tweet to publish
+```
 
-Before publishing, verify:
-- [ ] Would Naval tweet this? (density check)
-- [ ] Is this from real experience or just opinion?
-- [ ] Does it challenge something people accept blindly?
-- [ ] Zero filler words?
-- [ ] Would I say this to someone's face?
+### 4. Move/Organize
 
-## File Organization
+When user wants to reorganize tweets:
 
-- Drafts: `tweets/drafts/YYYY-MM-DD-topic.md`
-- Published: `tweets/published/YYYY-MM-DD-topic.md`
+```
+→ Move between standalone and series
+→ Rename files
+→ Create new series folders
+```
+
+---
+
+## File Structure
+
+```
+tweets/
+├── drafts/
+│   ├── series/
+│   │   └── [series-name]/
+│   │       ├── 01-topic.md
+│   │       ├── 02-topic.md
+│   │       └── ...
+│   └── YYYY-MM-DD-topic.md      # Standalone
+│
+└── published/
+    └── YYYY-MM/
+        └── YYYY-MM-DD-topic.md
+```
+
+---
+
+## File Format
+
+### Draft
+
+```markdown
+# [Title]
+
+**Status**: draft
+**Language**: Spanish | English
+**Created**: YYYY-MM-DD
+
+---
+
+[Tweet content]
+```
+
+### Published
+
+```markdown
+# [Title]
+
+**Status**: published
+**Language**: Spanish | English
+**Created**: YYYY-MM-DD
+**Published**: YYYY-MM-DD HH:MM:SS
+
+---
+
+[Tweet content]
+```
+
+---
+
+## Status Display Format
+
+When showing drafts or series:
+
+```
+## Drafts (5 total)
+
+### Series: empleo-vs-esclavitud (4 drafts)
+  02-las-10pm.md        | Spanish | 2026-01-06
+  03-lo-que-entregas.md | Spanish | 2026-01-06
+  04-propiedad.md       | Spanish | 2026-01-06
+  05-esclavo-voluntario.md | Spanish | 2026-01-06
+
+### Standalone (1 draft)
+  2026-01-06-otro-tema.md | English | 2026-01-06
+```
+
+---
+
+## Publishing Confirmation
+
+After successful publish, show:
+
+```
+✓ Tweet published
+
+  File: tweets/published/2026-01/2026-01-06-la-linea.md
+  Time: 2026-01-06 12:30:06
+
+  Series "empleo-vs-esclavitud": 1/5 published
+  Next: 02-las-10pm.md
+```
