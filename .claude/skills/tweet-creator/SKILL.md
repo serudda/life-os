@@ -12,6 +12,7 @@ Transform raw ideas into dense, challenging tweets that sound authentically like
 ## Identity Context
 
 **CRITICAL**: Before creating ANY tweet, read @../../../IDENTITY.md to absorb:
+
 - Archetype: "The uncle who tells it straight"
 - Core values: Justice, honesty, reciprocal loyalty
 - Frustrations: Modern slavery illusion, injustice
@@ -42,22 +43,58 @@ Step 3: TRANSFORM (not just translate)
         → Use effective patterns if they fit naturally
         → Respect the original idea but elevate it
 
-Step 4: GENERATE OPTIONS
-        → Create 2-3 draft versions with different angles:
-          - Version A: Most direct/confrontational
-          - Version B: Question-based (engagement)
-          - Version C: Personal experience angle
-        → Show character count for each
+Step 4: GENERATE DUAL LANGUAGE OUTPUT
+        → ALWAYS create BOTH versions for each concept:
 
-Step 5: USER SELECTS
-        → User picks favorite or requests adjustments
+        🇺🇸 ENGLISH (@serudda)
+        ─────────────────────────
+        • Silicon Valley sharp, Naval/PG density
+        • Expert who masters the topic
+        • Ultra concise, cutting, no warmth needed
+        • Every word must hit hard
+        • No setup, straight to the point
+
+        🇪🇸 SPANISH (@serudda_es)
+        ─────────────────────────
+        • Tío giving advice energy
+        • Expert who masters the topic BUT warmer delivery
+        • Can be slightly more extended (still under 280)
+        • Warm connectors allowed: "Mira,", "Te lo digo claro:"
+        • Same punch at the end, but friendlier path to get there
+
+        ⚠️ CRITICAL: NOT a literal translation.
+        Same core message, DIFFERENT tone and approach.
+        English restructures to be sharper.
+        Spanish adds warmth English doesn't need.
+
+Step 5: PRESENT OPTIONS
+        → Show 2-3 concepts, each with BOTH language versions
+        → Format:
+
+          **Concept 1: [angle description]**
+
+          🇺🇸 English (XXX chars):
+          > [tweet]
+
+          🇪🇸 Spanish (XXX chars):
+          > [tweet]
+
+          ---
+
+          **Concept 2: [angle description]**
+          ...
+
+        → User picks favorite concept or requests adjustments
         → Iterate until satisfied
 
-Step 6: SAVE DRAFT
-        → Ask: standalone or part of a series?
-        → Save to tweets/drafts/YYYY-MM-DD-topic.md (standalone)
-        → Or tweets/drafts/series/[series-name]/NN-topic.md (series)
-        → Confirm file created
+Step 6: SAVE DRAFTS
+        → Save BOTH versions as separate files:
+          - tweets/drafts/YYYY-MM-DD-topic-en.md
+          - tweets/drafts/YYYY-MM-DD-topic-es.md
+        → Or for series:
+          - tweets/drafts/series/[name]/NN-topic-en.md
+          - tweets/drafts/series/[name]/NN-topic-es.md
+        → Confirm both files created
 ```
 
 ---
@@ -84,11 +121,144 @@ When transforming, ask:
 
 ---
 
+## Gold Standard Examples (Approved by Sergio)
+
+These tweets were approved and loved. Each example shows BOTH language versions with their distinct tones.
+
+---
+
+### Example 1: The Line (FAVORITE - maximum density)
+
+🇺🇸 **English** (Silicon Valley sharp):
+
+```
+A contract defines hours.
+Culture defines availability.
+
+If culture outweighs the contract, you're not an employee. You're property.
+```
+
+🇪🇸 **Spanish** (Tío giving advice):
+
+```
+Mira, un contrato define cuántas horas trabajas.
+Pero la cultura de la empresa define cuándo estás "disponible".
+
+Si la cultura pesa más que lo que firmaste, ya no eres empleado. Te convertiste en propiedad.
+```
+
+**Why it works**: Binary contrast, unexpected reframe ("property/propiedad"), challenges normalized behavior. Spanish adds "Mira" warmth and slight explanation.
+
+---
+
+### Example 2: Definition + Extension + Punchline
+
+🇺🇸 **English**:
+
+```
+A job is selling your time.
+
+Slavery is when you also sell your availability, your weekends, and your right to disconnect.
+
+If you don't know where the line is, you probably crossed it.
+```
+
+🇪🇸 **Spanish**:
+
+```
+Un empleo es vender tu tiempo. Hasta ahí, todo bien.
+
+Esclavitud es cuando además vendes tu disponibilidad, tus fines de semana, y tu derecho a desconectar.
+
+Si no sabes dónde está la línea, probablemente ya la cruzaste.
+```
+
+**Why it works**: Builds on familiar concept, extends it uncomfortably. Spanish adds "Hasta ahí, todo bien" to soften the setup before the punch.
+
+---
+
+### Example 3: Direct Question Attack
+
+🇺🇸 **English**:
+
+```
+Your boss texts you at 10pm and you feel obligated to respond?
+
+That's not commitment. That's them buying more than they agreed to pay for.
+```
+
+🇪🇸 **Spanish**:
+
+```
+¿Tu jefe te escribe a las 10pm y sientes que tienes que responder?
+
+Eso no es compromiso. Eso es que te compraron más de lo que acordaron pagarte.
+```
+
+**Why it works**: Specific situation everyone knows, immediate reframe. Both versions hit hard, Spanish slightly more conversational.
+
+---
+
+### Example 4: The Hard-Earned Wisdom
+
+🇺🇸 **English**:
+
+```
+15 years working for others taught me one thing:
+
+The problem isn't having a boss. It's not knowing when you stopped being an employee and became a voluntary slave.
+```
+
+🇪🇸 **Spanish**:
+
+```
+15 años trabajando para otros me enseñaron algo importante:
+
+El problema no es tener jefe. El problema es no saber cuándo dejaste de ser empleado y te convertiste en esclavo voluntario.
+```
+
+**Why it works**: Experience anchor, nuanced (not anti-employment). Spanish adds "algo importante" for warmth before delivering the insight.
+
+---
+
+### Example 5: Binary Definition
+
+🇺🇸 **English**:
+
+```
+Employment: trading time for money.
+
+Modern slavery: trading time, peace of mind, weekends, and identity for money.
+
+The difference is what you give away for free.
+```
+
+🇪🇸 **Spanish**:
+
+```
+Empleo: intercambias tiempo por dinero.
+
+Esclavitud moderna: intercambias tiempo, paz mental, fines de semana, y tu identidad por dinero.
+
+La diferencia está en lo que entregas sin que te lo paguen.
+```
+
+**Why it works**: Clear contrast, escalating list, insight at the end. English more cutting, Spanish flows more naturally.
+
+---
+
+## CRITICAL: Nuance to Capture
+
+Sergio is NOT anti-employment. The goal is to help people identify WHERE THE LINE IS between healthy employment and modern slavery. This nuance is essential—avoid sounding like generic "quit your job" influencer content.
+
+---
+
 ## Transformation Examples
 
 **Raw**: "Creo que la gente debería aprender a decir que no en el trabajo"
 
 **Transformed**:
+
 > Decir "sí" a todo en el trabajo no te hace comprometido.
 > Te hace reemplazable.
 >
@@ -99,6 +269,7 @@ When transforming, ask:
 **Raw**: "Me molesta cuando la gente no es directa conmigo"
 
 **Transformed**:
+
 > Prefiero que me digas que te caigo mal a que finjas que no.
 >
 > La honestidad incómoda es respeto. La amabilidad falsa es desprecio.
@@ -129,17 +300,52 @@ DIRECT QUESTION
 
 ---
 
-## Voice Variants
+## Voice Variants (CRITICAL - Read Before Writing)
 
-### Spanish (@serudda_es)
-- Warmer: "Mira,", "Te lo digo claro:"
-- "Tío giving advice" energy
-- Still dense, still direct
+### 🇺🇸 English (@serudda)
 
-### English (@serudda)
-- Silicon Valley sharp
-- Naval/PG aphoristic
-- No warmth, just truth
+**Tone**: Silicon Valley expert, Naval/PG density
+
+**Characteristics**:
+- Ultra concise, every word earns its place
+- No warm-up, straight to the point
+- Aphoristic, quotable
+- Cold precision over warmth
+- Sounds like a successful founder dropping truth
+
+**Connectors to AVOID**: "Look,", "Here's the thing,", "Let me tell you"
+
+**Style**: Statement. Truth. Done.
+
+---
+
+### 🇪🇸 Spanish (@serudda_es)
+
+**Tone**: Tío que te quiere y te dice las cosas claras
+
+**Characteristics**:
+- Same insight, warmer delivery
+- Can set up the punch (slightly longer)
+- Conversational but still dense
+- Sounds like an experienced mentor who cares
+- Relatable, not preachy
+
+**Connectors that WORK**:
+- "Mira," (calling attention)
+- "Te lo digo claro:" (being direct)
+- "Hasta ahí, todo bien." (acknowledging before challenging)
+- "La verdad es que..." (honest framing)
+
+---
+
+### Key Difference Summary
+
+| Aspect | 🇺🇸 English | 🇪🇸 Spanish |
+|--------|-------------|-------------|
+| Setup | None or minimal | Warm connector allowed |
+| Length | Shortest possible | Can be 10-15% longer |
+| Tone | Cold expert | Caring uncle |
+| Punch | Immediate | Same punch, softer path |
 
 ---
 
@@ -169,6 +375,39 @@ DIRECT QUESTION
 
 ---
 
+## Anti-Patterns (What NOT to Do)
+
+**DO NOT create content that sounds like:**
+
+```
+❌ "Aprende a valorarte" (generic self-help)
+❌ "El éxito viene de dentro" (empty motivation)
+❌ "Renuncia y sigue tu pasión" (irresponsible advice)
+❌ "Tu jefe es malo" (victimhood without insight)
+❌ "Trabaja en lo que amas" (cliché without nuance)
+❌ Starting with "En un mundo donde..." (corporate fluff)
+❌ Ending with "¿Qué opinas?" just for engagement
+❌ Lists of "5 cosas que..." without depth
+❌ Motivational quotes without personal experience
+```
+
+**Sergio's content is NOT:**
+
+- Self-help fluff
+- Anti-work propaganda
+- Victimhood narratives
+- Generic motivation
+- Engagement bait
+
+**Sergio's content IS:**
+
+- Specific observations from real experience
+- Uncomfortable truths with nuance
+- Binary clarity that makes you think
+- The uncle who cares enough to be honest
+
+---
+
 ## Quality Checklist
 
 Before saving:
@@ -179,3 +418,5 @@ Before saving:
 - [ ] Zero filler words?
 - [ ] Under 280 characters?
 - [ ] Sounds like Sergio, not generic influencer?
+- [ ] Has nuance (not black/white WITHOUT insight)?
+- [ ] Based on real experience, not theory?

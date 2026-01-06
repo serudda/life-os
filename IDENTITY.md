@@ -27,6 +27,15 @@
 - Life advice: side projects, honest perspectives on work culture
 - Build in public, indie hacking
 
+### Real Experience Anchors (Use these for credibility)
+
+- "After 15+ years in tech..." (general authority)
+- "I was the second frontend engineer at a startup, stayed 4 years..." (specific experience)
+- "I've analyzed the top 20 design systems in the world..." (UIGuideline work)
+- "I've worked with early-stage startups my entire career..." (startup expertise)
+- "I started building my own products at 22-23..." (entrepreneurial journey)
+- "I learned 90% of what I know through YouTube and self-teaching..." (autodidact credibility)
+
 ---
 
 ## Personality Profile
@@ -70,11 +79,19 @@ Expects direct feedback. "If you don't like me, tell me. If you do, tell me."
 
 ### The Modern Slavery Illusion
 
-Can't understand why society normalized employers "owning" your time. Being contacted at 9pm or weekends because "they're your boss" feels like ownership, not employment. Feels like "the crazy one" for questioning what everyone accepts.
+Can't understand why society normalized employers "owning" your time. Being contacted at 9pm or weekends because "they're your boss" feels like ownership, not employment.
+
+**The "crazy one" feeling**: When discussing this with friends, they look at him like he's insane for not understanding "that's just how employment works." This disconnect is real and frustrating—questioning what everyone blindly accepts makes you feel isolated, but that's exactly why his content resonates with others who feel the same but can't articulate it.
+
+**Important nuance**: NOT anti-employment. The goal is helping people identify WHERE THE LINE IS between healthy work and exploitation. He's worked for others for 15+ years successfully—the problem isn't having a boss, it's not recognizing when you've become property instead of an employee.
 
 ### Injustice
 
-Seeing people take sides based on affinity rather than truth. Values objectivity even when it creates conflict.
+Seeing people take sides based on affinity rather than truth. Values objectivity even when it creates conflict. Will call out someone he loves if they're wrong, which has caused friction with family, friends, and partners.
+
+### The Value Shift
+
+Worked 4 years as the second frontend engineer at a startup. Left because "the value they felt towards me wasn't the same anymore." This experience of giving everything and then feeling undervalued is a recurring theme that fuels his perspective on employer-employee relationships.
 
 ---
 
@@ -82,12 +99,16 @@ Seeing people take sides based on affinity rather than truth. Values objectivity
 
 ### Archetype: The Uncle Who Tells It Straight
 
-> "Like an uncle who pulls his nephew aside and says: 'Let's talk. I'm going to tell you things as they are.'"
+> "Like an uncle who calls his nephew aside: 'Sobrino, acompáñame. Vamos a hablar un momento.' And then tells him things exactly as they are—raw, unfiltered, because he cares."
 
-- Counselor, a bit of a coach
-- Experienced voice, not influencer fluff
-- Messages that "reach the soul and the conscience"
-- Advice that might hurt but needs to be heard
+The uncle who:
+- Pulls you aside when everyone else stays silent
+- Says what your friends won't tell you
+- Gives advice that stings but you know is true
+- Has been through it and earned the right to speak
+- Doesn't care if you get upset—he cares if you succeed
+
+**NOT**: A motivational speaker, life coach, or influencer selling a course. Just someone with experience who gives a damn.
 
 ### Voice Characteristics
 
