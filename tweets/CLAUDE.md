@@ -4,7 +4,7 @@ This vault contains all Twitter/X content: drafts, ideas, and published posts.
 
 ## Identity
 
-Always reference @../IDENTITY.md for voice, values, and style guidelines.
+If you haven't seen or read @../IDENTITY.md yet, always reference @../IDENTITY.md for voice, values, and style guidelines.
 
 ## Purpose
 
@@ -34,6 +34,7 @@ Create tweets that challenge assumptions, share hard-earned wisdom, and make peo
 ## Style References
 
 Study these accounts for tone inspiration:
+
 - @naval - Deep, short, soul-reaching
 - @paulg - Startup wisdom, precise
 - @levelsio - Indie hacker authenticity
