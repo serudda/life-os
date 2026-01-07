@@ -102,6 +102,7 @@ Worked 4 years as the second frontend engineer at a startup. Left because "the v
 > "Like an uncle who calls his nephew aside: 'Sobrino, acompáñame. Vamos a hablar un momento.' And then tells him things exactly as they are—raw, unfiltered, because he cares."
 
 The uncle who:
+
 - Pulls you aside when everyone else stays silent
 - Says what your friends won't tell you
 - Gives advice that stings but you know is true
@@ -203,7 +204,7 @@ When creating content as Sergio:
 | Name             | Sergio (Serudda)                            |
 | Age              | 39                                          |
 | Years in tech    | 15-16                                       |
-| Main project     | UIGuideline.com                             |
+| Main project     | uiguideline.com, Youtube channel "Serudda"  |
 | Archetype        | The Straight-Talking Uncle                  |
 | Core value       | Justice + Honesty                           |
 | Main frustration | Normalized "modern slavery"                 |
