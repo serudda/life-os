@@ -18,7 +18,7 @@ Manage the operational workflow: list drafts, publish tweets, organize files, tr
 When user asks "ver drafts", "mis tweets pendientes", "show drafts":
 
 ```
-→ List all files in tweets/drafts/ (including series subfolders)
+→ List all files in tweets/1_drafts/ (including series subfolders)
 → Show: title, language, created date
 → Group by series if applicable
 → Show total count
@@ -50,16 +50,16 @@ Step 5: Process based on selection:
         → Get timestamp: date "+%Y-%m-%d %H:%M:%S"
 
         If SPANISH selected:
-          → Move -es.md to tweets/published/es/YYYY-MM/YYYY-MM-DD-topic.md
-          → Keep -en.md in drafts (for future use)
+          → Move -es.md to tweets/2_published/es/YYYY-MM/YYYY-MM-DD-topic.md
+          → Keep -en.md in tweets/1_drafts (for future use)
 
         If ENGLISH selected:
-          → Move -en.md to tweets/published/en/YYYY-MM/YYYY-MM-DD-topic.md
-          → Keep -es.md in drafts (for future use)
+          → Move -en.md to tweets/2_published/en/YYYY-MM/YYYY-MM-DD-topic.md
+          → Keep -es.md in tweets/1_drafts (for future use)
 
         If BOTH selected:
-          → Move -es.md to tweets/published/es/YYYY-MM/YYYY-MM-DD-topic.md
-          → Move -en.md to tweets/published/en/YYYY-MM/YYYY-MM-DD-topic.md
+          → Move -es.md to tweets/2_published/es/YYYY-MM/YYYY-MM-DD-topic.md
+          → Move -en.md to tweets/2_published/en/YYYY-MM/YYYY-MM-DD-topic.md
 
         → Update status to "published" in moved file(s)
         → Add Published datetime to header
@@ -98,7 +98,7 @@ When user wants to reorganize tweets:
 
 ```
 tweets/
-├── drafts/
+├── 1_drafts/
 │   ├── series/
 │   │   └── [series-name]/
 │   │       ├── 01-topic-en.md
@@ -109,7 +109,7 @@ tweets/
 │   ├── YYYY-MM-DD-topic-en.md      # Standalone English
 │   └── YYYY-MM-DD-topic-es.md      # Standalone Spanish
 │
-└── published/
+└── 2_published/
     ├── en/                          # English content
     │   └── YYYY-MM/
     │       └── YYYY-MM-DD-topic.md
@@ -185,7 +185,7 @@ After successful publish, show:
 ✓ Tweet published
 
   🇪🇸 Spanish:
-     → tweets/published/es/2026-01/2026-01-06-la-linea.md
+     → tweets/2_published/es/2026-01/2026-01-06-la-linea.md
      → Published: 2026-01-06 12:30:06
 
   🇺🇸 English:

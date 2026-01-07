@@ -32,7 +32,7 @@ This skill operates in two modes depending on the input:
 **Use for**: Complex threads (4+ tweets) that need depth and storytelling.
 
 **How to detect**:
-- If input contains a file path (e.g., `writing/drafts/interviews/...`) → Thread Mode
+- If input contains a file path (e.g., `writing/0_interviews/...`) → Thread Mode
 - If input is just text/idea → Quick Mode
 
 ---
@@ -118,26 +118,26 @@ Step 5: PRESENT OPTIONS
 Step 6: ASK WHERE TO SAVE
         → "¿Dónde guardo este tweet?"
         → Options:
-          a) 📄 Standalone (suelto en drafts/)
+          a) 📄 Standalone (suelto en 1_drafts/)
           b) 📁 Serie existente: [list available series folders]
           c) 🆕 Nueva serie (crear carpeta nueva)
 
         If STANDALONE:
-          → Save to tweets/drafts/YYYY-MM-DD-topic-en.md
-          → Save to tweets/drafts/YYYY-MM-DD-topic-es.md
+          → Save to tweets/1_drafts/YYYY-MM-DD-topic-en.md
+          → Save to tweets/1_drafts/YYYY-MM-DD-topic-es.md
 
         If EXISTING SERIES:
-          → List series in tweets/drafts/series/
+          → List series in tweets/1_drafts/series/
           → User picks one
           → Get next number (NN) based on existing files
-          → Save to tweets/drafts/series/[name]/NN-topic-en.md
-          → Save to tweets/drafts/series/[name]/NN-topic-es.md
+          → Save to tweets/1_drafts/series/[name]/NN-topic-en.md
+          → Save to tweets/1_drafts/series/[name]/NN-topic-es.md
 
         If NEW SERIES:
           → Ask for series name (kebab-case)
-          → Create folder: tweets/drafts/series/[new-name]/
-          → Save to tweets/drafts/series/[new-name]/01-topic-en.md
-          → Save to tweets/drafts/series/[new-name]/01-topic-es.md
+          → Create folder: tweets/1_drafts/series/[new-name]/
+          → Save to tweets/1_drafts/series/[new-name]/01-topic-en.md
+          → Save to tweets/1_drafts/series/[new-name]/01-topic-es.md
 
 Step 7: CONFIRM
         → Show files created
@@ -214,8 +214,8 @@ Step 6: DUAL LANGUAGE (if requested)
           - Spanish: Warmer, tío energy
 
 Step 7: SAVE
-        → Save to tweets/drafts/YYYY-MM-DD-thread-topic-en.md
-        → Save to tweets/drafts/YYYY-MM-DD-thread-topic-es.md
+        → Save to tweets/1_drafts/YYYY-MM-DD-thread-topic-en.md
+        → Save to tweets/1_drafts/YYYY-MM-DD-thread-topic-es.md
         → Include source interview in metadata
 ```
 

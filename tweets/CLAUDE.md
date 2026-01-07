@@ -12,9 +12,24 @@ Create tweets that challenge assumptions, share hard-earned wisdom, and make peo
 
 ## Workflow
 
-1. Draft ideas in `drafts/`
-2. Refine with the `tweet-publisher` skill
-3. Move to `published/` after posting
+1. Draft ideas in `tweets/1_drafts/`
+2. Refine with the `tweet-creator` skill
+3. Publish with `tweet-publisher` skill
+4. Move to `tweets/2_published/` after posting
+
+## Folder Structure
+
+```
+tweets/
+├── 1_drafts/         # Work in progress tweets
+│   └── series/       # Tweet series folders
+├── 2_published/      # Posted tweets
+│   ├── en/           # English posts by month
+│   └── es/           # Spanish posts by month
+└── CLAUDE.md         # This file
+```
+
+The numeric prefixes show the content pipeline flow visually.
 
 ## Content Types
 

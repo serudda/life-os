@@ -1,6 +1,6 @@
 ---
 name: post-builder
-description: Transforms interview documents into polished post drafts. Use after content-interview has extracted the raw material. Builds section by section for longer posts, delivers complete drafts for short ones.
+description: Transforms interview documents into polished post drafts. Use when the user wants to build/create/write a post from an interview, references an interview file and asks to create content, or says "construir post", "crear post", "build post", "escribe el post". Builds section by section for longer posts, delivers complete drafts for short ones.
 ---
 
 # Post Builder
@@ -192,7 +192,7 @@ Before presenting ANY section or draft, verify:
 
 ## Output Format
 
-Save drafts to `writing/drafts/` with format: `YYYY-MM-DD-slug.md`
+Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
 
 ### Standard Format (Nugget, Estándar, Deep Dive, Guía)
 

@@ -105,5 +105,5 @@ Before publishing:
 
 ## File Organization
 
-- Drafts: `writing/drafts/YYYY-MM-DD-title.md`
-- Published: `writing/published/YYYY-MM-DD-title.md`
+- Drafts: `writing/1_drafts/YYYY-MM-DD-title.md`
+- Published: `writing/2_published/YYYY-MM-DD-title.md`

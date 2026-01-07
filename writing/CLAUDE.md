@@ -27,7 +27,7 @@ Creating a post follows a clear pipeline. Each phase has its own skill:
 ### Phase 1: Content Interview
 **Skill**: `content-interview`
 **Input**: Raw idea, fragment, notes, anything
-**Output**: Structured Q&A document in `drafts/interviews/`
+**Output**: Structured Q&A document in `writing/0_interviews/`
 
 The interview extracts:
 - Central idea in one sentence
@@ -39,7 +39,7 @@ The interview extracts:
 ### Phase 2: Post Builder
 **Skill**: `post-builder`
 **Input**: Interview document + IDENTITY.md
-**Output**: Draft V1 in `drafts/`
+**Output**: Draft V1 in `writing/1_drafts/`
 
 Transforms the interview material into a structured post using the Atomic Structure framework. Delivers complete drafts for short posts, builds section-by-section for longer ones.
 
@@ -56,12 +56,13 @@ For when you have content that just needs final touches.
 
 ```
 writing/
-├── drafts/
-│   ├── interviews/     # Output from content-interview
-│   └── [posts]         # Work in progress
-├── published/          # Final versions
-└── CLAUDE.md           # This file
+├── 0_interviews/     # Output from content-interview
+├── 1_drafts/         # Work in progress posts
+├── 2_published/      # Final versions
+└── CLAUDE.md         # This file
 ```
+
+The numeric prefixes show the content pipeline flow visually.
 
 ---
 

@@ -77,7 +77,7 @@ When you have enough material (usually after 4-8 exchanges), compile everything 
 
 ## Output Format
 
-The final deliverable is a structured document. Save it as a markdown file in `writing/drafts/interviews/`:
+The final deliverable is a structured document. Save it as a markdown file in `writing/0_interviews/`:
 
 ```markdown
 # Interview: [Topic/Working Title]
