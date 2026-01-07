@@ -1,51 +1,104 @@
 # Writing Vault
 
-This vault contains all long-form content: newsletter posts, blog articles, and essays.
+Long-form content: newsletters, blog posts, essays.
 
 ## Identity
 
-Always reference @../IDENTITY.md for voice, values, and style guidelines.
+Always read @../IDENTITY.md first. Sergio writes as "the uncle who tells it straight"—caring but unfiltered.
 
-## Purpose
+---
 
-Create content that opens eyes, challenges norms, and delivers wisdom from 15+ years of real experience. Be the straight-talking uncle in written form.
+## The Content Pipeline
 
-## Workflow
+Creating a post follows a clear pipeline. Each phase has its own skill:
 
-1. Draft ideas in `drafts/`
-2. Refine with the `newsletter-formatter` skill
-3. Move to `published/` after publishing
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   IDEA/FRAGMENT ──► CONTENT-INTERVIEW ──► POST-BUILDER ──► PUBLISHED
+│                           │                    │                │
+│                           ▼                    ▼                │
+│                      Interview Doc        Draft V1              │
+│                    (Q&A structured)    (Ready to review)        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-## Content Types
+### Phase 1: Content Interview
+**Skill**: `content-interview`
+**Input**: Raw idea, fragment, notes, anything
+**Output**: Structured Q&A document in `drafts/interviews/`
 
-- **Newsletter issues** - Regular insights for the community
-- **Blog posts** - Evergreen career and life wisdom
-- **Essays** - Deep explorations of uncomfortable truths
+The interview extracts:
+- Central idea in one sentence
+- Target audience
+- Personal story that anchors it
+- Why it matters emotionally
+- Key points and raw quotes
 
-## Voice & Tone
+### Phase 2: Post Builder
+**Skill**: `post-builder` (pending)
+**Input**: Interview document
+**Output**: Draft V1 in `drafts/`
 
-- Dense writing: every paragraph must carry weight
-- Direct and unfiltered, but coming from care
-- Real stories and experiences, not theory
-- Challenge what the industry normalizes
-- Spanish: warmer, more personal connection
-- English: tighter, Silicon Valley professional
+Transforms the interview material into a structured post following the handbook guidelines.
 
-## Content Themes
+### Phase 3: Formatting (Optional)
+**Skill**: `newsletter-formatter`
+**Input**: Draft needing polish
+**Output**: Final formatted version
 
-Based on expertise and values:
+For when you have content that just needs final touches.
+
+---
+
+## Folder Structure
+
+```
+writing/
+├── drafts/
+│   ├── interviews/     # Output from content-interview
+│   └── [posts]         # Work in progress
+├── published/          # Final versions
+└── CLAUDE.md           # This file
+```
+
+---
+
+## Core Principles (Never Change)
+
+1. **Every paragraph earns its place** - No filler
+2. **Real experience > generic advice** - 15+ years of stories
+3. **Challenge what everyone accepts** - Question normalized behaviors
+4. **Specifics over abstractions** - Names, numbers, situations
+5. **His ideas, organized by AI** - Extract, never generate
+
+---
+
+## Content Themes (From Expertise)
+
 - Career growth without selling your soul
 - The "modern slavery" of employment culture
-- Building products as an indie creator
-- UI/UX wisdom from years of pattern recognition
-- Honest advice that might hurt but helps
+- Indie hacking and building products
+- UI/UX wisdom from pattern recognition
+- Salary negotiation and knowing your worth
+- Adapting to AI without losing yourself
 
-## Structure Guidelines
+---
 
-1. **Hook** - Start with tension, a question, or a bold statement
-2. **Context** - Brief setup, not lengthy backstory
-3. **Meat** - The insights, dense and valuable
-4. **Close** - Actionable takeaway or provocative question
+## Voice by Language
+
+**Spanish:**
+- Warmer, conversational
+- Natural interjections: "Mira," "Te lo digo claro,"
+- Still dense, but with warmth
+
+**English:**
+- Tighter, aphoristic
+- Naval/PG influence
+- Clarity over warmth
+
+---
 
 ## What NOT To Do
 
@@ -53,3 +106,4 @@ Based on expertise and values:
 - No generic advice everyone gives
 - No sugarcoating to be likeable
 - No "10 tips" listicles without substance
+- No AI-generated ideas—only AI-organized ideas
