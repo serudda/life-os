@@ -7,7 +7,35 @@ description: Transforms raw ideas into polished tweet drafts in Sergio's voice. 
 
 ## Purpose
 
-Transform raw ideas into dense, challenging tweets that sound authentically like Sergio.
+Transform raw ideas into dense, challenging tweets that sound authentically like Sergio. Handles both simple tweets and complex threads.
+
+---
+
+## Two Modes of Operation
+
+This skill operates in two modes depending on the input:
+
+### Mode 1: Quick Mode (Simple Ideas)
+
+**Trigger**: User shares a raw idea, draft, or quick thought.
+
+**Flow**: Absorb → Transform → Generate → Save
+
+**Use for**: Single tweets, short reactions, quick insights.
+
+### Mode 2: Thread Mode (From Interview)
+
+**Trigger**: User provides a path to an interview document from content-interview.
+
+**Flow**: Read interview → Build thread structure → Generate tweets → Save
+
+**Use for**: Complex threads (4+ tweets) that need depth and storytelling.
+
+**How to detect**:
+- If input contains a file path (e.g., `writing/drafts/interviews/...`) → Thread Mode
+- If input is just text/idea → Quick Mode
+
+---
 
 ## Identity Context
 
@@ -115,6 +143,126 @@ Step 7: CONFIRM
         → Show files created
         → Show location
         → If series, show series status (X drafts)
+```
+
+---
+
+## Thread Mode Workflow (From Interview)
+
+When user provides an interview document path, switch to Thread Mode:
+
+```
+Step 1: READ SOURCES
+        → Read @../../../IDENTITY.md
+        → Read the interview document completely
+        → Identify: Post Type, central idea, golden quotes, emotional peaks
+
+Step 2: VALIDATE POST TYPE
+        → Check interview's "Post Type" field
+        → If it's "Micro-Hilo" (200-400 words) → proceed
+        → If it's another type → warn user and ask if they want a thread anyway
+
+Step 3: BUILD THREAD STRUCTURE
+        → Map the Atomic Structure to tweets:
+
+        Tweet 1: THE HOOK
+        └── Must grab attention immediately
+        └── Use strongest punchline or provocative reframe
+        └── This determines if people read the rest
+
+        Tweet 2-3: THE TENSION + AUTHORITY
+        └── Present the problem/gap
+        └── Establish why you can speak on this (experience)
+
+        Tweet 4-5: THE PIVOT + MEAT
+        └── The insight, the reframe
+        └── Use stories/examples from interview
+
+        Tweet 6+: THE PUNCHLINE + CLOSE
+        └── T-shirt worthy line
+        └── CTA or invitation
+
+        → Adjust number of tweets based on content depth
+        → Minimum 4 tweets, maximum 10 for most threads
+
+Step 4: GENERATE THREAD
+        → Write each tweet respecting 280 char limit
+        → Use Golden Quotes verbatim when powerful
+        → Apply the 3 Golden Rules:
+          1. Write for ONE person
+          2. Be Specific, Not Romantic (friend tone)
+          3. Short sentence after long explanation
+
+Step 5: PRESENT FOR REVIEW
+        → Show complete thread with format:
+
+        ## Tweet 1 (XXX chars)
+        [content]
+
+        ## Tweet 2 (XXX chars)
+        [content]
+
+        ...
+
+        → Ask: "¿Este hilo captura lo que querías transmitir?"
+        → If weak sections → ask targeted questions for more material
+
+Step 6: DUAL LANGUAGE (if requested)
+        → Generate both EN and ES versions
+        → Same rules as single tweets:
+          - English: Sharp, Naval/PG density
+          - Spanish: Warmer, tío energy
+
+Step 7: SAVE
+        → Save to tweets/drafts/YYYY-MM-DD-thread-topic-en.md
+        → Save to tweets/drafts/YYYY-MM-DD-thread-topic-es.md
+        → Include source interview in metadata
+```
+
+### Thread-Specific Rules
+
+1. **First tweet is everything** - If the hook doesn't grab, no one reads tweet 2
+2. **Each tweet must stand alone** - Readable without context, but better with it
+3. **No "1/" or "Thread:" prefixes** - Outdated, clutters the hook
+4. **End with punch, not whimper** - Last tweet should hit hard + CTA
+5. **280 chars is HARD LIMIT** - No exceptions, ever
+6. **Use line breaks** - Within tweets for readability
+
+### Thread Output Format
+
+```markdown
+# [Thread Title]
+
+**Status**: draft
+**Language**: Spanish | English
+**Source Interview**: [path to interview]
+**Created**: YYYY-MM-DD
+
+---
+
+## Tweet 1 (XXX chars)
+
+[First tweet - THE HOOK]
+
+## Tweet 2 (XXX chars)
+
+[Second tweet]
+
+## Tweet 3 (XXX chars)
+
+[Third tweet]
+
+## Tweet 4 (XXX chars)
+
+[Continue as needed...]
+
+---
+
+## Metadata
+
+- **Tweet Count**: X tweets
+- **Total Characters**: XXX chars
+- **Estimated Read Time**: < 1 min
 ```
 
 ---
