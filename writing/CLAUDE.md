@@ -37,11 +37,11 @@ The interview extracts:
 - Key points and raw quotes
 
 ### Phase 2: Post Builder
-**Skill**: `post-builder` (pending)
-**Input**: Interview document
+**Skill**: `post-builder`
+**Input**: Interview document + IDENTITY.md
 **Output**: Draft V1 in `drafts/`
 
-Transforms the interview material into a structured post following the handbook guidelines.
+Transforms the interview material into a structured post using the Atomic Structure framework. Delivers complete drafts for short posts, builds section-by-section for longer ones.
 
 ### Phase 3: Formatting (Optional)
 **Skill**: `newsletter-formatter`
