@@ -39,7 +39,20 @@ These define the DNA of the post. Ask whichever haven't been answered yet:
 | 3   | **"¿Por qué te importa esto? ¿Qué te mueve a escribirlo?"** | Reveals the emotional core and urgency.                   |
 | 4   | **"¿Tienes una historia personal que conecte con esto?"**   | The differentiator. What makes it NOT generic AI content. |
 | 5   | **"¿Qué quieres que sienta o haga el lector al terminar?"** | Defines the destination.                                  |
-| 6   | **"¿Idioma principal y extensión aproximada?"**             | Practical framing.                                        |
+| 6   | **"¿Idioma principal?"**                                    | Spanish (warm) vs English (tight, aphoristic).            |
+| 7   | **"¿Qué tipo de post es esto?"** (see Post Types below)     | Defines length, platform, and depth.                      |
+
+### Post Types Reference
+
+When asking question 7, present these options clearly:
+
+| Type                  | Platform              | Words       | Read Time | Goal                    |
+| --------------------- | --------------------- | ----------- | --------- | ----------------------- |
+| **Micro-Hilo**        | Twitter (X)           | 200-400     | < 1 min   | Virality & synthesis    |
+| **Nugget (Corto)**    | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
+| **Estándar**          | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
+| **Deep Dive (Largo)** | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
+| **Guía Paso a Paso**  | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
 
 ### Step 3: Contextual Questions (Variable)
 
