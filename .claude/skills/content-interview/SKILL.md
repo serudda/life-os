@@ -18,6 +18,7 @@ Think of yourself as a skilled journalist or documentary filmmaker: you ask the 
 3. **Follow the energy** - When something sparks, dig deeper there
 4. **Comfortable silence** - Don't fill gaps with your own content; ask another question instead
 5. **No judgment** - Create space for controversial or uncomfortable opinions
+6. **Capture the raw gold** - When he says something visceral or powerful, preserve those EXACT words as punchlines. Don't paraphrase what makes his voice unique.
 
 ---
 
@@ -31,29 +32,29 @@ The user shares something: an idea, a fragment, notes, a rant, a question, anyth
 
 These define the DNA of the post. Ask whichever haven't been answered yet:
 
-| # | Question | Purpose |
-|---|----------|---------|
-| 1 | **"¿Cuál es la idea central en una frase?"** | The anchor. Without this, there's no post. |
-| 2 | **"¿A quién le estás hablando específicamente?"** | Changes everything: tone, examples, depth. |
-| 3 | **"¿Por qué te importa esto? ¿Qué te mueve a escribirlo?"** | Reveals the emotional core and urgency. |
-| 4 | **"¿Tienes una historia personal que conecte con esto?"** | The differentiator. What makes it NOT generic AI content. |
-| 5 | **"¿Qué quieres que sienta o haga el lector al terminar?"** | Defines the destination. |
-| 6 | **"¿Idioma principal y extensión aproximada?"** | Practical framing. |
+| #   | Question                                                    | Purpose                                                   |
+| --- | ----------------------------------------------------------- | --------------------------------------------------------- |
+| 1   | **"¿Cuál es la idea central en una frase?"**                | The anchor. Without this, there's no post.                |
+| 2   | **"¿A quién le estás hablando específicamente?"**           | Changes everything: tone, examples, depth.                |
+| 3   | **"¿Por qué te importa esto? ¿Qué te mueve a escribirlo?"** | Reveals the emotional core and urgency.                   |
+| 4   | **"¿Tienes una historia personal que conecte con esto?"**   | The differentiator. What makes it NOT generic AI content. |
+| 5   | **"¿Qué quieres que sienta o haga el lector al terminar?"** | Defines the destination.                                  |
+| 6   | **"¿Idioma principal y extensión aproximada?"**             | Practical framing.                                        |
 
 ### Step 3: Contextual Questions (Variable)
 
 Based on what the user shares, ask follow-up questions:
 
-| If you detect... | Ask... |
-|------------------|--------|
-| Abstract idea without example | "Dame un caso concreto donde viviste o viste esto." |
-| Frustration without depth | "¿Qué es lo que más te molesta de esto específicamente?" |
-| Story without details | "¿Qué dijeron exactamente? ¿Cómo te sentiste en ese momento?" |
-| Opinion without contrast | "¿Qué dice la mayoría sobre esto? ¿Por qué crees que están equivocados?" |
-| Advice without origin | "¿Cuándo aprendiste esto? ¿Qué te costó no saberlo antes?" |
-| Too broad/dispersed | "Si tuvieras que quedarte con UNA cosa que quieres que recuerden, ¿cuál sería?" |
-| Surface-level answer | "Profundiza un poco más en eso. ¿Qué hay detrás?" |
-| Interesting tangent | "Eso que mencionaste sobre X... cuéntame más." |
+| If you detect...              | Ask...                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| Abstract idea without example | "Dame un caso concreto donde viviste o viste esto."                             |
+| Frustration without depth     | "¿Qué es lo que más te molesta de esto específicamente?"                        |
+| Story without details         | "¿Qué dijeron exactamente? ¿Cómo te sentiste en ese momento?"                   |
+| Opinion without contrast      | "¿Qué dice la mayoría sobre esto? ¿Por qué crees que están equivocados?"        |
+| Advice without origin         | "¿Cuándo aprendiste esto? ¿Qué te costó no saberlo antes?"                      |
+| Too broad/dispersed           | "Si tuvieras que quedarte con UNA cosa que quieres que recuerden, ¿cuál sería?" |
+| Surface-level answer          | "Profundiza un poco más en eso. ¿Qué hay detrás?"                               |
+| Interesting tangent           | "Eso que mencionaste sobre X... cuéntame más."                                  |
 
 ### Step 4: Compile the Interview Document
 
@@ -74,52 +75,63 @@ The final deliverable is a structured document. Save it as a markdown file in `w
 
 ---
 
-## Core Answers
+## Interview Transcript
 
-### Idea Central
-[One clear sentence]
+For each question asked during the interview, document:
 
-### Audiencia
-[Who specifically]
+### Question 1: [The exact question you asked]
 
-### Por qué importa
-[The emotional driver]
+**Punchline**: "[The most powerful phrase from his answer, in HIS EXACT WORDS. This is gold—don't paraphrase.]"
+**Idea captada**: [Your summary/interpretation of what he meant. This is your understanding.]
 
-### Historia Personal
-[The anchor story/experience]
+### Question 2: [Next question]
 
-### Objetivo del Lector
-[What they should feel/do after reading]
+**Punchline**: "[His exact words]"
+**Idea captada**: [Your interpretation]
+
+### Question 3: [Next question]
+
+**Punchline**: "[His exact words]"
+**Idea captada**: [Your interpretation]
+
+[Continue for all questions asked...]
 
 ---
 
-## Raw Material
+## Final Synthesis
 
-### Key Points Extracted
-- [Point 1]
-- [Point 2]
-- [Point 3]
-- ...
+### Anchor Story
 
-### Quotes & Phrases Worth Keeping
-> "[Direct quote from the interview that captures voice]"
-> "[Another powerful phrase]"
+The main personal story that will ground the post. Describe it with enough detail that the post-builder can use it as the emotional backbone of the content.
 
 ### Stories & Examples
-1. [Story/example 1 - brief description]
-2. [Story/example 2]
 
-### Contrarian Views
-- [Opinion that challenges conventional wisdom]
+Anecdotes, metaphors, or concrete examples he shared during the interview. These humanize the post and make abstract ideas tangible. Include enough context so the post-builder can expand them.
+
+1. **[Story name/label]** - [Description with key details]
+2. **[Example name]** - [Description]
 
 ### Emotional Peaks
-- [Moments of frustration, passion, conviction that came through]
 
----
+Moments during the interview where frustration, passion, conviction, or vulnerability came through strongly. These signal what REALLY matters to him and should be emphasized in the post.
 
-## Notes for Post-Builder
+- **[Emotion]**: [What triggered it and what he said/expressed]
+- **[Emotion]**: [Context and expression]
 
-[Any observations about tone, structure suggestions, or things to emphasize when building the actual post]
+### Golden Quotes
+
+Direct phrases that capture his voice perfectly and could be used verbatim in the post. These are the lines that would feel wrong to paraphrase.
+
+> "[Quote 1]"
+> "[Quote 2]"
+> "[Quote 3]"
+
+### Notes for Post-Builder
+
+Observations about tone, structure suggestions, what to include/exclude, potential hooks, or anything else that will help build the post effectively.
+
+- [Note 1]
+- [Note 2]
 ```
 
 ---
@@ -138,12 +150,15 @@ The final deliverable is a structured document. Save it as a markdown file in `w
 ## Signals to End the Interview
 
 You have enough when:
+
 - [ ] The central idea is crystal clear
-- [ ] There's at least one personal story/experience
+- [ ] There's at least one personal story/experience (Anchor Story)
 - [ ] You understand why this matters to him emotionally
 - [ ] You have 3-5 concrete points or examples
 - [ ] The target audience is defined
-- [ ] You captured some direct phrases in his voice
+- [ ] You captured punchlines in HIS EXACT WORDS for each question
+- [ ] You identified at least 2-3 emotional peaks
+- [ ] You have quotes that would feel wrong to paraphrase
 
 ---
 
