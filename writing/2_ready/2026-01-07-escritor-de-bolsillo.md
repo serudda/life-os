@@ -12,7 +12,7 @@ Años repitiendo lo mismo. Años perdiendo oportunidades de compartir lo que ten
 
 Pero en 2026, algo cambió.
 
-No aprendí a escribir, pero la tecnología se alineó.
+No aprendí a escribir ni mucho menos, pero la tecnología se alineó.
 
 Ahora tengo lo que siempre imaginé: esa secretaria de las películas, sentada en una mesita del despacho, escribiendo en su máquina todo lo que el "jefe" le dicta. Pero en mi bolsillo. Disponible mientras camino, mientras cocino, mientras se me ocurre algo a las 3am.
 
@@ -20,11 +20,11 @@ Le digo mis ideas en bruto (redundantes, desordenadas, viscerales) y las convier
 
 Un escritor de bolsillo.
 
-Por fin puedo expresar lo que pienso sin temor al qué dirán.
+Por fin puedo expresar lo que pienso sin temor al qué dirán, y lo mejor de todo es que sigo siendo yo, sigue teniendo mi voz y mi tono, porque lo que está escrito aquí nació de mi, de lo más profundo de mi ser, pensamientos, miedos y frustraciones (esta última parte sí la escribí con mis propios dedos jajaja).
 
-Si tienes ideas atrapadas como yo, esperando el día que "aprendas a escribir"... bueno dejame decirte, que con una simple configuración en tu telefono y Claude Code, ya podemos empezar sin miedo.
+Si tienes ideas atrapadas como yo, esperando el día que "aprendas a escribir"... bueno déjame decirte, que con una simple configuración en tu teléfono y Claude Code, ya podemos empezar sin miedo.
 
-Abri este newsletter para eso, para por fin matar el miedo. Voy a ir compartiendo mis avances, mis pensamientos, triunfos, miedos y frustraciones aqui. Y si quieres saber cómo lo configuré. Házmelo saber en los comentarios, y con gusto empezaré a redactar el post.
+Abrí este newsletter para eso, para por fin matar el miedo. Voy a ir compartiendo mis avances, mis pensamientos, triunfos, miedos y frustraciones aquí. Y si quieres saber cómo lo configuré. Házmelo saber en los comentarios, y con gusto empezaré a redactar el post.
 
 ---
 

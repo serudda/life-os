@@ -13,15 +13,15 @@ Always read @../IDENTITY.md first. Sergio writes as "the uncle who tells it stra
 Creating a post follows a clear pipeline. Each phase has its own skill:
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   IDEA ──► CONTENT-INTERVIEW ──► POST-BUILDER ──► MANUAL EDIT ──► EN-TRANSLATOR ──► PUBLISHED
-│                  │                      │              │                      │           │
-│                  ▼                      ▼              ▼                      ▼           │
-│            Interview Doc           Draft V1       Final Draft        Spanish + English   │
-│          (Q&A structured)      (1_drafts/)       (1_drafts/)            (2_ready/)       │
-│                                                                                           │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                  │
+│   IDEA ──► CONTENT-INTERVIEW ──► POST-BUILDER ──► MANUAL EDIT ──► GRAMMAR-CHECK ──► EN-TRANSLATOR ──► PUBLISHED
+│                  │                      │              │                 │                  │           │
+│                  ▼                      ▼              ▼                 ▼                  ▼           │
+│            Interview Doc           Draft V1       Edited Draft      Clean Draft     Spanish + English │
+│          (Q&A structured)      (1_drafts/)       (1_drafts/)       (1_drafts/)         (2_ready/)     │
+│                                                                                                        │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Phase 1: Content Interview
@@ -47,14 +47,21 @@ Transforms the interview material into a structured post using the Atomic Struct
 **Process**: You manually edit the draft in `1_drafts/`
 **No skill needed**: This is where you refine, extend, or adjust the content by hand
 
-### Phase 4: English Translation
+### Phase 4: Grammar Check
+**Skill**: `grammar-check`
+**Input**: Edited draft from `1_drafts/`
+**Output**: Clean draft (same location, corrected)
+
+Reviews and corrects grammar, spelling, and punctuation WITHOUT changing voice, tone, or structure. Only fixes actual errors (tildes, puntuación, concordancia). Can be invoked with `/grammar-check [filename]` or just `/grammar-check` to list available drafts.
+
+### Phase 5: English Translation
 **Skill**: `en-translator`
 **Input**: Edited draft from `1_drafts/`
 **Output**: Spanish + English versions in `2_ready/`
 
 Translates the Spanish draft to English while preserving essence, punchline, and voice. NOT a literal translation—adapts culturally. Moves Spanish version to `2_ready/` and creates English version with `-en` suffix.
 
-### Phase 5: Formatting (Optional)
+### Phase 6: Formatting (Optional)
 **Skill**: `newsletter-formatter`
 **Input**: Draft needing polish
 **Output**: Final formatted version
