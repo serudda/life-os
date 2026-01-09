@@ -77,7 +77,31 @@ When you have enough material (usually after 4-8 exchanges), compile everything 
 
 ## Output Format
 
-The final deliverable is a structured document. Save it as a markdown file in `writing/0_interviews/`:
+The final deliverable is a structured document. Save it as `interview.md` inside the post folder.
+
+**Path**: `writing/YYYY-MM-DD-slug/interview.md`
+
+### Before Starting
+
+Check which scenario applies:
+
+1. **User mentions a source/post**: Look for the folder in `writing/`. If found, read `source.md` for context.
+2. **User shares a new idea** (no existing folder): Ask for a slug in English and create `writing/YYYY-MM-DD-slug/`.
+3. **No context provided**: List existing post folders that have `source.md` but no `interview.md` yet. Ask which one to work on, or if it's a new idea.
+
+### Finding Existing Sources
+
+To list posts ready for interview:
+```
+Look in writing/ for folders containing source.md but NOT interview.md
+```
+
+### Source Integration
+
+When `source.md` exists, use it to:
+- Reference specific quotes or ideas from the original content
+- Ask targeted questions about Sergio's reactions to specific points
+- Connect his ideas to the source material
 
 ```markdown
 # Interview: [Topic/Working Title]

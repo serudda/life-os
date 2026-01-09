@@ -37,9 +37,17 @@ These patterns scream "auto-translated":
 Before translating ANY post, you MUST read:
 
 1. **@../../../IDENTITY.md** - Sergio's voice in both languages, especially the English style
-2. **The Spanish draft** - The source material from `writing/1_drafts/`
+2. **The Spanish draft** - `writing/YYYY-MM-DD-slug/draft.md`
 
 Without both, you cannot translate authentically.
+
+### Finding Posts Ready to Translate
+
+If no specific post is mentioned, look for folders in `writing/` that have:
+- `draft.md` ✅ (required)
+- `ready-es.md` ❌ (not yet translated)
+
+List these and ask which one to translate.
 
 ---
 
@@ -99,10 +107,12 @@ After translating:
 - Ensure rhythm contrast (long → short sentences)
 - Verify the punchline hits as hard as the Spanish version
 
-### Step 4: Save and Move Files
+### Step 4: Save Files
 
-1. Move Spanish version from `1_drafts/` to `2_ready/`
-2. Save English version to `2_ready/` with `-en` suffix
+1. Copy Spanish draft to `ready-es.md` in the same folder
+2. Save English translation as `ready-en.md` in the same folder
+
+Both files stay in `writing/YYYY-MM-DD-slug/`.
 
 ---
 
@@ -126,12 +136,34 @@ Before saving the translation, verify:
 ### File Organization
 
 ```
-2_ready/
-├── 2026-01-07-escritor-de-bolsillo.md       # Spanish version (moved from drafts)
-└── 2026-01-07-escritor-de-bolsillo-en.md    # English translation (new)
+writing/2026-01-09-pocket-writer/
+├── source.md       # (if exists)
+├── interview.md
+├── draft.md        # Original working draft
+├── ready-es.md     # Spanish final version (copy of draft)
+└── ready-en.md     # English translation
 ```
 
-### English Translation Format
+### Spanish Version (ready-es.md)
+
+Copy the content from `draft.md` with updated status:
+
+```markdown
+# [Title]
+
+[The complete post content - same as draft]
+
+---
+
+## Metadata
+
+- **Post Type**: [Nugget/Estándar/Deep Dive/Guía]
+- **Word Count**: [X words]
+- **Read Time**: [X min]
+- **Status**: Ready - Spanish
+```
+
+### English Translation (ready-en.md)
 
 ```markdown
 # [Translated Title]
@@ -142,11 +174,10 @@ Before saving the translation, verify:
 
 ## Metadata
 
-- **Original Source**: [link to Spanish version in 2_ready/]
 - **Post Type**: [Nugget/Estándar/Deep Dive/Guía]
 - **Word Count**: [X words]
 - **Read Time**: [X min]
-- **Status**: Ready - English Version
+- **Status**: Ready - English
 - **Translated**: [YYYY-MM-DD]
 ```
 
@@ -225,8 +256,8 @@ Want to know how I set this up? Tell me in the comments.
 
 When invoked, this skill will:
 
-1. Read the specified draft from `writing/1_drafts/YYYY-MM-DD-slug.md`
+1. Read the specified draft from `writing/YYYY-MM-DD-slug/draft.md`
 2. Create translation in English
-3. Move Spanish version to `writing/2_ready/YYYY-MM-DD-slug.md`
-4. Save English version to `writing/2_ready/YYYY-MM-DD-slug-en.md`
+3. Copy Spanish version to `writing/YYYY-MM-DD-slug/ready-es.md`
+4. Save English version to `writing/YYYY-MM-DD-slug/ready-en.md`
 5. Confirm both files are in place

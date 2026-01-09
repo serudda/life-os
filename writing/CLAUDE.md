@@ -8,80 +8,101 @@ Always read @../IDENTITY.md first. Sergio writes as "the uncle who tells it stra
 
 ---
 
-## The Content Pipeline
-
-Creating a post follows a clear pipeline. Each phase has its own skill:
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                  │
-│   IDEA ──► CONTENT-INTERVIEW ──► POST-BUILDER ──► MANUAL EDIT ──► GRAMMAR-CHECK ──► EN-TRANSLATOR ──► PUBLISHED
-│                  │                      │              │                 │                  │           │
-│                  ▼                      ▼              ▼                 ▼                  ▼           │
-│            Interview Doc           Draft V1       Edited Draft      Clean Draft     Spanish + English │
-│          (Q&A structured)      (1_drafts/)       (1_drafts/)       (1_drafts/)         (2_ready/)     │
-│                                                                                                        │
-└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-### Phase 1: Content Interview
-**Skill**: `content-interview`
-**Input**: Raw idea, fragment, notes, anything
-**Output**: Structured Q&A document in `writing/0_interviews/`
-
-The interview extracts:
-- Central idea in one sentence
-- Target audience
-- Personal story that anchors it
-- Why it matters emotionally
-- Key points and raw quotes
-
-### Phase 2: Post Builder
-**Skill**: `post-builder`
-**Input**: Interview document + IDENTITY.md
-**Output**: Draft V1 in `writing/1_drafts/`
-
-Transforms the interview material into a structured post using the Atomic Structure framework. Delivers complete drafts for short posts, builds section-by-section for longer ones.
-
-### Phase 3: Manual Edit
-**Process**: You manually edit the draft in `1_drafts/`
-**No skill needed**: This is where you refine, extend, or adjust the content by hand
-
-### Phase 4: Grammar Check
-**Skill**: `grammar-check`
-**Input**: Edited draft from `1_drafts/`
-**Output**: Clean draft (same location, corrected)
-
-Reviews and corrects grammar, spelling, and punctuation WITHOUT changing voice, tone, or structure. Only fixes actual errors (tildes, puntuación, concordancia). Can be invoked with `/grammar-check [filename]` or just `/grammar-check` to list available drafts.
-
-### Phase 5: English Translation
-**Skill**: `en-translator`
-**Input**: Edited draft from `1_drafts/`
-**Output**: Spanish + English versions in `2_ready/`
-
-Translates the Spanish draft to English while preserving essence, punchline, and voice. NOT a literal translation—adapts culturally. Moves Spanish version to `2_ready/` and creates English version with `-en` suffix.
-
-### Phase 6: Formatting (Optional)
-**Skill**: `newsletter-formatter`
-**Input**: Draft needing polish
-**Output**: Final formatted version
-
-For when you have content that just needs final touches.
-
----
-
 ## Folder Structure
+
+Each post has its own folder with all related files:
 
 ```
 writing/
-├── 0_interviews/     # Output from content-interview (Q&A documents)
-├── 1_drafts/         # Work in progress posts (Spanish, manually edited)
-├── 2_ready/          # Final versions ready to publish (Spanish + English)
-├── 3_published/      # Published posts
-└── CLAUDE.md         # This file
+├── 2026-01-09-pocket-writer/
+│   ├── source.md        # (optional) External resource that inspired the post
+│   ├── interview.md     # Structured Q&A from content-interview
+│   ├── draft.md         # Work in progress (Spanish)
+│   ├── ready-es.md      # Final Spanish version
+│   └── ready-en.md      # Final English version
+│
+├── 2026-01-09-time-camera/
+│   └── draft.md         # (in progress)
+│
+└── CLAUDE.md
 ```
 
-The numeric prefixes show the content pipeline flow visually.
+### Naming Convention
+
+- **Folder**: `YYYY-MM-DD-slug` (date + English slug)
+- **Slug always in English** (e.g., `pocket-writer` not `escritor-de-bolsillo`)
+- **Files inside**: Fixed names (`source.md`, `interview.md`, `draft.md`, `ready-es.md`, `ready-en.md`)
+
+### Post Status (by file existence)
+
+| Files Present | Status |
+|--------------|--------|
+| Only `source.md` | Captured, pending interview |
+| `interview.md` | Interviewed, pending draft |
+| `draft.md` | In editing |
+| `ready-es.md` | Ready to publish (Spanish) |
+| `ready-en.md` | Ready in both languages |
+
+---
+
+## The Content Pipeline
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                     │
+│  [RESOURCE] ──► SOURCE-CAPTURE ──► CONTENT-INTERVIEW ──► POST-BUILDER              │
+│      │               │                    │                    │                   │
+│      ▼               ▼                    ▼                    ▼                   │
+│  Tweet/Post     source.md           interview.md           draft.md               │
+│  Article                                                                           │
+│                                                                                     │
+│  ──► MANUAL EDIT ──► GRAMMAR-CHECK ──► EN-TRANSLATOR ──► PUBLISHED                 │
+│           │               │                  │                                      │
+│           ▼               ▼                  ▼                                      │
+│       draft.md        draft.md         ready-es.md                                 │
+│      (edited)        (corrected)       ready-en.md                                 │
+│                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Phase 0: Source Capture (Optional)
+**Skill**: `source-capture`
+**Input**: Tweet, article, post, screenshot
+**Output**: `source.md` in post folder
+
+Captures external content that inspires a post. Extracts raw content, key points, and punchlines.
+
+### Phase 1: Content Interview
+**Skill**: `content-interview`
+**Input**: Raw idea OR existing `source.md`
+**Output**: `interview.md` in post folder
+
+Extracts central idea, stories, emotional peaks, and golden quotes through Q&A.
+
+### Phase 2: Post Builder
+**Skill**: `post-builder`
+**Input**: `interview.md` + optional `source.md`
+**Output**: `draft.md` in post folder
+
+Transforms interview into structured draft using Atomic Structure framework.
+
+### Phase 3: Manual Edit
+**Process**: Edit `draft.md` directly
+**No skill needed**: Refine, extend, adjust by hand
+
+### Phase 4: Grammar Check
+**Skill**: `grammar-check`
+**Input**: `draft.md`
+**Output**: Corrected `draft.md` (same file)
+
+Fixes spelling, punctuation, syntax WITHOUT changing voice or structure.
+
+### Phase 5: English Translation
+**Skill**: `en-translator`
+**Input**: `draft.md`
+**Output**: `ready-es.md` + `ready-en.md` in post folder
+
+Creates final versions in both languages. NOT literal translation—cultural adaptation.
 
 ---
 

@@ -39,9 +39,25 @@ Don't ask for the sake of asking. Only when the material genuinely needs more ju
 Before building ANY post, you MUST read:
 
 1. **@../../../IDENTITY.md** - Sergio's voice, values, style, and what he NEVER writes
-2. **The interview document** - The raw material extracted by content-interview
+2. **The interview document** - `writing/YYYY-MM-DD-slug/interview.md`
+3. **The source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
 
-Without both, you cannot build.
+Without IDENTITY.md and interview.md, you cannot build.
+
+### Finding Posts Ready to Build
+
+If no specific post is mentioned, look for folders in `writing/` that have:
+- `interview.md` ✅ (required)
+- `draft.md` ❌ (not yet created)
+
+List these and ask which one to build.
+
+### Using Source Material
+
+When `source.md` exists, use it to:
+- Make direct connections between Sergio's ideas and the original content
+- Include citations or references to specific quotes from the source
+- Create contrast: "The author says X, but in my experience Y"
 
 ---
 
@@ -192,7 +208,7 @@ Before presenting ANY section or draft, verify:
 
 ## Output Format
 
-Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
+Save drafts to the post folder: `writing/YYYY-MM-DD-slug/draft.md`
 
 ### Standard Format (Nugget, Estándar, Deep Dive, Guía)
 
@@ -205,7 +221,8 @@ Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
 
 ## Metadata
 
-- **Source Interview**: [link to interview file]
+- **Source**: [source.md if exists, or "Original idea"]
+- **Interview**: interview.md
 - **Post Type**: [Nugget/Estándar/Deep Dive/Guía]
 - **Word Count**: [X words]
 - **Read Time**: [X min]
