@@ -69,7 +69,15 @@ Based on what the user shares, ask follow-up questions:
 | Surface-level answer          | "Profundiza un poco más en eso. ¿Qué hay detrás?"                               |
 | Interesting tangent           | "Eso que mencionaste sobre X... cuéntame más."                                  |
 
-### Step 4: Compile the Interview Document
+### Step 4: Closing Question (Always Ask)
+
+Before ending, always ask:
+
+**"¿Hay algo más que quieras agregar? ¿Algún comentario, idea o anotación que no hayamos tocado y que quieras que el post incluya?"**
+
+This captures anything the interviewer missed. Document these in a dedicated section for the post-builder.
+
+### Step 5: Compile the Interview Document
 
 When you have enough material (usually after 4-8 exchanges), compile everything into the output format.
 
@@ -85,9 +93,28 @@ The final deliverable is a structured document. Save it as `interview.md` inside
 
 Check which scenario applies:
 
-1. **User mentions a source/post**: Look for the folder in `writing/`. If found, read `source.md` for context.
-2. **User shares a new idea** (no existing folder): Ask for a slug in English and create `writing/YYYY-MM-DD-slug/`.
-3. **No context provided**: List existing post folders that have `source.md` but no `interview.md` yet. Ask which one to work on, or if it's a new idea.
+1. **User mentions a specific project**: Look for that folder in `writing/`. Check what files exist.
+2. **User shares a new idea**: Before creating, search for potentially related existing projects.
+3. **No context provided**: List existing post folders and their status. Ask which one to work on, or if it's a new idea.
+
+### Detecting Existing Projects
+
+When user shares an idea or topic, always check `writing/` first:
+- Look at folder names for similar topics
+- Read `source.md` or `interview.md` to check if content is related
+
+**If you find a related project**, ask:
+
+"Encontré un proyecto que parece relacionado: `writing/2026-01-09-shotgun-sniper/`
+Estado actual: source.md ✅, interview.md ✅, draft.md ✅
+
+¿Qué quieres hacer?
+1. **Continuar con este** - Retomo donde lo dejamos
+2. **Empezar de cero** - Creo un proyecto nuevo
+3. **Es otro tema** - No tiene relación"
+
+**If continuing**: Check which step they're on and resume there.
+**If starting fresh**: Ask for a new slug (suggest `topic-v2` or new date).
 
 ### Finding Existing Sources
 
@@ -103,12 +130,30 @@ When `source.md` exists, use it to:
 - Ask targeted questions about Sergio's reactions to specific points
 - Connect his ideas to the source material
 
+### Source Connection Question (Required when source.md exists)
+
+When there's a source, always ask:
+
+**"¿Cómo quieres conectar tu post con este recurso? Estas son las opciones:"**
+
+| Type | Example | When to use |
+|------|---------|-------------|
+| **Intro contextual** | "Vi un tweet de @autor que me hizo pensar..." | Direct credit to the source |
+| **Cita con reacción** | "Como dice @autor: 'frase'. Pero hay un problema..." | Expand or contrast the source |
+| **Mención sutil** | "Este concepto que circula en la comunidad..." | Reference without naming |
+| **Contraste personal** | "Cuando leí esto, me di cuenta que yo hice lo contrario..." | Your story is the focus |
+| **Ancla de punchline** | Use a source quote as the opening hook | Short posts with punch |
+| **Sin conexión explícita** | No mention, just inspired by | When you want full ownership |
+
+Document the chosen type in the interview for post-builder to implement.
+
 ```markdown
 # Interview: [Topic/Working Title]
 
 **Date**: YYYY-MM-DD
 **Language**: Spanish/English
 **Target Length**: Short (500-800) / Medium (1000-1500) / Long (2000+)
+**Source Connection**: [Type chosen] (only if source.md exists)
 
 ---
 
@@ -162,6 +207,13 @@ Direct phrases that capture his voice perfectly and could be used verbatim in th
 > "[Quote 1]"
 > "[Quote 2]"
 > "[Quote 3]"
+
+### Additional Comments
+
+Things Sergio wanted to add that weren't covered during the interview. These should be integrated naturally into the post, not just appended.
+
+- [Comment 1]
+- [Comment 2]
 
 ### Notes for Post-Builder
 

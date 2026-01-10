@@ -54,10 +54,23 @@ List these and ask which one to build.
 
 ### Using Source Material
 
-When `source.md` exists, use it to:
-- Make direct connections between Sergio's ideas and the original content
-- Include citations or references to specific quotes from the source
-- Create contrast: "The author says X, but in my experience Y"
+When `source.md` exists:
+1. Check the **Source Connection** type in `interview.md`
+2. Implement the connection according to that type
+3. Use quotes, punchlines, and key points from source.md
+
+### Source Connection Types (How to Implement)
+
+| Type | How to Implement |
+|------|------------------|
+| **Intro contextual** | Open with "Vi un tweet de @autor..." or "Leyendo a @autor me encontré con...". Credit upfront, then develop your take. |
+| **Cita con reacción** | Use a direct quote from source early: "Como dice @autor: '[quote]'." Then pivot: "Pero hay un problema..." or "Lo que no menciona es..." |
+| **Mención sutil** | Reference without naming: "Hay un concepto en la comunidad indie llamado X..." or "Este framework que circula en Twitter...". No @mentions. |
+| **Contraste personal** | Start with your story, then connect: "Cuando leí sobre X, me di cuenta que yo hice exactamente lo contrario." Source validates your experience. |
+| **Ancla de punchline** | Open with a powerful quote from source as the hook. Example: "'Shotgun to Sniper'—esa frase me pegó porque..." |
+| **Sin conexión explícita** | No mention of the source. Write as if the idea is 100% yours. The source was just inspiration. |
+
+**Important**: Always check interview.md for the chosen type. If not specified, ask before building.
 
 ---
 
