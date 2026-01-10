@@ -35,13 +35,13 @@ writing/
 
 ### Post Status (by file existence)
 
-| Files Present | Status |
-|--------------|--------|
+| Files Present    | Status                      |
+| ---------------- | --------------------------- |
 | Only `source.md` | Captured, pending interview |
-| `interview.md` | Interviewed, pending draft |
-| `draft.md` | In editing |
-| `ready-es.md` | Ready to publish (Spanish) |
-| `ready-en.md` | Ready in both languages |
+| `interview.md`   | Interviewed, pending draft  |
+| `draft.md`       | In editing                  |
+| `ready-es.md`    | Ready to publish (Spanish)  |
+| `ready-en.md`    | Ready in both languages     |
 
 ---
 
@@ -50,22 +50,23 @@ writing/
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                     │
-│  [RESOURCE] ──► SOURCE-CAPTURE ──► CONTENT-INTERVIEW ──► POST-BUILDER              │
-│      │               │                    │                    │                   │
-│      ▼               ▼                    ▼                    ▼                   │
-│  Tweet/Post     source.md           interview.md           draft.md               │
-│  Article                                                                           │
+│  [RESOURCE] ──► SOURCE-CAPTURE ──► CONTENT-INTERVIEW ──► POST-BUILDER               │
+│      │               │                    │                    │                    │
+│      ▼               ▼                    ▼                    ▼                    │
+│  Tweet/Post     source.md           interview.md           draft.md                 │
+│  Article                                                                            │
 │                                                                                     │
-│  ──► MANUAL EDIT ──► GRAMMAR-CHECK ──► EN-TRANSLATOR ──► PUBLISHED                 │
+│  ──► MANUAL EDIT ──► GRAMMAR-CHECK ──► EN-TRANSLATOR ──► PUBLISHED                  │
 │           │               │                  │                                      │
 │           ▼               ▼                  ▼                                      │
-│       draft.md        draft.md         ready-es.md                                 │
-│      (edited)        (corrected)       ready-en.md                                 │
+│       draft.md        draft.md         ready-es.md                                  │
+│      (edited)        (corrected)       ready-en.md                                  │
 │                                                                                     │
 └─────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Phase 0: Source Capture (Optional)
+
 **Skill**: `source-capture`
 **Input**: Tweet, article, post, screenshot
 **Output**: `source.md` in post folder
@@ -73,6 +74,7 @@ writing/
 Captures external content that inspires a post. Extracts raw content, key points, and punchlines.
 
 ### Phase 1: Content Interview
+
 **Skill**: `content-interview`
 **Input**: Raw idea OR existing `source.md`
 **Output**: `interview.md` in post folder
@@ -80,6 +82,7 @@ Captures external content that inspires a post. Extracts raw content, key points
 Extracts central idea, stories, emotional peaks, and golden quotes through Q&A.
 
 ### Phase 2: Post Builder
+
 **Skill**: `post-builder`
 **Input**: `interview.md` + optional `source.md`
 **Output**: `draft.md` in post folder
@@ -87,10 +90,12 @@ Extracts central idea, stories, emotional peaks, and golden quotes through Q&A.
 Transforms interview into structured draft using Atomic Structure framework.
 
 ### Phase 3: Manual Edit
+
 **Process**: Edit `draft.md` directly
 **No skill needed**: Refine, extend, adjust by hand
 
 ### Phase 4: Grammar Check
+
 **Skill**: `grammar-check`
 **Input**: `draft.md`
 **Output**: Corrected `draft.md` (same file)
@@ -98,6 +103,7 @@ Transforms interview into structured draft using Atomic Structure framework.
 Fixes spelling, punctuation, syntax WITHOUT changing voice or structure.
 
 ### Phase 5: English Translation
+
 **Skill**: `en-translator`
 **Input**: `draft.md`
 **Output**: `ready-es.md` + `ready-en.md` in post folder
@@ -130,11 +136,13 @@ Creates final versions in both languages. NOT literal translation—cultural ada
 ## Voice by Language
 
 **Spanish:**
+
 - Warmer, conversational
 - Natural interjections: "Mira," "Te lo digo claro,"
 - Still dense, but with warmth
 
 **English:**
+
 - Tighter, aphoristic
 - Naval/PG influence
 - Clarity over warmth
