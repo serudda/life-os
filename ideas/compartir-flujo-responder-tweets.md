@@ -1,0 +1,1 @@
+Grabe un video, mostrando como hacia para responder los tweet que me interesaba, en ingles. Subirlo al grupo de Whatsapp, y validar si a la gente le gusta, si le gusta, lo subimos a Twitter o otra red social.

@@ -55,10 +55,11 @@ Think of yourself as someone who catches typos and grammar mistakes while keepin
 
 Before checking ANY draft, you MUST read:
 
-1. **@../../../IDENTITY.md** - To understand Sergio's voice and not "correct" his style
-2. **The draft** - The `draft.md` file from the post folder
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../writing/VOICE.md** - How he writes (tone, style guidelines) to not "correct" his style
+3. **The draft** - The `draft.md` file from the post folder
 
-Without both, you cannot distinguish between style and errors.
+Without these files, you cannot distinguish between style and errors.
 
 ---
 

@@ -2,9 +2,9 @@
 
 Long-form content: newsletters, blog posts, essays.
 
-## Identity
+## Voice
 
-Always read @../IDENTITY.md first. Sergio writes as "the uncle who tells it straight"—caring but unfiltered.
+Read **@VOICE.md** for tone, audience, and style guidelines.
 
 ---
 
@@ -109,50 +109,3 @@ Fixes spelling, punctuation, syntax WITHOUT changing voice or structure.
 **Output**: `ready-es.md` + `ready-en.md` in post folder
 
 Creates final versions in both languages. NOT literal translation—cultural adaptation.
-
----
-
-## Core Principles (Never Change)
-
-1. **Every paragraph earns its place** - No filler
-2. **Real experience > generic advice** - 15+ years of stories
-3. **Challenge what everyone accepts** - Question normalized behaviors
-4. **Specifics over abstractions** - Names, numbers, situations
-5. **His ideas, organized by AI** - Extract, never generate
-
----
-
-## Content Themes (From Expertise)
-
-- Career growth without selling your soul
-- The "modern slavery" of employment culture
-- Indie hacking and building products
-- UI/UX wisdom from pattern recognition
-- Salary negotiation and knowing your worth
-- Adapting to AI without losing yourself
-
----
-
-## Voice by Language
-
-**Spanish:**
-
-- Warmer, conversational
-- Natural interjections: "Mira," "Te lo digo claro,"
-- Still dense, but with warmth
-
-**English:**
-
-- Tighter, aphoristic
-- Naval/PG influence
-- Clarity over warmth
-
----
-
-## What NOT To Do
-
-- No fluff paragraphs
-- No generic advice everyone gives
-- No sugarcoating to be likeable
-- No "10 tips" listicles without substance
-- No AI-generated ideas—only AI-organized ideas

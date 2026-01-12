@@ -38,11 +38,19 @@ Don't ask for the sake of asking. Only when the material genuinely needs more ju
 
 Before building ANY post, you MUST read:
 
-1. **@../../../IDENTITY.md** - Sergio's voice, values, style, and what he NEVER writes
-2. **The interview document** - `writing/YYYY-MM-DD-slug/interview.md`
-3. **The source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../writing/VOICE.md** - How to write (tone, audience, style guidelines)
+3. **The interview document** - `writing/YYYY-MM-DD-slug/interview.md`
+4. **The source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
 
-Without IDENTITY.md and interview.md, you cannot build.
+Without IDENTITY.md, VOICE.md, and interview.md, you cannot build.
+
+### Optional: Style References
+
+If `writing/REFERENCES.md` exists and has content, ask:
+"¿Quieres que revise las referencias de estilo antes de escribir?"
+
+If yes, read REFERENCES.md to absorb style patterns from posts Sergio admires.
 
 ### Finding Posts Ready to Build
 

@@ -5,9 +5,14 @@ description: Formats long-form content in Sergio's voice. Use for newsletters, b
 
 # Newsletter Formatter
 
-## Identity Context
+## Identity & Voice Context
 
-Always read @../../../IDENTITY.md first. Sergio writes as "the uncle who tells it straight" - caring but unfiltered.
+Before formatting ANY content, read:
+
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../writing/VOICE.md** - How to write (tone, audience, style guidelines)
+
+Sergio writes as "the uncle who tells it straight" - caring but unfiltered.
 
 ## Core Principles
 

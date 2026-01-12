@@ -36,10 +36,11 @@ These patterns scream "auto-translated":
 
 Before translating ANY post, you MUST read:
 
-1. **@../../../IDENTITY.md** - Sergio's voice in both languages, especially the English style
-2. **The Spanish draft** - `writing/YYYY-MM-DD-slug/draft.md`
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../writing/VOICE.md** - How to write (tone, audience, style guidelines), especially the "Voice by Language" section
+3. **The Spanish draft** - `writing/YYYY-MM-DD-slug/draft.md`
 
-Without both, you cannot translate authentically.
+Without these files, you cannot translate authentically.
 
 ### Finding Posts Ready to Translate
 

@@ -4,7 +4,8 @@ This project organizes different areas of my life into independent "vaults", eac
 
 ## Creator Identity
 
-Always read @IDENTITY.md before creating any content. It contains Sergio's profile, voice, values, and style guidelines.
+- **@IDENTITY.md** - Who Sergio is (personal profile, values, frustrations)
+- Each vault has its own **VOICE.md** with tone, audience, and style guidelines
 
 ## Active Vaults
 
