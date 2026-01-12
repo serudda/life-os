@@ -36,25 +36,26 @@ Don't ask for the sake of asking. Only when the material genuinely needs more ju
 
 ## Required Reading
 
-Before building ANY post, you MUST read:
+Before building ANY post, you MUST follow these steps:
 
-1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
-2. **@../../../writing/VOICE.md** - How to write (tone, audience, style guidelines)
-3. **The interview document** - `writing/YYYY-MM-DD-slug/interview.md`
-4. **The source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
+1. **Read @../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations).
+2. **Read @../../../writing/VOICE.md** - How to write (tone, audience, style guidelines).
+3. **Ask about Style References** - YOU MUST ALWAYS ASK:
 
-Without IDENTITY.md, VOICE.md, and interview.md, you cannot build.
+   > "¿Quieres que use @writing/REFERENCES.md para tener referencias de estilo antes de escribir?"
 
-### Optional: Style References
+   - **If YES**: Read `writing/REFERENCES.md` to absorb style patterns.
+   - **If NO**: Proceed without reading it.
 
-If `writing/REFERENCES.md` exists and has content, ask:
-"¿Quieres que revise las referencias de estilo antes de escribir?"
+4. **Read the interview document** - `writing/YYYY-MM-DD-slug/interview.md`
+5. **Read the source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
 
-If yes, read REFERENCES.md to absorb style patterns from posts Sergio admires.
+Without IDENTITY.md, VOICE.md, and interview.md, you cannot build. You cannot proceed until you have asked about the references.
 
 ### Finding Posts Ready to Build
 
 If no specific post is mentioned, look for folders in `writing/` that have:
+
 - `interview.md` ✅ (required)
 - `draft.md` ❌ (not yet created)
 
@@ -63,20 +64,21 @@ List these and ask which one to build.
 ### Using Source Material
 
 When `source.md` exists:
+
 1. Check the **Source Connection** type in `interview.md`
 2. Implement the connection according to that type
 3. Use quotes, punchlines, and key points from source.md
 
 ### Source Connection Types (How to Implement)
 
-| Type | How to Implement |
-|------|------------------|
-| **Intro contextual** | Open with "Vi un tweet de @autor..." or "Leyendo a @autor me encontré con...". Credit upfront, then develop your take. |
-| **Cita con reacción** | Use a direct quote from source early: "Como dice @autor: '[quote]'." Then pivot: "Pero hay un problema..." or "Lo que no menciona es..." |
-| **Mención sutil** | Reference without naming: "Hay un concepto en la comunidad indie llamado X..." or "Este framework que circula en Twitter...". No @mentions. |
-| **Contraste personal** | Start with your story, then connect: "Cuando leí sobre X, me di cuenta que yo hice exactamente lo contrario." Source validates your experience. |
-| **Ancla de punchline** | Open with a powerful quote from source as the hook. Example: "'Shotgun to Sniper'—esa frase me pegó porque..." |
-| **Sin conexión explícita** | No mention of the source. Write as if the idea is 100% yours. The source was just inspiration. |
+| Type                       | How to Implement                                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Intro contextual**       | Open with "Vi un tweet de @autor..." or "Leyendo a @autor me encontré con...". Credit upfront, then develop your take.                          |
+| **Cita con reacción**      | Use a direct quote from source early: "Como dice @autor: '[quote]'." Then pivot: "Pero hay un problema..." or "Lo que no menciona es..."        |
+| **Mención sutil**          | Reference without naming: "Hay un concepto en la comunidad indie llamado X..." or "Este framework que circula en Twitter...". No @mentions.     |
+| **Contraste personal**     | Start with your story, then connect: "Cuando leí sobre X, me di cuenta que yo hice exactamente lo contrario." Source validates your experience. |
+| **Ancla de punchline**     | Open with a powerful quote from source as the hook. Example: "'Shotgun to Sniper'—esa frase me pegó porque..."                                  |
+| **Sin conexión explícita** | No mention of the source. Write as if the idea is 100% yours. The source was just inspiration.                                                  |
 
 **Important**: Always check interview.md for the chosen type. If not specified, ask before building.
 
@@ -181,12 +183,14 @@ The process varies based on post type:
 ### For Nugget (Short Posts)
 
 ```
-1. Read interview document + IDENTITY.md
-2. Identify: central idea, best quote, key emotion
-3. Write complete draft (150-400 words)
-4. Present to user for review
-5. Iterate based on feedback
-6. Save final version
+1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
+2. Ask user about reading `writing/REFERENCES.md`
+   - If yes: Read `writing/REFERENCES.md`
+3. Identify: central idea, best quote, key emotion
+4. Write complete draft (150-400 words)
+5. Present to user for review
+6. Iterate based on feedback
+7. Save final version
 ```
 
 **Delivery**: Complete draft in one shot.
@@ -194,18 +198,20 @@ The process varies based on post type:
 ### For Estándar / Deep Dive / Guía (Medium-Long Posts)
 
 ```
-1. Read interview document + IDENTITY.md
-2. Propose structure outline based on Atomic Structure
-3. User validates outline
-4. Build section by section:
+1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
+2. Ask user about reading `writing/REFERENCES.md`
+   - If yes: Read `writing/REFERENCES.md`
+3. Propose structure outline based on Atomic Structure
+4. User validates outline
+5. Build section by section:
    a. Write "The Hook" → User validates
    b. Write "Tension + Authority" → User validates
    c. Write "The Pivot" → User validates
    d. Write "The Meat" → User validates
    e. Write "Punchline + Close" → User validates
-5. Assemble all sections
-6. Final polish pass
-7. Save final version
+6. Assemble all sections
+7. Final polish pass
+8. Save final version
 ```
 
 **Delivery**: Section by section, with validation at each step.
