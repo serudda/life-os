@@ -39,18 +39,11 @@ Don't ask for the sake of asking. Only when the material genuinely needs more ju
 Before building ANY post, you MUST follow these steps:
 
 1. **Read @../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations).
-2. **Read @../../../writing/VOICE.md** - How to write (tone, audience, style guidelines).
-3. **Ask about Style References** - YOU MUST ALWAYS ASK:
+2. **Read @../../../writing/VOICE.md** - How to write (tone, audience, style guidelines, and writing references).
+3. **Read the interview document** - `writing/YYYY-MM-DD-slug/interview.md`
+4. **Read the source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
 
-   > "¿Quieres que use @writing/REFERENCES.md para tener referencias de estilo antes de escribir?"
-
-   - **If YES**: Read `writing/REFERENCES.md` to absorb style patterns.
-   - **If NO**: Proceed without reading it.
-
-4. **Read the interview document** - `writing/YYYY-MM-DD-slug/interview.md`
-5. **Read the source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
-
-Without IDENTITY.md, VOICE.md, and interview.md, you cannot build. You cannot proceed until you have asked about the references.
+Without IDENTITY.md, VOICE.md, and interview.md, you cannot build.
 
 ### Finding Posts Ready to Build
 
@@ -88,14 +81,43 @@ When `source.md` exists:
 
 Use this table to understand the target length and format for each post type:
 
-| Type                  | Platform              | Words       | Read Time | Goal                    |
-| --------------------- | --------------------- | ----------- | --------- | ----------------------- |
-| **Nugget (Corto)**    | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
-| **Estándar**          | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
-| **Deep Dive (Largo)** | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
-| **Guía Paso a Paso**  | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
+| Type                   | Platform              | Words       | Read Time | Goal                    |
+| ---------------------- | --------------------- | ----------- | --------- | ----------------------- |
+| **Thread**             | Twitter (X)           | 200-400     | < 1 min   | Virality & synthesis    |
+| **Nugget (Short)**     | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
+| **Standard**           | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
+| **Deep Dive (Long)**   | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
+| **Step-by-Step Guide** | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
 
-**Important**: The interview document specifies which type this post is. Respect the word count limits.
+### Paragraph Styles Reference
+
+The interview document specifies the paragraph style. Apply it consistently:
+
+| Style        | Paragraphs    | Description                                                       |
+| ------------ | ------------- | ----------------------------------------------------------------- |
+| **Airy**     | 1-3 sentences | Short paragraphs, frequent line breaks. Punchy rhythm.            |
+| **Balanced** | 3-5 sentences | Medium paragraphs with breathing room. Blog-style flow.           |
+| **Dense**    | 5-8 sentences | Longer blocks, book-like. Ideas fully developed before moving on. |
+
+**Example - Same idea, three styles:**
+
+**Airy:**
+
+> La ironía es brutal.
+>
+> Tailwind está en todos lados. ChatGPT lo usa. Claude lo usa.
+>
+> Pero los humanos ya no visitan la documentación.
+
+**Balanced:**
+
+> La ironía es brutal. Tailwind está en todos lados—ChatGPT lo usa, Claude lo usa, Cursor lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Pero los humanos ya no visitan la documentación. ¿Para qué? Se lo preguntan al agente.
+
+**Dense:**
+
+> La ironía es brutal: Tailwind está en todos lados. ChatGPT lo usa, Claude lo usa, Cursor lo usa, v0 lo usa, Figma lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Nunca ha sido tan popular, nunca ha tenido tanta adopción. Pero los humanos ya no visitan la documentación. ¿Para qué, si pueden preguntarle al agente? La IA consume el contenido, lo aprende, lo replica—pero no genera tráfico. Y sin tráfico humano, no hay ventas.
+
+**Important**: The interview document specifies both post type AND paragraph style. Respect both.
 
 ---
 
@@ -180,38 +202,34 @@ The rhythm contrast keeps the brain awake.
 
 The process varies based on post type:
 
-### For Nugget (Short Posts)
+### For Nugget / Thread (Short Posts)
 
 ```
 1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
-2. Ask user about reading `writing/REFERENCES.md`
-   - If yes: Read `writing/REFERENCES.md`
-3. Identify: central idea, best quote, key emotion
-4. Write complete draft (150-400 words)
-5. Present to user for review
-6. Iterate based on feedback
-7. Save final version
+2. Identify: central idea, best quote, key emotion, paragraph style
+3. Write complete draft applying the specified paragraph style
+4. Present to user for review
+5. Iterate based on feedback
+6. Save final version
 ```
 
 **Delivery**: Complete draft in one shot.
 
-### For Estándar / Deep Dive / Guía (Medium-Long Posts)
+### For Standard / Deep Dive / Step-by-Step Guide (Medium-Long Posts)
 
 ```
 1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
-2. Ask user about reading `writing/REFERENCES.md`
-   - If yes: Read `writing/REFERENCES.md`
-3. Propose structure outline based on Atomic Structure
-4. User validates outline
-5. Build section by section:
+2. Propose structure outline based on Atomic Structure
+3. User validates outline
+4. Build section by section applying the specified paragraph style:
    a. Write "The Hook" → User validates
    b. Write "Tension + Authority" → User validates
    c. Write "The Pivot" → User validates
    d. Write "The Meat" → User validates
    e. Write "Punchline + Close" → User validates
-6. Assemble all sections
-7. Final polish pass
-8. Save final version
+5. Assemble all sections
+6. Final polish pass
+7. Save final version
 ```
 
 **Delivery**: Section by section, with validation at each step.
@@ -230,6 +248,7 @@ Before presenting ANY section or draft, verify:
 - [ ] Does The Hook grab in 5 seconds?
 - [ ] Is the Punchline t-shirt worthy?
 - [ ] Does the Close invite action or reflection?
+- [ ] Does it match the Paragraph Style specified? (Airy/Balanced/Dense)
 
 ---
 
@@ -250,7 +269,8 @@ Save drafts to the post folder: `writing/YYYY-MM-DD-slug/draft.md`
 
 - **Source**: [source.md if exists, or "Original idea"]
 - **Interview**: interview.md
-- **Post Type**: [Nugget/Estándar/Deep Dive/Guía]
+- **Post Type**: [Thread/Nugget/Standard/Deep Dive/Step-by-Step Guide]
+- **Paragraph Style**: [Airy/Balanced/Dense]
 - **Word Count**: [X words]
 - **Read Time**: [X min]
 - **Status**: Draft V1
@@ -278,7 +298,7 @@ Save drafts to the post folder: `writing/YYYY-MM-DD-slug/draft.md`
 
 ---
 
-## Example Interaction (Short Post)
+## Example Interaction
 
 **User**: Construye el post a partir de esta entrevista: [path to interview]
 
@@ -286,31 +306,11 @@ Save drafts to the post folder: `writing/YYYY-MM-DD-slug/draft.md`
 
 [Reads both files]
 
-Listo. Es un Nugget (150-300 palabras). Voy a construir el borrador completo.
+Listo. Es un Nugget (Short - 150-300 palabras) con estilo de parrafo Balanced. Voy a construir el borrador completo.
 
 ---
 
 **[Draft]**
-
-# El Escritor de Bolsillo
-
-Llevo 15 años en tech. He construido productos usados por miles. Pero tengo un secreto: no sé escribir.
-
-Cada idea que me caía caminando por la calle terminaba en un bloc de notas. Y ahí moría. "Algún día aprenderé a redactar mejor, y ese día empiezo."
-
-Ese día nunca llegaba.
-
-El miedo real no era la escritura. Era el juicio: "Este tipo lleva 15 años en la industria, ¿y no sabe transmitir una idea?"
-
-Pero en 2026, algo cambió. No aprendí a escribir. La tecnología se alineó.
-
-Ahora tengo lo que siempre soñé: una secretaria de bolsillo. Alguien a quien dictarle ideas en bruto—redundantes, desordenadas, viscerales—y que las convierta en algo publicable.
-
-Por fin puedo expresar lo que tengo en la mente sin miedo a manchar mi imagen.
-
-Si tienes ideas atrapadas en un bloc de notas esperando el día que "aprendas a escribir"... ese día ya llegó.
-
-¿Quieres saber cómo lo configuré? Dímelo en los comentarios.
 
 ---
 
