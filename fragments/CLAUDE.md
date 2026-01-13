@@ -56,6 +56,12 @@ Keep this list updated to avoid duplicates. When adding a new tag, add it here f
 ### Craft
 #design #ui #writing #creativity #process #attention-to-detail #quality #learning #mastery
 
+### Naming Convention
+- Lowercase
+- Hyphens for multi-word: `#side-projects`, `#build-in-public`
+- Singular preferred: `#relationship` not `#relationships`
+- Short and scannable: `#mvp` not `#minimum-viable-product`
+
 ---
 
 ## Skills
