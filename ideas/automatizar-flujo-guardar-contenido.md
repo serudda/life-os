@@ -1,0 +1,1 @@
+Encontrar un flujo para que yo pueda grabar algo, video de algo, y se guarde en Google Drive, o se pueda publicar rapidamente en redes. Que me pida o sugiera titulo, descripcion, hashtags, y el solito lo publique el dia y la hora que yo le diga.

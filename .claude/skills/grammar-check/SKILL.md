@@ -55,10 +55,11 @@ Think of yourself as someone who catches typos and grammar mistakes while keepin
 
 Before checking ANY draft, you MUST read:
 
-1. **@../../../IDENTITY.md** - To understand Sergio's voice and not "correct" his style
-2. **The draft** - The file from `1_drafts/` that needs review
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../writing/VOICE.md** - How he writes (tone, style guidelines) to not "correct" his style
+3. **The draft** - The `draft.md` file from the post folder
 
-Without both, you cannot distinguish between style and errors.
+Without these files, you cannot distinguish between style and errors.
 
 ---
 
@@ -66,29 +67,29 @@ Without both, you cannot distinguish between style and errors.
 
 The skill handles three scenarios:
 
-### Scenario 1: User provides file path/name
+### Scenario 1: User provides post slug/folder
 ```
-User: "/grammar-check 2026-01-07-mi-post.md"
-User: "/grammar-check writing/1_drafts/2026-01-07-mi-post.md"
+User: "/grammar-check pocket-writer"
+User: "/grammar-check 2026-01-09-pocket-writer"
 ```
-→ Use that file directly
+→ Look for `writing/YYYY-MM-DD-slug/draft.md`
 
 ### Scenario 2: Context from conversation
 ```
 User: "Listo, ya terminé de editar. Revisa la gramática"
 ```
-→ Detect from conversation context which file was being edited
+→ Detect from conversation context which post was being edited
 
 ### Scenario 3: No file specified, no context
 ```
 User: "/grammar-check"
 ```
-→ List available drafts in `1_drafts/` and ask which one to review
+→ List posts that have `draft.md` but NOT `ready-es.md` (not yet translated)
 
 **Implementation**:
-1. Check if user provided a file argument
-2. If not, check conversation context for recently mentioned files
-3. If still unclear, glob `writing/1_drafts/*.md` and present options
+1. Check if user provided a post slug
+2. If not, check conversation context for recently mentioned posts
+3. If still unclear, look for `writing/*/draft.md` where no `ready-es.md` exists
 
 ---
 
@@ -145,7 +146,7 @@ If NO errors found:
 
 ### Step 5: Save Corrected Version
 
-1. Overwrite the file in `1_drafts/` with corrections
+1. Overwrite `draft.md` in the post folder with corrections
 2. Confirm file saved
 3. Show summary: "X correcciones realizadas"
 
@@ -185,11 +186,11 @@ Be direct. Don't apologize for finding errors. That's your job.
 
 ## Example Interactions
 
-### Example 1: With file argument
+### Example 1: With post slug
 
-**User**: /grammar-check 2026-01-07-la-ia-te-usa-pero-no-te-paga.md
+**User**: /grammar-check ai-uses-you-but-doesnt-pay
 
-**Assistant**: Voy a revisar `2026-01-07-la-ia-te-usa-pero-no-te-paga.md`
+**Assistant**: Voy a revisar `writing/2026-01-07-ai-uses-you-but-doesnt-pay/draft.md`
 
 [Reads IDENTITY.md + draft]
 
@@ -209,7 +210,7 @@ Archivo actualizado. ¿Algún cambio que quieras revertir?
 
 **User**: [After editing] Listo, revisa la gramática
 
-**Assistant**: Voy a revisar el draft que estuviste editando: `2026-01-07-la-ia-te-usa-pero-no-te-paga.md`
+**Assistant**: Voy a revisar el draft que estuviste editando: `2026-01-07-ai-uses-you-but-doesnt-pay/draft.md`
 
 [Continues with review...]
 
@@ -219,16 +220,16 @@ Archivo actualizado. ¿Algún cambio que quieras revertir?
 
 **User**: /grammar-check
 
-**Assistant**: ¿Cuál draft quieres revisar? Estos son los disponibles:
+**Assistant**: ¿Cuál draft quieres revisar? Estos posts tienen draft pero no han sido traducidos:
 
-1. `2026-01-07-la-ia-te-usa-pero-no-te-paga.md` (241 palabras)
-2. `2026-01-05-otro-post.md` (450 palabras)
+1. `2026-01-07-ai-uses-you-but-doesnt-pay` (241 palabras)
+2. `2026-01-09-time-camera` (450 palabras)
 
-Dime el número o el nombre del archivo.
+Dime el número o el nombre.
 
 **User**: El primero
 
-**Assistant**: Perfecto, revisando `2026-01-07-la-ia-te-usa-pero-no-te-paga.md`
+**Assistant**: Perfecto, revisando `2026-01-07-ai-uses-you-but-doesnt-pay/draft.md`
 
 [Continues with review...]
 
@@ -276,7 +277,7 @@ From IDENTITY.md, remember:
 
 ## Output Format
 
-The corrected draft overwrites the original in `1_drafts/` with the same format:
+The corrected draft overwrites `draft.md` in the post folder with the same format:
 
 ```markdown
 # [Title - unchanged]

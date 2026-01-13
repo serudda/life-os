@@ -36,12 +36,44 @@ Don't ask for the sake of asking. Only when the material genuinely needs more ju
 
 ## Required Reading
 
-Before building ANY post, you MUST read:
+Before building ANY post, you MUST follow these steps:
 
-1. **@../../../IDENTITY.md** - Sergio's voice, values, style, and what he NEVER writes
-2. **The interview document** - The raw material extracted by content-interview
+1. **Read @../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations).
+2. **Read @../../../writing/VOICE.md** - How to write (tone, audience, style guidelines, and writing references).
+3. **Read the interview document** - `writing/YYYY-MM-DD-slug/interview.md`
+4. **Read the source document (if exists)** - `writing/YYYY-MM-DD-slug/source.md`
 
-Without both, you cannot build.
+Without IDENTITY.md, VOICE.md, and interview.md, you cannot build.
+
+### Finding Posts Ready to Build
+
+If no specific post is mentioned, look for folders in `writing/` that have:
+
+- `interview.md` ✅ (required)
+- `draft.md` ❌ (not yet created)
+
+List these and ask which one to build.
+
+### Using Source Material
+
+When `source.md` exists:
+
+1. Check the **Source Connection** type in `interview.md`
+2. Implement the connection according to that type
+3. Use quotes, punchlines, and key points from source.md
+
+### Source Connection Types (How to Implement)
+
+| Type                       | How to Implement                                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Intro contextual**       | Open with "Vi un tweet de @autor..." or "Leyendo a @autor me encontré con...". Credit upfront, then develop your take.                          |
+| **Cita con reacción**      | Use a direct quote from source early: "Como dice @autor: '[quote]'." Then pivot: "Pero hay un problema..." or "Lo que no menciona es..."        |
+| **Mención sutil**          | Reference without naming: "Hay un concepto en la comunidad indie llamado X..." or "Este framework que circula en Twitter...". No @mentions.     |
+| **Contraste personal**     | Start with your story, then connect: "Cuando leí sobre X, me di cuenta que yo hice exactamente lo contrario." Source validates your experience. |
+| **Ancla de punchline**     | Open with a powerful quote from source as the hook. Example: "'Shotgun to Sniper'—esa frase me pegó porque..."                                  |
+| **Sin conexión explícita** | No mention of the source. Write as if the idea is 100% yours. The source was just inspiration.                                                  |
+
+**Important**: Always check interview.md for the chosen type. If not specified, ask before building.
 
 ---
 
@@ -49,14 +81,43 @@ Without both, you cannot build.
 
 Use this table to understand the target length and format for each post type:
 
-| Type                  | Platform              | Words       | Read Time | Goal                    |
-| --------------------- | --------------------- | ----------- | --------- | ----------------------- |
-| **Nugget (Corto)**    | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
-| **Estándar**          | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
-| **Deep Dive (Largo)** | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
-| **Guía Paso a Paso**  | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
+| Type                   | Platform              | Words       | Read Time | Goal                    |
+| ---------------------- | --------------------- | ----------- | --------- | ----------------------- |
+| **Thread**             | Twitter (X)           | 200-400     | < 1 min   | Virality & synthesis    |
+| **Nugget (Short)**     | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
+| **Standard**           | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
+| **Deep Dive (Long)**   | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
+| **Step-by-Step Guide** | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
 
-**Important**: The interview document specifies which type this post is. Respect the word count limits.
+### Paragraph Styles Reference
+
+The interview document specifies the paragraph style. Apply it consistently:
+
+| Style        | Paragraphs    | Description                                                       |
+| ------------ | ------------- | ----------------------------------------------------------------- |
+| **Airy**     | 1-3 sentences | Short paragraphs, frequent line breaks. Punchy rhythm.            |
+| **Balanced** | 3-5 sentences | Medium paragraphs with breathing room. Blog-style flow.           |
+| **Dense**    | 5-8 sentences | Longer blocks, book-like. Ideas fully developed before moving on. |
+
+**Example - Same idea, three styles:**
+
+**Airy:**
+
+> La ironía es brutal.
+>
+> Tailwind está en todos lados. ChatGPT lo usa. Claude lo usa.
+>
+> Pero los humanos ya no visitan la documentación.
+
+**Balanced:**
+
+> La ironía es brutal. Tailwind está en todos lados—ChatGPT lo usa, Claude lo usa, Cursor lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Pero los humanos ya no visitan la documentación. ¿Para qué? Se lo preguntan al agente.
+
+**Dense:**
+
+> La ironía es brutal: Tailwind está en todos lados. ChatGPT lo usa, Claude lo usa, Cursor lo usa, v0 lo usa, Figma lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Nunca ha sido tan popular, nunca ha tenido tanta adopción. Pero los humanos ya no visitan la documentación. ¿Para qué, si pueden preguntarle al agente? La IA consume el contenido, lo aprende, lo replica—pero no genera tráfico. Y sin tráfico humano, no hay ventas.
+
+**Important**: The interview document specifies both post type AND paragraph style. Respect both.
 
 ---
 
@@ -141,12 +202,12 @@ The rhythm contrast keeps the brain awake.
 
 The process varies based on post type:
 
-### For Nugget (Short Posts)
+### For Nugget / Thread (Short Posts)
 
 ```
-1. Read interview document + IDENTITY.md
-2. Identify: central idea, best quote, key emotion
-3. Write complete draft (150-400 words)
+1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
+2. Identify: central idea, best quote, key emotion, paragraph style
+3. Write complete draft applying the specified paragraph style
 4. Present to user for review
 5. Iterate based on feedback
 6. Save final version
@@ -154,13 +215,13 @@ The process varies based on post type:
 
 **Delivery**: Complete draft in one shot.
 
-### For Estándar / Deep Dive / Guía (Medium-Long Posts)
+### For Standard / Deep Dive / Step-by-Step Guide (Medium-Long Posts)
 
 ```
-1. Read interview document + IDENTITY.md
+1. Read IDENTITY.md + VOICE.md + interview document + source (if exists)
 2. Propose structure outline based on Atomic Structure
 3. User validates outline
-4. Build section by section:
+4. Build section by section applying the specified paragraph style:
    a. Write "The Hook" → User validates
    b. Write "Tension + Authority" → User validates
    c. Write "The Pivot" → User validates
@@ -187,12 +248,13 @@ Before presenting ANY section or draft, verify:
 - [ ] Does The Hook grab in 5 seconds?
 - [ ] Is the Punchline t-shirt worthy?
 - [ ] Does the Close invite action or reflection?
+- [ ] Does it match the Paragraph Style specified? (Airy/Balanced/Dense)
 
 ---
 
 ## Output Format
 
-Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
+Save drafts to the post folder: `writing/YYYY-MM-DD-slug/draft.md`
 
 ### Standard Format (Nugget, Estándar, Deep Dive, Guía)
 
@@ -205,8 +267,10 @@ Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
 
 ## Metadata
 
-- **Source Interview**: [link to interview file]
-- **Post Type**: [Nugget/Estándar/Deep Dive/Guía]
+- **Source**: [source.md if exists, or "Original idea"]
+- **Interview**: interview.md
+- **Post Type**: [Thread/Nugget/Standard/Deep Dive/Step-by-Step Guide]
+- **Paragraph Style**: [Airy/Balanced/Dense]
 - **Word Count**: [X words]
 - **Read Time**: [X min]
 - **Status**: Draft V1
@@ -234,7 +298,7 @@ Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
 
 ---
 
-## Example Interaction (Short Post)
+## Example Interaction
 
 **User**: Construye el post a partir de esta entrevista: [path to interview]
 
@@ -242,31 +306,11 @@ Save drafts to `writing/1_drafts/` with format: `YYYY-MM-DD-slug.md`
 
 [Reads both files]
 
-Listo. Es un Nugget (150-300 palabras). Voy a construir el borrador completo.
+Listo. Es un Nugget (Short - 150-300 palabras) con estilo de parrafo Balanced. Voy a construir el borrador completo.
 
 ---
 
 **[Draft]**
-
-# El Escritor de Bolsillo
-
-Llevo 15 años en tech. He construido productos usados por miles. Pero tengo un secreto: no sé escribir.
-
-Cada idea que me caía caminando por la calle terminaba en un bloc de notas. Y ahí moría. "Algún día aprenderé a redactar mejor, y ese día empiezo."
-
-Ese día nunca llegaba.
-
-El miedo real no era la escritura. Era el juicio: "Este tipo lleva 15 años en la industria, ¿y no sabe transmitir una idea?"
-
-Pero en 2026, algo cambió. No aprendí a escribir. La tecnología se alineó.
-
-Ahora tengo lo que siempre soñé: una secretaria de bolsillo. Alguien a quien dictarle ideas en bruto—redundantes, desordenadas, viscerales—y que las convierta en algo publicable.
-
-Por fin puedo expresar lo que tengo en la mente sin miedo a manchar mi imagen.
-
-Si tienes ideas atrapadas en un bloc de notas esperando el día que "aprendas a escribir"... ese día ya llegó.
-
-¿Quieres saber cómo lo configuré? Dímelo en los comentarios.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Date**: 2026-01-07
 **Language**: Spanish
-**Target Length**: Nugget (150-300 palabras)
+**Target Length**: Estándar (500-900 palabras)
 
 ---
 
@@ -88,22 +88,25 @@
 
 ### Notes for Post-Builder
 
-**Formato**: Nugget corto (150-300 palabras). Tipo noticia + reflexión. No hay mucho que estirar, pero el impacto debe ser contundente.
+**Formato**: Estándar (500-900 palabras). Tipo noticia + reflexión. No hay mucho que estirar, pero el impacto debe ser contundente.
 
 **Tono**: Urgente, visceral, honesto. No es catastrofista, pero tampoco optimista vacío. Es "esto está pasando, ábranse los ojos".
 
 **Estructura sugerida**:
+
 1. **Hook**: El video de Adam (la ironía de Tailwind)
 2. **Insight central**: La IA usa pero no paga. Los agentes leen, los humanos no.
 3. **Conexión personal**: "Yo acabo de dejar el trabajo. Y ahora veo esto."
 4. **Cierre**: Reflexión + urgencia. Nadie tiene manual. Hay que moverse.
 
 **Lo que NO hacer**:
+
 - No dar soluciones mágicas (no las hay)
 - No convertirlo en post motivacional falso
 - No estirar con relleno—debe ser denso
 
 **Lo que SÍ hacer**:
+
 - Usar la comparación con COVID (es oro)
 - Mantener la vulnerabilidad de Sergio (dudando de su decisión)
 - Terminar con urgencia sin respuestas fáciles—porque no las hay

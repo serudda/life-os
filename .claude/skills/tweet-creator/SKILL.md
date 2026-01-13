@@ -37,10 +37,14 @@ This skill operates in two modes depending on the input:
 
 ---
 
-## Identity Context
+## Identity & Voice Context
 
-**CRITICAL**: Before creating ANY tweet, read @../../../IDENTITY.md to absorb:
+**CRITICAL**: Before creating ANY tweet, read:
 
+1. **@../../../IDENTITY.md** - Who Sergio is (personal, values, frustrations)
+2. **@../../../tweets/VOICE.md** - How to write tweets (tone, audience, style guidelines)
+
+From these files, absorb:
 - Archetype: "The uncle who tells it straight"
 - Core values: Justice, honesty, reciprocal loyalty
 - Frustrations: Modern slavery illusion, injustice
@@ -55,7 +59,7 @@ When user shares a raw idea:
 
 ```
 Step 1: ABSORB CONTEXT
-        → Read @../../../IDENTITY.md completely
+        → Read @../../../IDENTITY.md + @../../../tweets/VOICE.md
         → Understand the user's raw idea and core message
         → Identify which value/frustration/experience connects
 
@@ -153,7 +157,7 @@ When user provides an interview document path, switch to Thread Mode:
 
 ```
 Step 1: READ SOURCES
-        → Read @../../../IDENTITY.md
+        → Read @../../../IDENTITY.md + @../../../tweets/VOICE.md
         → Read the interview document completely
         → Identify: Post Type, central idea, golden quotes, emotional peaks
 

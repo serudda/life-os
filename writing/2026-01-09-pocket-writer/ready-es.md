@@ -16,15 +16,17 @@ No aprendí a escribir ni mucho menos, pero la tecnología se alineó.
 
 Ahora tengo lo que siempre imaginé: esa secretaria de las películas, sentada en una mesita del despacho, escribiendo en su máquina todo lo que el "jefe" le dicta. Pero en mi bolsillo. Disponible mientras camino, mientras cocino, mientras se me ocurre algo a las 3am.
 
+"Está el jefe del despacho fumándose un puro, y en la misma oficina se encuentra Margarita, su secretaria, siempre lista con su máquina de escribir a la espera de que el jefe le diga: Margaritaaaaa anota esto...". Esa idea me vuelve loco.
+
 Le digo mis ideas en bruto (redundantes, desordenadas, viscerales) y las convierte en algo publicable.
 
 Un escritor de bolsillo.
 
-Por fin puedo expresar lo que pienso sin temor al qué dirán, y lo mejor de todo es que sigo siendo yo, sigue teniendo mi voz y mi tono, porque lo que está escrito aquí nació de mi, de lo más profundo de mi ser, pensamientos, miedos y frustraciones (esta última parte sí la escribí con mis propios dedos jajaja).
+Por fin puedo expresar lo que pienso sin temor al qué dirán, y lo mejor de todo es que sigo siendo yo, sigue teniendo mi voz y mi tono, porque lo que está escrito aquí nació de mí, de lo más profundo de mi ser, pensamientos, miedos y frustraciones (esta última parte sí la escribí con mis propios dedos jajaja).
 
-Si tienes ideas atrapadas como yo, esperando el día que "aprendas a escribir"... bueno déjame decirte, que con una simple configuración en tu teléfono y Claude Code, ya podemos empezar sin miedo.
+Si tienes ideas atrapadas como yo, esperando el día que "aprendas a escribir"... bueno, déjame decirte, que con una simple configuración en tu teléfono y Claude Code, ya podemos empezar sin miedo.
 
-Abrí este newsletter para eso, para por fin matar el miedo. Voy a ir compartiendo mis avances, mis pensamientos, triunfos, miedos y frustraciones aquí. Y si quieres saber cómo lo configuré. Házmelo saber en los comentarios, y con gusto empezaré a redactar el post.
+Abrí este newsletter para eso, para por fin matar el miedo. Voy a ir compartiendo mis avances, mis pensamientos, triunfos, miedos y frustraciones aquí. Y si quieres saber cómo lo configuré, házmelo saber en los comentarios, y con gusto empezaré a redactar el siguiente post para explicártelo.
 
 ---
 

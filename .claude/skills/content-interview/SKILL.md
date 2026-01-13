@@ -32,27 +32,56 @@ The user shares something: an idea, a fragment, notes, a rant, a question, anyth
 
 These define the DNA of the post. Ask whichever haven't been answered yet:
 
-| #   | Question                                                    | Purpose                                                   |
-| --- | ----------------------------------------------------------- | --------------------------------------------------------- |
-| 1   | **"¿Cuál es la idea central en una frase?"**                | The anchor. Without this, there's no post.                |
-| 2   | **"¿A quién le estás hablando específicamente?"**           | Changes everything: tone, examples, depth.                |
-| 3   | **"¿Por qué te importa esto? ¿Qué te mueve a escribirlo?"** | Reveals the emotional core and urgency.                   |
-| 4   | **"¿Tienes una historia personal que conecte con esto?"**   | The differentiator. What makes it NOT generic AI content. |
-| 5   | **"¿Qué quieres que sienta o haga el lector al terminar?"** | Defines the destination.                                  |
-| 6   | **"¿Idioma principal?"**                                    | Spanish (warm) vs English (tight, aphoristic).            |
-| 7   | **"¿Qué tipo de post es esto?"** (see Post Types below)     | Defines length, platform, and depth.                      |
+| #   | Question                                                             | Purpose                                                   |
+| --- | -------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1   | **"¿Cuál es la idea central en una frase?"**                         | The anchor. Without this, there's no post.                |
+| 2   | **"¿A quién le estás hablando específicamente?"**                    | Changes everything: tone, examples, depth.                |
+| 3   | **"¿Por qué te importa esto? ¿Qué te mueve a escribirlo?"**          | Reveals the emotional core and urgency.                   |
+| 4   | **"¿Tienes una historia personal que conecte con esto?"**            | The differentiator. What makes it NOT generic AI content. |
+| 5   | **"¿Qué quieres que sienta o haga el lector al terminar?"**          | Defines the destination.                                  |
+| 6   | **"¿Idioma principal?"**                                             | Spanish (warm) vs English (tight, aphoristic).            |
+| 7   | **"¿Qué tipo de post es esto?"** (see Post Types below)              | Defines length, platform, and depth.                      |
+| 8   | **"¿Qué estilo de párrafo prefieres?"** (see Paragraph Styles below) | Defines rhythm and density of paragraphs.                 |
 
 ### Post Types Reference
 
 When asking question 7, present these options clearly:
 
-| Type                  | Platform              | Words       | Read Time | Goal                    |
-| --------------------- | --------------------- | ----------- | --------- | ----------------------- |
-| **Micro-Hilo**        | Twitter (X)           | 200-400     | < 1 min   | Virality & synthesis    |
-| **Nugget (Corto)**    | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
-| **Estándar**          | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
-| **Deep Dive (Largo)** | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
-| **Guía Paso a Paso**  | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
+| Type                   | Platform              | Words       | Read Time | Goal                    |
+| ---------------------- | --------------------- | ----------- | --------- | ----------------------- |
+| **Thread**             | Twitter (X)           | 200-400     | < 1 min   | Virality & synthesis    |
+| **Nugget (Short)**     | Newsletter / LinkedIn | 150-300     | 1-2 min   | One powerful idea       |
+| **Standard**           | Newsletter / Blog     | 500-900     | 3-5 min   | Develop a thesis        |
+| **Deep Dive (Long)**   | Newsletter Special    | 1,200-2,500 | +10 min   | Authority & analysis    |
+| **Step-by-Step Guide** | Blog / Wiki           | +1,500      | Variable  | Pure utility (Tutorial) |
+
+### Paragraph Styles Reference
+
+When asking question 8, present these options:
+
+| Style        | Paragraphs    | Description                                                       |
+| ------------ | ------------- | ----------------------------------------------------------------- |
+| **Airy**     | 1-3 sentences | Short paragraphs, frequent line breaks. Punchy rhythm.            |
+| **Balanced** | 3-5 sentences | Medium paragraphs with breathing room. Blog-style flow.           |
+| **Dense**    | 5-8 sentences | Longer blocks, book-like. Ideas fully developed before moving on. |
+
+**Example - Same idea, three styles:**
+
+**Airy:**
+
+> La ironía es brutal.
+>
+> Tailwind está en todos lados. ChatGPT lo usa. Claude lo usa.
+>
+> Pero los humanos ya no visitan la documentación.
+
+**Balanced:**
+
+> La ironía es brutal. Tailwind está en todos lados—ChatGPT lo usa, Claude lo usa, Cursor lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Pero los humanos ya no visitan la documentación. ¿Para qué? Se lo preguntan al agente.
+
+**Dense:**
+
+> La ironía es brutal: Tailwind está en todos lados. ChatGPT lo usa, Claude lo usa, Cursor lo usa, v0 lo usa, Figma lo usa. Cada agente de código que existe hoy genera Tailwind por defecto. Nunca ha sido tan popular, nunca ha tenido tanta adopción. Pero los humanos ya no visitan la documentación. ¿Para qué, si pueden preguntarle al agente? La IA consume el contenido, lo aprende, lo replica—pero no genera tráfico. Y sin tráfico humano, no hay ventas.
 
 ### Step 3: Contextual Questions (Variable)
 
@@ -69,7 +98,15 @@ Based on what the user shares, ask follow-up questions:
 | Surface-level answer          | "Profundiza un poco más en eso. ¿Qué hay detrás?"                               |
 | Interesting tangent           | "Eso que mencionaste sobre X... cuéntame más."                                  |
 
-### Step 4: Compile the Interview Document
+### Step 4: Closing Question (Always Ask)
+
+Before ending, always ask:
+
+**"¿Hay algo más que quieras agregar? ¿Algún comentario, idea o anotación que no hayamos tocado y que quieras que el post incluya?"**
+
+This captures anything the interviewer missed. Document these in a dedicated section for the post-builder.
+
+### Step 5: Compile the Interview Document
 
 When you have enough material (usually after 4-8 exchanges), compile everything into the output format.
 
@@ -77,14 +114,80 @@ When you have enough material (usually after 4-8 exchanges), compile everything 
 
 ## Output Format
 
-The final deliverable is a structured document. Save it as a markdown file in `writing/0_interviews/`:
+The final deliverable is a structured document. Save it as `interview.md` inside the post folder.
+
+**Path**: `writing/YYYY-MM-DD-slug/interview.md`
+
+### Before Starting
+
+Check which scenario applies:
+
+1. **User mentions a specific project**: Look for that folder in `writing/`. Check what files exist.
+2. **User shares a new idea**: Before creating, search for potentially related existing projects.
+3. **No context provided**: List existing post folders and their status. Ask which one to work on, or if it's a new idea.
+
+### Detecting Existing Projects
+
+When user shares an idea or topic, always check `writing/` first:
+
+- Look at folder names for similar topics
+- Read `source.md` or `interview.md` to check if content is related
+
+**If you find a related project**, ask:
+
+"Encontré un proyecto que parece relacionado: `writing/2026-01-09-shotgun-sniper/`
+Estado actual: source.md ✅, interview.md ✅, draft.md ✅
+
+¿Qué quieres hacer?
+
+1. **Continuar con este** - Retomo donde lo dejamos
+2. **Empezar de cero** - Creo un proyecto nuevo
+3. **Es otro tema** - No tiene relación"
+
+**If continuing**: Check which step they're on and resume there.
+**If starting fresh**: Ask for a new slug (suggest `topic-v2` or new date).
+
+### Finding Existing Sources
+
+To list posts ready for interview:
+
+```
+Look in writing/ for folders containing source.md but NOT interview.md
+```
+
+### Source Integration
+
+When `source.md` exists, use it to:
+
+- Reference specific quotes or ideas from the original content
+- Ask targeted questions about Sergio's reactions to specific points
+- Connect his ideas to the source material
+
+### Source Connection Question (Required when source.md exists)
+
+When there's a source, always ask:
+
+**"¿Cómo quieres conectar tu post con este recurso? Estas son las opciones:"**
+
+| Type                       | Example                                                     | When to use                   |
+| -------------------------- | ----------------------------------------------------------- | ----------------------------- |
+| **Intro contextual**       | "Vi un tweet de @autor que me hizo pensar..."               | Direct credit to the source   |
+| **Cita con reacción**      | "Como dice @autor: 'frase'. Pero hay un problema..."        | Expand or contrast the source |
+| **Mención sutil**          | "Este concepto que circula en la comunidad..."              | Reference without naming      |
+| **Contraste personal**     | "Cuando leí esto, me di cuenta que yo hice lo contrario..." | Your story is the focus       |
+| **Ancla de punchline**     | Use a source quote as the opening hook                      | Short posts with punch        |
+| **Sin conexión explícita** | No mention, just inspired by                                | When you want full ownership  |
+
+Document the chosen type in the interview for post-builder to implement.
 
 ```markdown
 # Interview: [Topic/Working Title]
 
 **Date**: YYYY-MM-DD
 **Language**: Spanish/English
-**Target Length**: Short (500-800) / Medium (1000-1500) / Long (2000+)
+**Target Length**: [Post Type from table] (e.g., Thread, Nugget, Standard, Deep Dive)
+**Paragraph Style**: [Paragraph Styles from table](e.g. Airy, Balanced, Dense)
+**Source Connection**: [Type chosen] (only if source.md exists)
 
 ---
 
@@ -138,6 +241,13 @@ Direct phrases that capture his voice perfectly and could be used verbatim in th
 > "[Quote 1]"
 > "[Quote 2]"
 > "[Quote 3]"
+
+### Additional Comments
+
+Things Sergio wanted to add that weren't covered during the interview. These should be integrated naturally into the post, not just appended.
+
+- [Comment 1]
+- [Comment 2]
 
 ### Notes for Post-Builder
 
