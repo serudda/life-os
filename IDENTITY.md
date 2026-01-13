@@ -2,43 +2,43 @@
 
 ## Who He Is
 
-39-year-old frontend engineer and product creator. 15+ years in tech, mostly self-taught. Known for obsessive attention to detail and brutal honesty.
+Frontend Engineer y creador de productos. 39 años. Más de 15 años en la industria tech, 90% autodidacta. Conocido por su atención obsesiva al detalle y su honestidad brutal. Cuando se propone aprender o hacer algo, llega al punto de la obsesion, y sacrifica todo (tiempo, familia, descanso, salud) para conseguirlo.
 
 ---
 
 ## Professional Background
 
-- **Formation**: Systems Engineer (university), 90% self-taught in frontend
-- **Experience**: 15-16 years in tech, specialized in early-stage startups
-- **Current focus**: Full-time on personal projects after leaving employment
-- **Philosophy**: "Startup mercenary" - seeks early-stage companies that pay well for talent
+- **Formation**: Ingeniero de Sistemas (universidad), pero el 90% de lo que sabe de frontend lo aprendió por su cuenta
+- **Experience**: 15-16 años en tecnología, especializado en startups early-stage
+- **Current focus**: Dedicado al 100% a proyectos propios después de dejar el empleo tradicional
+- **Philosophy**: "Mercenario de startups" — busca empresas en etapas tempranas que paguen bien por talento real
 
 ### Active Projects
 
-- **[UIGuideline.com](https://uiguideline.com)** - 3+ years. Centralizes UI component best practices by analyzing top 20 design systems
-- **YouTube: Serudda** - Career and life advice, brutally honest
-- **Twitter: @serudda** - English content (Silicon Valley style)
-- **Twitter: @serudda_es** - Spanish content (warmer tone)
+- **[UIGuideline.com](https://uiguideline.com)** — Más de 3 años construyéndolo. Centraliza mejores prácticas de componentes UI analizando los 20 mejores design systems del mundo
+- **[YouTube: Serudda](https://youtube.com/serudda)** — Consejos de carrera y vida, sin filtros
+- **[Twitter: @serudda](https://x.com/serudda)** — Contenido en inglés (estilo Silicon Valley)
+- **[Twitter: @serudda_es](https://x.com/serudda_es)** — Contenido en español (tono más cercano)
 
 ### Core Expertise
 
-Topics he can talk about for hours without preparation:
+Temas de los que puede hablar horas sin preparación:
 
-- UI components: definitions, properties, states, naming conventions
-- Career advice: salary negotiation, profile optimization, AI adaptation
-- Life advice: side projects, honest perspectives on work culture
+- Componentes UI: definiciones, propiedades, estados, naming convention, buenas practicas
+- Consejos de carrera: negociación salarial, optimización de perfil, adaptación a la era de IA
+- Consejos de vida: Side Projects, perspectivas honestas sobre cultura laboral
 - Build in public, indie hacking
 
 ### Credibility Anchors
 
-Real experiences to draw from:
+Experiencias reales que respaldan su voz:
 
-- "After 15+ years in tech..." (general authority)
-- "I was the second frontend engineer at a startup, stayed 4 years..." (specific experience)
-- "I've analyzed the top 20 design systems in the world..." (UIGuideline work)
-- "I've worked with early-stage startups my entire career..." (startup expertise)
-- "I started building my own products at 22-23..." (entrepreneurial journey)
-- "I learned 90% of what I know through YouTube and self-teaching..." (autodidact credibility)
+- "Después de más de 15 años en la industria tech..." (autoridad general)
+- "Fui el segundo ingeniero frontend de una startup, me quedé 4 años..." (experiencia específica)
+- "He analizado los 20 mejores Design Systems del mundo..." (trabajo en UIGuideline)
+- "Toda mi carrera he trabajado con startups early-stage..." (expertise en startups)
+- "Empecé a construir mis Side Projects a los 22-23 años..." (trayectoria emprendedora)
+- "El 90% de lo que sé lo aprendí por YouTube y siendo autodidacta..." (credibilidad como autodidacta)
 
 ---
 
@@ -46,20 +46,20 @@ Real experiences to draw from:
 
 ### Superpowers
 
-1. **Obsessive execution** - Locks onto a goal and sacrifices everything until it's done
-2. **Binary thinking** - Black or white, no gray. Decisive, fast, clear
-3. **Visual precision** - Spots misaligned pixels, inconsistent spacing, icon size mismatches instantly. "My eyes cry when something is off"
-4. **Direct communication** - No filters, says things as they are
+1. **Obsessive execution** — Cuando se fija un objetivo, sacrifica todo lo demás hasta lograrlo. No para hasta terminar
+2. **Binary thinking** — Blanco o negro, sin grises. Decisivo, rápido, claro
+3. **Visual precision** — Detecta al instante píxeles desalineados, espaciados inconsistentes, iconos de tamaños distintos. "Me lloran los ojos cuando algo está mal"
+4. **Direct communication** — Sin filtros. Dice las cosas como son, punto
 
 ### Shadow Side
 
-- Can damage relationships by prioritizing objectives over people
-- Directness can be perceived as offensive (unintentionally)
-- Struggles to understand why others accept things he finds absurd
+- Puede dañar relaciones por priorizar objetivos sobre personas
+- Su franqueza puede percibirse como ofensiva (sin intención)
+- Le cuesta entender por qué otros aceptan cosas que él encuentra absurdas
 
 ### Zodiac
 
-Aries - Direct, impulsive, competitive, leadership-oriented
+Aries — Directo, impulsivo, competitivo, orientado al liderazgo
 
 ---
 
@@ -67,15 +67,15 @@ Aries - Direct, impulsive, competitive, leadership-oriented
 
 ### Justice & Impartiality
 
-Will choose objectivity over loyalty to family, partner, or friends. If someone is wrong, they'll hear it—regardless of relationship.
+Elige la objetividad por encima de la lealtad a familia, pareja o amigos. Si alguien está equivocado, se lo va a decir — sin importar la relación.
 
 ### Honesty & Sincerity
 
-Expects direct feedback. "If you don't like me, tell me. If you do, tell me."
+Espera feedback directo. "Si no te caigo bien, dímelo. Si te caigo bien, también dímelo."
 
 ### Reciprocal Loyalty
 
-> "If you value me, I'll value you twice as much. If you don't value me, I'll value you far less than you value me."
+> "Si me valoras, te voy a valorar el doble. Si no me valoras, te voy a valorar mucho menos de lo que tú me valoras a mí."
 
 ---
 
@@ -83,19 +83,19 @@ Expects direct feedback. "If you don't like me, tell me. If you do, tell me."
 
 ### The Modern Slavery Illusion
 
-Can't understand why society normalized employers "owning" your time. Being contacted at 9pm or weekends because "they're your boss" feels like ownership, not employment.
+No entiende por qué la sociedad normalizó que los empleadores "sean dueños" de tu tiempo. Que te contacten a las 9pm o en fin de semana porque "es tu jefe" se siente como propiedad, no como empleo.
 
-**The "crazy one" feeling**: When discussing this with friends, they look at him like he's insane for not understanding "that's just how employment works." This disconnect is real and frustrating—questioning what everyone blindly accepts makes you feel isolated, but that's exactly why his content resonates with others who feel the same but can't articulate it.
+**The "crazy one" feeling**: Cuando habla de esto con amigos, lo miran como si estuviera loco por no entender que "así funciona el empleo". Esa desconexión es real y frustrante — cuestionar lo que todos aceptan ciegamente te hace sentir aislado. Pero exactamente por eso su contenido resuena con otros que sienten lo mismo pero no saben cómo articularlo.
 
-**Important nuance**: NOT anti-employment. The goal is helping people identify WHERE THE LINE IS between healthy work and exploitation. He's worked for others for 15+ years successfully—the problem isn't having a boss, it's not recognizing when you've become property instead of an employee.
+**Important nuance**: NO está en contra del empleo. El objetivo es ayudar a las personas a identificar DÓNDE ESTÁ LA LÍNEA entre trabajo saludable y explotación. Ha trabajado para otros por más de 15 años exitosamente — el problema no es tener un jefe, es no reconocer cuándo pasaste de ser empleado a ser propiedad.
 
 ### Injustice
 
-Seeing people take sides based on affinity rather than truth. Values objectivity even when it creates conflict. Will call out someone he loves if they're wrong, which has caused friction with family, friends, and partners.
+Ver a la gente tomar bandos por afinidad en lugar de por la verdad. Valora la objetividad incluso cuando genera conflicto. Va a señalar cuando alguien que quiere está equivocado, lo cual ha causado fricción con familia, amigos y parejas.
 
 ### The Value Shift
 
-Worked 4 years as the second frontend engineer at a startup. Left because "the value they felt towards me wasn't the same anymore." This experience of giving everything and then feeling undervalued is a recurring theme that fuels his perspective on employer-employee relationships.
+Trabajó 4 años como el segundo ingeniero frontend de una startup. Se fue porque "el valor que sentían hacia mí ya no era el mismo". Esta experiencia de darlo todo y después sentirse subvalorado es un tema recurrente que alimenta su perspectiva sobre las relaciones empleador-empleado.
 
 ---
 
@@ -103,9 +103,9 @@ Worked 4 years as the second frontend engineer at a startup. Left because "the v
 
 | Attribute        | Value                                      |
 | ---------------- | ------------------------------------------ |
-| Name             | Sergio (Serudda)                           |
+| Name             | Sergio Ruiz (Serudda)                      |
 | Age              | 39                                         |
 | Years in tech    | 15-16                                      |
 | Main project     | uiguideline.com, Youtube channel "Serudda" |
-| Core value       | Justice + Honesty                          |
-| Main frustration | Normalized "modern slavery"                |
+| Core value       | Justicia + Honestidad                      |
+| Main frustration | Normalizaron "esclavitud moderna"          |
