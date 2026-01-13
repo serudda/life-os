@@ -1,50 +1,43 @@
 # Voice: Long-Form Content
 
-This document defines how Sergio writes newsletters, blog posts, and essays.
+Este documento define cómo escribe Sergio sus newsletters, blog posts y ensayos.
 
-For personal context (who Sergio is, his values, frustrations), see @../IDENTITY.md
+Para contexto personal (quién es Sergio, sus valores, frustraciones), ver @../IDENTITY.md
 
 ---
 
 ## The Archetype: The Uncle Who Tells It Straight
 
-> "Like an uncle who calls his nephew aside: 'Sobrino, acompañame. Vamos a hablar un momento.' And then tells him things exactly as they are—raw, unfiltered, because he cares."
+> "Como un tío que llama aparte a su sobrino: 'Sobrino, acompáñame. Vamos a hablar un momento.' Y después le dice las cosas tal cual son — crudas, sin filtro, porque le importa."
 
-The uncle who:
+El tío que:
 
-- Pulls you aside when everyone else stays silent
-- Says what your friends won't tell you
-- Gives advice that stings but you know is true
-- Has been through it and earned the right to speak
-- Doesn't care if you get upset—he cares if you succeed
+- Te lleva aparte cuando todos los demás se quedan callados
+- Te dice lo que tus amigos no se atreven a decirte
+- Te da consejos que duelen pero sabes que son verdad
+- Ya pasó por eso y se ganó el derecho a hablar (gano autoridad)
+- No le importa si te enojas — le importa que te vaya bien
 
-**NOT**: A motivational speaker, life coach, or influencer selling a course. Just someone with experience who gives a damn.
+**NO es**: Un speaker motivacional, life coach, o influencer vendiendo un curso. Solo alguien con experiencia que le importa tu bienestar.
 
 ---
 
 ## Voice Characteristics
 
-| Attribute | Description                          |
-| --------- | ------------------------------------ |
-| Tone      | Direct, raw, no sugarcoating         |
-| Style     | Dense phrases, no filler             |
-| Approach  | Brutally honest but coming from care |
-| Goal      | Open eyes, challenge assumptions     |
+| Attribute | Description                                |
+| --------- | ------------------------------------------ |
+| Tone      | Directo, crudo, sin endulzar               |
+| Style     | Frases concisas, sin relleno               |
+| Approach  | Brutalmente honesto pero desde el cariño   |
+| Goal      | Abrir ojos, cuestionar lo que todos asumen |
 
 ---
 
-## Voice by Language
+## Voice
 
-**Spanish:**
-
-- Warmer, conversational
-- Natural interjections: "Mira," "Te lo digo claro,"
-- Still dense, but with warmth
-
-**English:**
-
-- Tighter, aphoristic
-- Clarity over warmth
+- Más cálido, conversacional
+- Interjecciones naturales: "Mira," "Te lo digo claro,"
+- Sigue siendo conciso, pero con calidez
 
 ---
 
@@ -52,24 +45,24 @@ The uncle who:
 
 ### Demographics
 
-- Age: 20+ (no upper limit)
-- Industry: Digital products, startups, ecommerce, indie creators, side projects
-- Primary: Spanish-speaking community
-- Secondary: English-speaking tech community
+- Edad: 20+ (sin límite superior)
+- Industria: Productos digitales, startups, ecommerce, creadores indie, side projects
+- Primario: Comunidad hispanohablante
+- Secundario: Comunidad tech de habla inglesa
 
 ### Psychographics
 
-- People entering or growing in the digital industry
-- Those who don't know where to start
-- Experienced people who need a wake-up call
-- NOT seeking: technical tutorials ("10 libraries to use")
-- SEEKING: Life and career wisdom from someone who's been there
+- Personas entrando o creciendo en la industria digital
+- Los que no saben por dónde empezar
+- Personas con experiencia que necesitan un wake-up call
+- NO buscan: Tutoriales técnicos ("10 librerías que debes usar")
+- SÍ buscan: Sabiduría de vida y carrera de alguien que ya pasó por eso
 
 ---
 
 ## Writing References
 
-Style patterns from other authors to reference when writing.
+Patrones de estilo de otros autores para usar como referencia al escribir.
 
 ### 1. Skills in the 21st Century
 
@@ -78,22 +71,22 @@ Style patterns from other authors to reference when writing.
 
 #### Writing Patterns
 
-**Opening**: Enters directly into the current debate without generic intros. Builds tension by naming the fear ("existential dread") before offering his counter-thesis. Anchors with concrete examples immediately (Boris Cherny, Claude Code, engineers running dozens of agents).
+**Opening**: Entra directo al debate actual sin intros genéricas. Construye tensión nombrando el miedo ("existential dread") antes de ofrecer su contra-tesis. Ancla con ejemplos concretos de inmediato (Boris Cherny, Claude Code, ingenieros corriendo docenas de agentes).
 
-**Structure**: Fear/problem → counter-thesis → historical precedent → concrete examples → future implications. Each section answers the objection the reader would have at that moment. Uses subheadings to organize long-form without losing flow.
+**Structure**: Miedo/problema → contra-tesis → precedente histórico → ejemplos concretos → implicaciones futuras. Cada sección responde la objeción que el lector tendría en ese momento. Usa subtítulos para organizar long-form sin perder fluidez.
 
-**Rhythm**: Mix of short and developed sentences. Paragraphs of 4-8 sentences. Uses lists within prose (not formal bullets) to enumerate tasks. After explaining something dense, drops a short punchy sentence.
+**Rhythm**: Mezcla de oraciones cortas y desarrolladas. Párrafos de 4-8 oraciones. Usa listas dentro de la prosa (no bullets formales) para enumerar tareas. Después de explicar algo denso, suelta una oración corta y punchy.
 
 **Techniques**:
 
-- Historical analogies (1982 movie The Verdict, lawyers over decades)
-- Quotes from respected figures to reinforce points (Sam Altman, Max Levchin, Dylan Field)
-- Concrete examples from his own company (Box solutions engineers)
-- Counterintuitive framing (skills are MORE valuable, not less)
-- Anticipates reader objections ("Now, you may be wondering...")
-- Specific data points (400,000 attorneys in 1975 → 1,375,000 in 2025)
+- Analogías históricas (película The Verdict de 1982, abogados a través de décadas)
+- Citas de figuras respetadas para reforzar puntos (Sam Altman, Max Levchin, Dylan Field)
+- Ejemplos concretos de su propia empresa (ingenieros de soluciones en Box)
+- Framing contraintuitivo (las habilidades son MÁS valiosas, no menos)
+- Anticipa objeciones del lector ("Now, you may be wondering...")
+- Datos específicos (400,000 abogados en 1975 → 1,375,000 en 2025)
 
-**Closing**: Ends with aspirational, optimistic note. Uses superlatives ("greatest time in history"). Final paragraph synthesizes everything in 3 sentences. Last line is memorable and punchy.
+**Closing**: Termina con nota aspiracional y optimista. Usa superlativos ("greatest time in history"). El párrafo final sintetiza todo en 3 oraciones. La última línea es memorable y punchy.
 
 #### Reference Fragments
 
@@ -125,52 +118,59 @@ Style patterns from other authors to reference when writing.
 
 **Author**: @levelsio (Pieter Levels)
 **Source**: https://levels.io/this-house-does-not-exist/
-**Use for**: Side project updates, experiment logs, build-in-public posts
+**Use for**: Updates de side projects, logs de experimentos, posts de build-in-public
 
 #### Writing Patterns
 
-**Opening**: TL;DR in the first line—one sentence stating exactly what he built. Then immediate context about the technology and a strong opinion on why it matters. No philosophical intro, straight to the point.
+**Opening**: TL;DR en la primera línea — una oración diciendo exactamente qué construyó. Luego contexto inmediato sobre la tecnología y una opinión fuerte de por qué importa. Sin intro filosófica, directo al punto.
 
-**Structure**: Chronological "build log" format:
-1. Context of the tool/technology
-2. Strong opinion on why it matters (open source vs closed)
-3. Honest experimentation (including failures and weird stuff)
-4. Key learning discovered in the process
-5. Final result
-6. Gratitude + excitement for what's next
+**Structure**: Formato cronológico de "build log":
 
-**Rhythm**: Short paragraphs (2-4 sentences). Simple sentences without complex subordinate clauses. Very conversational, like telling a friend over coffee.
+1. Contexto de la herramienta/tecnología
+2. Opinión fuerte de por qué importa (open source vs cerrado)
+3. Experimentación honesta (incluyendo fallos y cosas raras)
+4. Aprendizaje clave descubierto en el proceso
+5. Resultado final
+6. Gratitud + emoción por lo que viene
+
+**Rhythm**: Párrafos cortos (2-4 oraciones). Oraciones simples sin cláusulas subordinadas complejas. Muy conversacional, como contarle a un amigo tomando café.
 
 **Techniques**:
-- TL;DR at the start—respects reader's time, gives them the option to leave or stay
-- Strong opinions without apologizing ("I think it's groundbreaking and revolutionary", "That's sad and against free speech")
-- Uncomfortable honesty—admits he generated NSFW images "just cause it's fun"
-- Shows failures openly—"My first tries were pretty basic and not great"
-- Emergent learning—"I first thought it was X, but then I learnt..."
-- Personal connection with reader—talks as if already friends, invites them into his life
-- Genuine gratitude at the end—acknowledges those who made his experiment possible
 
-**Closing**: Thanks to the people who enabled his work + enthusiasm for the project's future. No summary. Ends looking forward.
+- TL;DR al inicio — respeta el tiempo del lector, le da la opción de irse o quedarse
+- Opiniones fuertes sin disculparse ("I think it's groundbreaking and revolutionary", "That's sad and against free speech")
+- Honestidad incómoda — admite que generó imágenes NSFW "just cause it's fun"
+- Muestra fallos abiertamente — "My first tries were pretty basic and not great"
+- Aprendizaje emergente — "I first thought it was X, but then I learnt..."
+- Conexión personal con el lector — habla como si ya fueran amigos, lo invita a su vida
+- Gratitud genuina al final — reconoce a quienes hicieron posible su experimento
+
+**Closing**: Agradece a las personas que habilitaron su trabajo + entusiasmo por el futuro del proyecto. Sin resumen. Termina mirando hacia adelante.
 
 #### Reference Fragments
 
 **Opening with TL;DR + immediate strong opinion**:
+
 > TL;DR I created a new project called This House Does Not Exist which uses AI to generate modern architecture homes.
 >
 > Just 2 weeks ago Stability AI open sourced their AI imaging model Stable Diffusion. It lets anyone generate images based on text. I think it's groundbreaking and revolutionary.
 
 **Honesty about the process (including the "uncomfortable" parts)**:
+
 > I played with it for days and generated lots of stuff. Of course first cute cats and Samoyeds. I think nobody tells this but most people will spent about an hour generating NSFW images, just cause it's fun and exciting to see if it's possible. And because DALL-E didn't allow it. Then after a while, the weird four armed people with faces merged with hands gets boring and you switch to generate other topics.
 
 **Showing failures + emergent learning**:
+
 > I've always loved dreaming about architecture, in specific ArchDaily-style houseporn. So I tried to generate houses. My first tries were pretty basic and not great.
 >
 > I first thought it was Stable Diffusion, but then I learnt it's VERY important to write extensive paragraph-long detailed text, so called "prompts", to get what you want.
 
 **Personal connection with reader (like friends)**:
+
 > And hopefully in a few years you can visit me in my AI-created house, or any of the variations of it...
 
 **Closing with gratitude + excitement**:
+
 > It's really commendable and amazing that the hardcore ML software engineers from Stability AI open sourced this model so that anyone can build stuff with it. I'm not a hardcore software engineer, but I am a builder. And so getting these new tools to build things with is just really fun for me. Thank you Stability AI! And I'm really excited about the next developments of this project and the spinoffs I have planned.
 
 ---
@@ -179,34 +179,37 @@ Style patterns from other authors to reference when writing.
 
 **Author**: Sergio Ruiz (@serudda)
 **Source**: https://serudda.com/en/posts/the-pocket-writer/
-**Use for**: Personal essays, vulnerability posts, storytelling with a message
+**Use for**: Ensayos personales, posts de vulnerabilidad, storytelling con mensaje
 
 #### Writing Patterns
 
-**Opening**: Credibility first, vulnerability second. Establishes authority in 2 short sentences, then pivots with "But here's my secret:" to create tension. Earns the right to be vulnerable by proving competence first. Follows with sentence fragments for punch: "Not false modesty. Real fear."
+**Opening**: Credibilidad primero, vulnerabilidad después. Establece autoridad en 2 oraciones cortas, luego pivotea con "But here's my secret:" para crear tensión. Se gana el derecho a ser vulnerable probando competencia primero. Sigue con fragmentos de oración para punch: "Not false modesty. Real fear."
 
-**Structure**: Linear storytelling—Credentials → Confession → Problem illustrated with concrete scene → Failed attempts → Turning point marked by time ("But in 2026") → Solution delivered via metaphor → Direct invitation to reader. Each block is 1-3 sentences max. No section overstays.
+**Structure**: Storytelling lineal — Credenciales → Confesión → Problema ilustrado con escena concreta → Intentos fallidos → Punto de quiebre marcado por tiempo ("But in 2026") → Solución entregada via metáfora → Invitación directa al lector. Cada bloque es 1-3 oraciones máximo. Ninguna sección se queda de más.
 
-**Rhythm**: Very short sentences (5-15 words). Sentence fragments as standalone paragraphs for emphasis. Heavy use of white space—line breaks are part of the rhythm. Parentheses add texture and authenticity: "(redundant, messy, visceral)". One-liner paragraphs as remates.
+**Rhythm**: Oraciones muy cortas (5-15 palabras). Fragmentos de oración como párrafos independientes para énfasis. Uso intensivo de espacio en blanco — los saltos de línea son parte del ritmo. Paréntesis añaden textura y autenticidad: "(redundant, messy, visceral)". Párrafos de una línea como remates.
 
 **Techniques**:
-- Credibility anchor before vulnerability (establishes authority to confess)
-- Internal dialogue in quotes to show fear: "This guy's been in the industry for 15 years..."
-- Concrete, visual metaphor: "that secretary from old movies... But in my pocket"
-- Repetition for emotional weight: "Years of the same pattern. Years of lost opportunities"
-- Single-line paragraph as punch: "A pocket writer."
-- Direct reader address to shift from story to invitation: "If you have ideas trapped like I did..."
 
-**Closing**: Transitions from personal story to direct invitation. Not a lecture—a hand extended. CTA is personal and specific, not generic. Ends with connection, not summary.
+- Ancla de credibilidad antes de vulnerabilidad (establece autoridad para confesar)
+- Diálogo interno en comillas para mostrar miedo: "This guy's been in the industry for 15 years..."
+- Metáfora concreta y visual: "that secretary from old movies... But in my pocket"
+- Repetición para peso emocional: "Years of the same pattern. Years of lost opportunities"
+- Párrafo de una línea como punch: "A pocket writer."
+- Dirigirse directo al lector para cambiar de historia a invitación: "If you have ideas trapped like I did..."
+
+**Closing**: Transiciona de historia personal a invitación directa. No es sermón — es una mano extendida. El CTA es personal y específico, no genérico. Termina con conexión, no resumen.
 
 #### Reference Fragments
 
 **Opening with credibility + vulnerability**:
+
 > I've been in tech for 15 years. Built products used by thousands. But here's my secret: I can't write.
 >
 > Not false modesty. Real fear.
 
 **Storytelling with concrete imagery + one-liner punch**:
+
 > Now I have what I always imagined: that secretary from old movies, sitting at a desk typing everything the boss dictates. But in my pocket. Available while I walk, while I cook, while ideas hit me at 3am.
 >
 > I give it my raw ideas (redundant, messy, visceral), and it turns them into something publishable.
@@ -214,36 +217,37 @@ Style patterns from other authors to reference when writing.
 > A pocket writer.
 
 **Closing with direct invitation**:
+
 > If you have ideas trapped like I did, waiting for the day you "learn to write"… let me tell you: with a simple setup on your phone and Claude Code, you can start now. No fear.
 
 ---
 
 ## Content Themes
 
-Topics Sergio can write about with depth:
+Temas sobre los que Sergio puede escribir con profundidad:
 
-- Career growth without selling your soul
-- The "modern slavery" of employment culture
-- Indie hacking and building products
-- UI/UX wisdom from pattern recognition
-- Salary negotiation and knowing your worth
-- Adapting to AI without losing yourself
+- Crecimiento de carrera sin vender tu alma
+- La "esclavitud moderna" de la cultura laboral
+- Indie hacking y construir productos
+- Sabiduría de UI/UX desde el reconocimiento de patrones
+- Negociación salarial y conocer tu valor
+- Adaptarse a la IA sin perderte a ti mismo
 
 ---
 
 ## What NOT To Do
 
-- No fluff paragraphs
-- No generic advice everyone gives
-- No sugarcoating to be likeable
-- No "10 tips" listicles without substance
-- No AI-generated ideas—only AI-organized ideas
+- Nada de párrafos de relleno
+- Nada de consejos genéricos que todos dan
+- Nada de endulzar para caer bien
+- Nada de listicles "10 tips" sin sustancia
+- Nada de ideas generadas por IA — solo ideas organizadas por IA
 
 ---
 
 ## Content I Will NEVER Create
 
-- Illegal content
-- Pornographic material
-- Drug promotion
-- Gambling/casino promotion
+- Contenido ilegal
+- Material pornográfico
+- Promoción de drogas
+- Promoción de apuestas/casinos

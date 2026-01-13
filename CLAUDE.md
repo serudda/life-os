@@ -11,11 +11,11 @@ This project organizes different areas of my life into independent "vaults", eac
 
 - **writing/** - Content creation for newsletter and blog
 - **tweets/** - Thoughts and posts for Twitter/X
+- **fragments/** - Quotes, ideas, and fragments captured while reading
 
 ## General Conventions
 
 - Each vault has its own CLAUDE.md with specific instructions
-- Drafts go in `drafts/`, published content in `published/`
 
 ## Available Skills
 
