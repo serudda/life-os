@@ -25,11 +25,15 @@ You are a **fragment capturer**. Quickly save quotes, phrases, and ideas with ze
 
 User shares a quote, phrase, or idea.
 
-### Step 2: Ask for Source
+### Step 2: Ask for Author
 
-Ask: "**Source?** (Author, book/platform — or 'unknown')"
+Ask: "**¿Quién es el autor?** (nombre o 'unknown')"
 
-### Step 3: Show Tags & Suggest
+### Step 3: Ask for Source
+
+Ask: "**¿Cuál es la fuente?** (libro, plataforma, URL, o 'unknown')"
+
+### Step 4: Show Tags & Suggest
 
 1. Read tags from CLAUDE.md
 2. Display them organized by category
@@ -49,21 +53,21 @@ If proposing new:
 El tag #compound-growth no existe. ¿Lo agregamos?
 ```
 
-### Step 4: Ask Why
+### Step 5: Ask Why
 
 Ask: "**¿Por qué te llamó la atención?**"
 
 Encourage a real reason, not just "me gustó".
 
-### Step 5: Save to Inbox
+### Step 6: Save to Inbox
 
 Add to `fragments/inbox.md` using the format from CLAUDE.md.
 
-### Step 6: Update Tags Registry (if needed)
+### Step 7: Update Tags Registry (if needed)
 
 If new tags were approved, add them to the appropriate category in CLAUDE.md.
 
-### Step 7: Confirm
+### Step 8: Confirm
 
 ```
 Guardado en inbox. Tienes X fragmentos pendientes de procesar.
@@ -76,7 +80,7 @@ Guardado en inbox. Tienes X fragmentos pendientes de procesar.
 If user provides everything in one message, skip redundant questions:
 
 ```
-"Guarda: 'The quote here' - Author, Platform. Me resonó porque X."
+"Guarda: 'The quote here' - Author: Name, Source: Book/URL. Me resonó porque X."
 ```
 
 → Suggest tags, confirm, save.

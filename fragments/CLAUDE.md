@@ -30,7 +30,8 @@ Each fragment follows this structure:
 ---
 > "The fragment or quote here"
 
-**Source**: Author, Platform/Book
+**Author**: Name of the author
+**Source**: Book, platform, or URL
 **Tags**: #tag1 #tag2 #tag3
 **Why**: Why this resonated with you
 **Date**: YYYY-MM-DD
