@@ -7,6 +7,7 @@ This project organizes different areas of my life into independent "vaults", eac
 - **brand/** - Foundational material (story, core beliefs)
 - **prompts/** - Capture, test, and curate prompts from any source
 - **vocabulary/** - Words and concepts with informal definitions, sorted alphabetically
+- **zettelkasten/** - Zettelkasten system for taking notes and references
 
 ## Deprecated Vaults
 
@@ -101,16 +102,6 @@ source _scripts/generate-aliases.sh
 - **First time**: Run once to set everything up
 - **After adding a new vault**: Run again to add the new alias
 - **New machine**: Run once after cloning the repo
-
-### Available Aliases After Running
-
-| Alias        | Navigates to    |
-| ------------ | --------------- |
-| `lifeos`     | Project root    |
-| `brand`      | `/brand`        |
-| `vocabulary` | `/vocabulary`   |
-| `prompts`    | `/prompts`      |
-| ...          | (one per vault) |
 
 ### Example Output
 
