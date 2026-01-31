@@ -2,10 +2,6 @@
 
 Twitter/X content: drafts, ideas, and published posts.
 
-## Voice
-
-Read **@VOICE.md** for tone, audience, and style guidelines.
-
 ---
 
 ## Workflow
