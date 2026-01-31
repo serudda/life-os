@@ -13,3 +13,33 @@ Unprocessed fragments. Use `/process-fragments` to categorize and move to librar
 **Date**: 2026-01-14
 
 ---
+
+> "No puedes construir una reputación basada en lo que harás"
+
+**Author**: Henry Ford
+**Source**: "Habla menos, actúa más" - Brian Tracy
+**Tags**: #career #values #shipping #personal-branding
+**Why**: Es algo en lo que caigo mucho... me llega una idea, y corro a contarla prometiendo que lo haré.
+**Date**: 2026-01-19
+
+---
+
+> "No importa qué tan lento vayas, lo importante es nunca detenerse."
+
+**Author**: Confucio
+**Source**: "Habla menos, actúa más" - Brian Tracy
+**Tags**: #focus #shipping #priorities
+**Why**: A veces me doy muy duro, porque siento que voy muy lento.
+**Date**: 2026-01-19
+
+---
+
+> "Primero hacemos nuestros hábitos y luego nuestros hábitos nos hacen a nosotros"
+
+**Author**: John Dryden
+**Source**: "Habla menos, actúa más" - Brian Tracy
+**Tags**: #focus #priorities #mastery
+**Why**: Auto recordarme que si mantengo mis buenos hábitos en el tiempo, tarde o temprano, ellos me terminarán haciendo a mí.
+**Date**: 2026-01-19
+
+---
