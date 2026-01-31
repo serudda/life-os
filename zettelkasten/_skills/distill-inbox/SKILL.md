@@ -1,5 +1,5 @@
 ---
-name: zettelkasten-distill
+name: distill-inbox
 description: Process entries from inbox.md one by one to transform them into Permanent Notes. It handles file creation in the Zettelkasten folder, moves literature references, and cleans up the inbox. Use when user says "process inbox", "distill my notes", "organize inbox".
 ---
 

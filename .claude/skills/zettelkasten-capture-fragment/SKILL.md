@@ -1,0 +1,1 @@
+../../../zettelkasten/_skills/capture-fragment/SKILL.md

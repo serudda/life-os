@@ -1,0 +1,1 @@
+../../../zettelkasten/_skills/assemble-permanent-notes/SKILL.md

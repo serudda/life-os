@@ -5,35 +5,33 @@ This is a personal knowledge management system (Second Brain) based on Niklas Lu
 ## Project Structure
 
 ```
-zettelkasten-garden/
-├── .claude/skills/      # Skill definitions
+zettelkasten/
 ├── inbox.md             # Central entry point for all captures
 ├── tags.md              # Central registry of all tags
-├── zettelkasten/        # Permanent and literature notes
-|   └── permanent/       # Processed own ideas
-|   └── references/      # Bibliographic cards
+├── permanent/           # Processed own ideas
+├── references/          # Bibliographic cards
 └── CLAUDE.md            # This file
 ```
 
 ## Available Skills
 
-### `/zettelkasten-capture`
+### `/zettelkasten-capture-fragment`
 
 Fast, low-friction capture of ideas and external sources. Guides through a step-by-step conversation and appends to `inbox.md`.
 
-### `/zettelkasten-distill`
+### `/zettelkasten-distill-inbox`
 
 Processes entries from `inbox.md` one by one, transforming them into Permanent Notes in `/zettelkasten/permanent/`.
 
-### `/zettelkasten-assembler`
+### `/zettelkasten-assemble-permanent-notes`
 
 Bottom-up content creation. Researches and assembles permanent notes into structured drafts (blogs, newsletters, threads).
 
 ## Workflow
 
-1. **Capture** → `/zettelkasten-capture` → raw ideas to `inbox.md`
-2. **Distill** → `/zettelkasten-distill` → inbox to permanent notes
-3. **Assemble** → `/zettelkasten-assembler` → notes to content
+1. **Capture** → `/zettelkasten-capture-fragment` → raw ideas to `inbox.md`
+2. **Distill** → `/zettelkasten-distill-inbox` → inbox to permanent notes
+3. **Assemble** → `/zettelkasten-assemble-permanent-notes` → notes to content
 
 ## Interaction Philosophy
 
@@ -43,7 +41,7 @@ Bottom-up content creation. Researches and assembles permanent notes into struct
 
 ## Important Rules
 
-- Always ask questions in **Spanish** (user's native language)
-- Always document/write notes in **English**
-- One question at a time to reduce friction
-- Tags: always reference `tags.md` for existing tags; add new ones there if needed
+- One question at a time to reduce friction.
+- Tags: always reference `tags.md` for existing tags; add new ones there if needed.
+
+_IMPORTANT: The user is a Spanish speaker, so ask all questions in Spanish, but document everything in English._

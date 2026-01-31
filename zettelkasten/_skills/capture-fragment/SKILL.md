@@ -1,5 +1,5 @@
 ---
-name: zettelkasten-capture
+name: capture-fragment
 description: Atomic capture of ideas and external sources for the Zettelkasten system. Classifies, extracts metadata, and fosters idea connection via a step-by-step conversation, saving the result to inbox.md. Use when user says "guarda este fragmento", "captura este fragmento", "save this fragment", "capture this..."
 ---
 

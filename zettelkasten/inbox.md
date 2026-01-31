@@ -490,6 +490,25 @@ Cuando las personas saben que, sin importancia, importar la meta la iniciarás y
 
 ---
 
+## El tiempo no se pierde, se intercambia
+
+- **ID:** 202601311200
+- **Type:** Literature
+- **Source:** Unknown
+- **Tags:** #inbox #decision-making #self-improvement #mindset
+
+### Content
+
+Mira, el tiempo no se pierde. Se intercambia.
+
+Cada hora en algo inútil es una hora que pagaste para evitar convertirte en quien quieres ser.
+
+### Capture Context
+
+- **Core Insight:** Cali, lo importante de saber usar muy bien nuestro tiempo. Puede que no sepamos o no tengamos claro qué queremos ser en la vida, pero todo empieza desde lo más atómico, y lo más atómico es saber aprovechar nuestros tiempos, así sea para leer, así sea para indagar, para estudiar, para probar, para crear. El tiempo es único, mágico, y la idea es gastarlo lo menos posible en lo inútil.
+
+---
+
 ## Aprender en público
 
 - **ID:** 202601311145
