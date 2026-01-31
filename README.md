@@ -67,3 +67,70 @@ chmod +x _scripts/setup-skills.sh
 ✅ Structure ready: prompts-prompt-generator/SKILL.md
 ✨ Portals configured correctly.
 ```
+
+## Quick Navigation with Vault Aliases
+
+### Why Aliases?
+
+Navigating to different vaults requires typing long paths like `cd /Users/serudda/Documents/Projects/life-os/vocabulary`. With aliases, you simply type the vault name (e.g., `vocabulary`) and you're there.
+
+### How It Works
+
+The script `_scripts/generate-aliases.sh`:
+
+1. Scans all vault folders (excluding those starting with `.` or `_`)
+2. Creates an alias for each vault that does `cd` to that folder
+3. Adds itself to your `~/.zshrc` automatically (first time only)
+4. Activates the aliases immediately in your current shell
+
+### Usage
+
+```bash
+# Navigate to the project root first
+cd /Users/serudda/Documents/Projects/life-os
+
+# Run with 'source' to activate aliases immediately
+source _scripts/generate-aliases.sh
+```
+
+> [!IMPORTANT]
+> You must use `source` (not `./`) for the aliases to work in your current terminal. This is a shell limitation—scripts cannot modify the parent shell unless sourced.
+
+### When to Run
+
+- **First time**: Run once to set everything up
+- **After adding a new vault**: Run again to add the new alias
+- **New machine**: Run once after cloning the repo
+
+### Available Aliases After Running
+
+| Alias        | Navigates to    |
+| ------------ | --------------- |
+| `lifeos`     | Project root    |
+| `brand`      | `/brand`        |
+| `vocabulary` | `/vocabulary`   |
+| `prompts`    | `/prompts`      |
+| ...          | (one per vault) |
+
+### Example Output
+
+```
+🧠 Generating Life-OS aliases...
+
+  ✓ brand
+  ✓ breakdowns
+  ✓ prompts
+  ✓ vocabulary
+  ✓ writing
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Generated 5 vault aliases + 'lifeos' root alias
+📄 File: /Users/serudda/Documents/Projects/life-os/.life-os-aliases
+
+🔗 Already integrated with ~/.zshrc
+⚡ Aliases activated in current shell!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 Done! Try typing 'vocabulary' or 'lifeos' now.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
