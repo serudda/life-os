@@ -18,10 +18,10 @@ find . -type d \( -name ".claude" -o -name "scripts" -o -name "node_modules" \) 
     skill_id=$(basename "$(dirname "$path")")
     
     # Extract the vault name (e.g., vocabulary)
-    baul_name=$(echo "$path" | cut -d'/' -f2)
+    vault_name=$(echo "$path" | cut -d'/' -f2)
     
     # Destination folder name (e.g., vocabulary-save-word)
-    folder_name="${baul_name}-${skill_id}"
+    folder_name="${vault_name}-${skill_id}"
     
     # Create the subfolder inside .claude/skills/
     target_folder="$SKILLS_DIR/$folder_name"

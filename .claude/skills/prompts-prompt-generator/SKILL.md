@@ -1,0 +1,1 @@
+../../../prompts/_skills/prompt-generator/SKILL.md

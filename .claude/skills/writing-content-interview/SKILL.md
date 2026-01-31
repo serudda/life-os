@@ -1,0 +1,1 @@
+../../../writing/_skills/content-interview/SKILL.md

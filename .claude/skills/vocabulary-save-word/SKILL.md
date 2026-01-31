@@ -1,1 +1,1 @@
-../../../vocabulary/skills/save-word/SKILL.md
+../../../vocabulary/_skills/save-word/SKILL.md

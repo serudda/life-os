@@ -12,8 +12,6 @@ Read **@VOICE.md** for tone, audience, and style guidelines.
 
 1. Draft ideas in `tweets/1_drafts/`
 2. Refine with the `tweet-creator` skill
-3. Publish with `tweet-publisher` skill
-4. Move to `tweets/2_published/` after posting
 
 ---
 
