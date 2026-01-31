@@ -1,0 +1,1 @@
+../../../zettelkasten/_skills/zettelkasten-assembler/SKILL.md
