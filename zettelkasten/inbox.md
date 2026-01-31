@@ -509,6 +509,23 @@ Cada hora en algo inútil es una hora que pagaste para evitar convertirte en qui
 
 ---
 
+## Un producto imperfecto en manos de alguien vale más que uno perfecto en tu disco duro
+
+- **ID:** 202601311521
+- **Type:** Literature
+- **Source:** Gemini - Conversación
+- **Tags:** #inbox #mindset #productivity-system #decision-making
+
+### Content
+
+Si realmente quieres ayudar a esas personas y cambiar el mundo, necesitas entender que un producto imperfecto en manos de alguien es infinitamente más útil que un producto perfecto en tu disco duro.
+
+### Capture Context
+
+- **Core Insight:** Esto solo muestra cómo funciona el perfeccionismo. Cómo una palabra tan bonita, leerla tiene tantos aspectos negativos por detrás. Invita a mostrar un producto incompleto y no tener uno completo guardado en tu disco duro.
+
+---
+
 ## Aprender en público
 
 - **ID:** 202601311145

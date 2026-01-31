@@ -4,7 +4,7 @@ This project organizes different areas of my life into independent "vaults", eac
 
 ## Active Vaults
 
-- **brand/** - Foundational material (story, core beliefs)
+- **identity/** - Foundational material (story, core beliefs)
 - **prompts/** - Capture, test, and curate prompts from any source
 - **vocabulary/** - Words and concepts with informal definitions, sorted alphabetically
 - **zettelkasten/** - Zettelkasten system for taking notes and references
@@ -108,7 +108,7 @@ source _scripts/generate-aliases.sh
 ```
 🧠 Generating Life-OS aliases...
 
-  ✓ brand
+  ✓ identity
   ✓ breakdowns
   ✓ prompts
   ✓ vocabulary
