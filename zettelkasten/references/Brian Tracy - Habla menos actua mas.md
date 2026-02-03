@@ -10,3 +10,5 @@
 - [[202601241530]] - El Poder del Consentimiento Emocional
 - [[202601240807]] - El Éxito en tus propios términos
 - [[202601241630]] - El hábito de la dependencia
+- [[202601281430]] - El valor como fundamento de la autoconfianza
+- [[202601281445]] - Haz lo que te da miedo

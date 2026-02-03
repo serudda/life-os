@@ -25,7 +25,8 @@ The agent reads `inbox.md`.
 A Permanent Note must be written in the user's own words.
 **Ask:** "**Based on the Core Insight, how would you explain this idea to your future self in 2-3 sentences?**"
 **Goal:** Transform "someone else's idea" into "your own thought".
-**Language Rule:** Preserve the user's elaboration in the original language they used. Do NOT translate it.
+**Rules:** 
+- Preserve the user's elaboration in the original language they used. Do NOT translate it.
 
 ### Step 3: Validate & Polish Draft
 
@@ -44,7 +45,21 @@ A Permanent Note must be written in the user's own words.
 - Add proper punctuation
 - Improve coherence between sentences
 
-**Rule:** Preserve the user's tone, voice, and original language. Do NOT rephrase or transform the idea.
+**Rules:** 
+- Preserve the user's tone, voice, and original language. Do NOT rephrase or transform the idea.
+- **Challenge, don't just capture.** Do not be afraid to contradict or critique the user's points. Tell them what they need to hear, NOT what they want to hear. Challenge assumptions while showing genuine curiosity and care.
+- If an idea contains factual errors, misused terms, or flawed logic → point it out respectfully and explain the correction.
+- The goal is learning through dialogue, not just archiving raw thoughts.
+
+If you challenge the user to make some change that would improve the idea he wants to convey,
+
+**Ask: "Do you want us to make changes to the permanent note based on what we just discussed?"**
+
+If -> Yes -> Add or change coherently and in a structured way, the new insight that emerged from the discussion. -> Skip to question 2
+
+If -> No -> Skip to question 2
+
+Question 2: 
 **Ask:** "**Here's a polished version of your idea. Does it still capture what you meant?**"
 [Show polished version]
 
