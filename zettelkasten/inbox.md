@@ -582,3 +582,20 @@ Training and tuning models is the new coding.
 - **Core Insight:** Muestra como los roles tecnicos estan evolucionando con la IA
 
 ---
+
+## El tiempo es vida y autonomía
+
+- **ID:** 202602031055
+- **Type:** Literature
+- **Source:** Claude Code - Charla sobre mis Core Beliefs
+- **Tags:** #inbox #philosophy #decision-making #mindset
+
+### Content
+
+La economía del tiempo: Para mí, el tiempo no es dinero; el tiempo es vida y autonomía. No acepto intercambiar mis horas por simples cifras si eso no alimenta mi capacidad de crear y construir mis propios sueños. Mi capital más grande es mi libertad de elección.
+
+### Capture Context
+
+- **Core Insight:** En un fragmento tan poderoso, la esencia de la vida, la importancia del tiempo y el valor que tiene la libertad de elección.
+
+---

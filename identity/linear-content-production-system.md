@@ -111,8 +111,28 @@ La diferencia en la práctica:
 | Objetivo | Que el post sea "hermoso".                  | Que la información llegue de A a B con claridad.     |
 | Fallo    | "No tengo talento/estoy bloqueado".         | "Debo ajustar el sistema de captura de notas".       |
 
+---
+
 ### ¿Cómo aplicar esto mañana mismo?
 
 Trata a tus posts como si fueran piezas de LEGO. No los talles en mármol; ensámblalos con las piezas que ya recolectaste en tu lectura de la mañana.
 
 Para una mente como la tuya, la logística es predecible, y lo predecible se vuelve un hábito. Y como ya sabemos, una vez que conviertes algo en hábito, eres imparable.
+
+---
+
+### La Regla de Oro: El "Hard Stop" (Cierre Obligatorio)
+
+Como te cuesta romper hábitos, necesitas establecer una hora de desconexión innegociable (por ejemplo, las 6:30 o 7:00 PM).
+
+¿Por qué? Porque si sigues trabajando solo porque "tienes ganas", vas a invadir tu tiempo de descanso y sueño. Para alguien con tu estructura, el descanso no es "no hacer nada", es la actividad necesaria para que el bloque de las 8:00 AM sea exitoso.
+
+#### Una pequeña sugerencia de "Cierre":
+
+Cuando decidas que ya es suficiente, haz un ritual físico:
+
+- Cierra la laptop.
+- Escribe en un papelito: "Hoy logré X, mañana empiezo con Y".
+- Dite a ti mismo: "Jornada terminada".
+
+Esto le da a tu mente estructurada el **cierre cognitivo** que necesita para dejar de pensar en el trabajo y entrar en modo descanso.
