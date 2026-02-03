@@ -542,3 +542,43 @@ Si realmente quieres ayudar a esas personas y cambiar el mundo, necesitas entend
 - **Core Insight:** ¿Te gusta aprender? ¿Te gusta investigar? ¿Te gusta leer? ¿Te gusta estar en redes sociales? Bueno, entonces tu trabajo principal es ese: investigar, aprender, leer, estar en redes sociales. Y de ahí, de ese proceso de aprender en público, surgirán tus ideas, tus proyectos, tus negocios. Es una forma de monetizar lo que ya haces de manera natural.
 
 ---
+
+## Action Produces Information
+
+- **ID:** 202602031045
+- **Type:** Literature
+- **Source:** Brian Armstrong - [Tweet](https://x.com/brian_armstrong/status/1990073384022020290?s=20)
+- **Tags:** #inbox #decision-making #mindset #performance #habits
+
+### Content
+
+One of my favorite lessons I've learnt from working with smart people:
+
+Action produces information. If you're unsure of what to do, just do anything, even if it's the wrong thing. This will give you information about what you should actually be doing.
+
+Sounds simple on the surface – the hard part is making it part of your every day working process.
+
+### Capture Context
+
+- **Core Insight:** Explica el como dejarse llevar por la accion, nos permite tener acceso a nueva informacion. Si no estas seguro de que hacer, simplemente hazlo, aunque esto no sea lo correcto.
+
+---
+
+## Vibe Coding is the New Product Management
+
+- **ID:** 202602031050
+- **Type:** Literature
+- **Source:** Naval - [Tweet](https://x.com/naval/status/2018633583423049951?s=20)
+- **Tags:** #inbox #AI-era #employment #tech-economy
+
+### Content
+
+Vibe coding is the new product management.
+
+Training and tuning models is the new coding.
+
+### Capture Context
+
+- **Core Insight:** Muestra como los roles tecnicos estan evolucionando con la IA
+
+---
