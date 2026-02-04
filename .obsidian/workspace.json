@@ -11,14 +11,10 @@
             "id": "a07d3eeb91c3abc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "breakdowns/the-anatomy-of-viral-philosophical-posts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the-anatomy-of-viral-philosophical-posts"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,31 +181,37 @@
   },
   "active": "a07d3eeb91c3abc0",
   "lastOpenFiles": [
-    "breakdowns/0_companies-exploiting-fears-serudda.md",
+    "playground/_skills/viral-seed.md",
+    "playground/_skills/viral-polish.md",
+    "playground/_skills/viral-forge.md",
+    "playground/_skills/viral-core.md",
+    "playground/_skills",
+    "playground/skills/viral-polish.md",
+    "playground/skills/viral-forge.md",
+    "playground/skills/viral-core.md",
+    "playground/skills/viral-seed.md",
+    "playground/CLAUDE.md",
+    "playground/skills",
+    "playground/prompts/guide-the-anatomy-of-viral-philosophical-posts.md",
+    "playground/prompts/the-anatomy-of-viral-philosophical-posts.md",
+    "playground/prompts/2026-01-30-viral-philosophy-post-creator.md",
+    "playground/prompts",
+    "playground/indentity/tones/staccato.md",
+    "playground/indentity/tones/prosa-fragmentada.md",
+    "playground/indentity/tones/frase-larga.md",
+    "playground/indentity/tones/direct-minimalism-aphoristic-writing.md",
+    "playground/indentity/tones/TONE.md",
+    "playground/indentity/tones",
+    "playground/indentity/CORE-BELIEFS.md",
+    "playground/indentity/CORE-INSIGHTS.md",
+    "playground/indentity",
+    "playground",
     "breakdowns/the-anatomy-of-viral-philosophical-posts.md",
+    "breakdowns/0_companies-exploiting-fears-serudda.md",
     "breakdowns/0_friends-start-saying-crazy-things-naval.md",
     "breakdowns/0_if-you-dont-create-a-routine-dan-koe.md",
     "breakdowns/1_context-question-about-me.md",
     "breakdowns/1_viral-post-playbook.md",
-    "prompts/1_testing/2026-01-30-viral-philosophy-post-creator.md",
-    "prompts/1_testing/2026-02-03-viral-philosophy-post-creator-serudda.md",
-    "identity/tones/TONE.md",
-    "identity/tones/staccato.md",
-    "identity/tones/prosa-fragmentada.md",
-    "identity/tones/frase-larga.md",
-    "identity/tones/direct-minimalism-aphoristic-writing.md",
-    "identity/CORE-INSIGHTS.md",
-    "identity/CORE-BELIEFS.md",
-    "ideas/automatizar-flujo-guardar-contenido.md",
-    "zettelkasten/permanent/202601281445.md",
-    "zettelkasten/permanent/202601261815.md",
-    "zettelkasten/permanent/202601281430.md",
-    "zettelkasten/permanent/INDEX.md",
-    "zettelkasten/inbox.md",
-    "zettelkasten/permanent/202601281515.md",
-    "zettelkasten/permanent/202601281500.md",
-    "zettelkasten/permanent/202601261800.md",
-    "zettelkasten/permanent/202601241835.md",
-    "zettelkasten/permanent/202601241715.md"
+    "prompts/1_testing/2026-01-30-viral-philosophy-post-creator.md"
   ]
 }
