@@ -4,23 +4,6 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
-## Duplica tu tasa de fracaso
-
-- **ID:** 202601281515
-- **Type:** Literature
-- **Source:** Brian Tracy - Habla menos, actúa más
-- **Tags:** #inbox #mindset #self-improvement
-
-### Content
-
-Waxon respondió con las clásicas palabras: "Si quieres incrementar tu tasa de éxito, duplica tu tasa de fracaso". Ahí encontrarás el éxito al otro extremo del fracaso.
-
-### Capture Context
-
-- **Core Insight:** Explica que entre más fracasamos, o entre más experiencia aprendamos de esos fracasos, más cerca estamos del éxito.
-
----
-
 ## Tener miedo es regalar tu poder
 
 - **ID:** 202601281530

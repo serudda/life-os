@@ -98,7 +98,7 @@ Connections express relationships between notes. There are two categories:
 
 Each note has a `## Backlinks` section that is **automatically maintained** by the distill-inbox skill.
 
-When note A links to note B in its Connections, note B's Backlinks section is updated to include A.
+When note A links to note B in its Connections, note B's Backlinks section is updated to include A **with the relationship type**.
 
 This ensures **bidirectional navigation** — you can always see both:
 
@@ -129,7 +129,7 @@ This ensures **bidirectional navigation** — you can always see both:
 
 ## Backlinks
 
-- [[ID]] — Title of note that references this one
+- [Relationship type] [[ID]] — Title of note that references this one
 
 ---
 

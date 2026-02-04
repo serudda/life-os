@@ -19,6 +19,7 @@ Central index of key concepts linking to entry-point notes. Each concept points 
 ### Courage / Valor
 - [[202601281430]] — El valor como fundamento de la autoconfianza
 - [[202601281445]] — Haz lo que te da miedo
+- [[202601281515]] — Duplica tu tasa de fracaso
 
 ## D
 
@@ -80,4 +81,4 @@ Central index of key concepts linking to entry-point notes. Each concept points 
 ---
 
 _Last updated: 2026-02-03_
-_Total concepts: 15 | Total entry points: 25_
+_Total concepts: 15 | Total entry points: 26_

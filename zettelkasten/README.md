@@ -95,7 +95,7 @@ Located at `permanent/INDEX.md`. This is the **Schlagwortregister** (keyword ind
 
 Each note has a `## Backlinks` section that is **automatically maintained**.
 
-When note A links to note B, note B's Backlinks section is updated to include A. This ensures **bidirectional navigation**.
+When note A links to note B, note B's Backlinks section is updated to include A **with the relationship type**. This ensures **bidirectional navigation** and you can see at a glance what type of relationship each referencing note has.
 
 ---
 
@@ -137,7 +137,7 @@ zettelkasten/
 
 ## Backlinks
 
-- [[ID]] — Title of note that references this one
+- [Relationship type] [[ID]] — Title of note that references this one
 
 ---
 

@@ -130,11 +130,18 @@ _Horizontal (peers):_
 
 1. Open the target note file
 2. Find or create the `## Backlinks` section (before the `---` separator)
-3. Add entry: `- [[NEW_ID]] — [Title of new note]`
+3. Add entry including the relationship type: `- [Relationship type] [[NEW_ID]] — [Title of new note]`
 4. Save the target note
+
+**Example:** If the new note says `- Complementa [[202601221045]] — description`, then in note 202601221045 add:
+```
+## Backlinks
+- Complementa [[NEW_ID]] — Title of new note
+```
 
 **Rules:**
 
+- Always include the relationship type from the source note's Connections
 - If target note has no `## Backlinks` section, create it before `---`
 - Sort backlinks by ID (chronological order)
 - Do NOT duplicate existing backlinks
