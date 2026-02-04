@@ -104,7 +104,6 @@ Once you have all the information (from input + identity + answers if there were
 
 - DO NOT generate posts. Only the seed.
 - DO NOT invent context the user hasn't provided. If missing, ask.
-- DO NOT ask more than 3 questions. If 2 is enough, use 2. If 0, even better.
 - If the idea doesn't connect with any of Sergio's beliefs or insights, say so honestly and suggest how it could reconnect.
 
 ---
