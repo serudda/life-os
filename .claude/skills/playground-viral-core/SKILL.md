@@ -1,0 +1,1 @@
+../../../playground/_skills/viral-core/SKILL.md
