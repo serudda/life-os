@@ -11,10 +11,14 @@
             "id": "a07d3eeb91c3abc0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/permanent/202601281445.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202601281445"
             }
           }
         ]
@@ -182,9 +186,27 @@
   "active": "a07d3eeb91c3abc0",
   "lastOpenFiles": [
     "playground/_skills/viral-seed.md",
+    "playground/_skills/viral-core.md",
+    "_scripts/setup-core-instructions.sh",
+    "CORE_INSTRUCTIONS.md",
+    "LANGUAGE.md",
+    "playground/_skills/viral-core/SKILL.md",
+    "playground/_skills/viral-core",
+    "zettelkasten/references/Brian Tracy - Habla menos actua mas.md",
+    "zettelkasten/permanent/INDEX.md",
+    "zettelkasten/permanent/202601241705.md",
+    "zettelkasten/permanent/202601241700.md",
+    "zettelkasten/permanent/202601241630.md",
+    "zettelkasten/permanent/202601241530.md",
+    "zettelkasten/permanent/202601240807.md",
+    "zettelkasten/permanent/202601231045.md",
+    "zettelkasten/permanent/202601221052.md",
+    "zettelkasten/permanent/202601221045.md",
+    "zettelkasten/permanent/202601221030.md",
+    "playground/_skills/viral-seed/SKILL.md",
+    "playground/_skills/viral-seed",
     "playground/_skills/viral-polish.md",
     "playground/_skills/viral-forge.md",
-    "playground/_skills/viral-core.md",
     "playground/_skills",
     "playground/skills/viral-polish.md",
     "playground/skills/viral-forge.md",
@@ -193,25 +215,9 @@
     "playground/CLAUDE.md",
     "playground/skills",
     "playground/prompts/guide-the-anatomy-of-viral-philosophical-posts.md",
-    "playground/prompts/the-anatomy-of-viral-philosophical-posts.md",
-    "playground/prompts/2026-01-30-viral-philosophy-post-creator.md",
     "playground/prompts",
-    "playground/indentity/tones/staccato.md",
-    "playground/indentity/tones/prosa-fragmentada.md",
-    "playground/indentity/tones/frase-larga.md",
-    "playground/indentity/tones/direct-minimalism-aphoristic-writing.md",
-    "playground/indentity/tones/TONE.md",
     "playground/indentity/tones",
-    "playground/indentity/CORE-BELIEFS.md",
-    "playground/indentity/CORE-INSIGHTS.md",
     "playground/indentity",
-    "playground",
-    "breakdowns/the-anatomy-of-viral-philosophical-posts.md",
-    "breakdowns/0_companies-exploiting-fears-serudda.md",
-    "breakdowns/0_friends-start-saying-crazy-things-naval.md",
-    "breakdowns/0_if-you-dont-create-a-routine-dan-koe.md",
-    "breakdowns/1_context-question-about-me.md",
-    "breakdowns/1_viral-post-playbook.md",
-    "prompts/1_testing/2026-01-30-viral-philosophy-post-creator.md"
+    "playground"
   ]
 }
