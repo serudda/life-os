@@ -15,10 +15,10 @@ playground/
 │   ├── CORE-INSIGHTS.md                # Behind-the-scenes of Sergio's personality
 │   └── tones/
 │       ├── TONE.md                     # Master tone guide
-│       ├── direct-minimalism-aphoristic-writing.md  # Layer 1 — The Filter
-│       ├── staccato.md                 # Layer 2 — The Rhythm (part A)
-│       ├── prosa-fragmentada.md        # Layer 2 — The Rhythm (part B)
-│       └── frase-larga.md             # Layer 4 — The Respite
+│       ├── direct-minimalism-aphoristic-writing.md  # The Filter
+│       ├── staccato.md                 # The Rhythm (part A)
+│       ├── prosa-fragmentada.md        # The Rhythm (part B)
+│       └── frase-larga.md             # The Respite
 ├── prompts/
 │   ├── guide-the-anatomy-of-viral-philosophical-posts.md  # Anatomy guide (Dan Koe framework)
 │   └── 2026-01-30-viral-philosophy-post-creator.md        # Original prompt
@@ -34,9 +34,9 @@ Before generating any content, **always** read these two files:
 
 ## Writing System
 
-Sergio's tone is a 4-layer architecture for high-density writing. Before writing or polishing any post, **always** read the master guide:
+Sergio uses 4 writing styles (The Filter, The Rhythm, The Punch, The Respite) that mix in different ratios depending on the channel (tweet, LinkedIn, newsletter). Before writing or polishing any post, **always** read:
 
-- `indentity/tones/TONE.md` — Summarizes all 4 layers (The Filter, The Rhythm, The Punch, The Respite) with examples and channel-specific ratios.
+- `indentity/tones/TONE.md` — Master guide with all 4 styles, examples, and channel-specific ratios.
 
 ## Viral Post Framework
 
@@ -54,7 +54,7 @@ Based on Dan Koe's work. 3 archetypes with their own formulas:
 1. **Seed** → `/playground-viral-seed` → captures raw idea into a structured seed
 2. **Core** → `/playground-viral-core` → distills philosophical core, creates 3 archetype briefs
 3. **Forge** → `/playground-viral-forge` → generates 9 draft posts (3 per archetype)
-4. **Polish** → `/playground-viral-polish` → applies 4-layer tone system, ranks, and recommends the best
+4. **Polish** → `/playground-viral-polish` → applies writing styles from TONE.md, ranks, and recommends the best
 
 ## Available Skills
 
@@ -84,7 +84,7 @@ Generates draft posts from the briefs. Each archetype produces 3 variations.
 **Input**: 9 draft posts
 **Output**: 9 polished posts with ranking
 
-Applies the 4-layer tone system to all drafts, ranks them, and recommends the best one.
+Applies the writing styles from TONE.md to all drafts, ranks them, and recommends the best one.
 
 ## Conventions
 
