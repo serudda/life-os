@@ -1,0 +1,1 @@
+../../../playground/horror-stories/_skills/scene-sheet-generator/SKILL.md

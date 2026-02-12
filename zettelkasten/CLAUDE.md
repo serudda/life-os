@@ -1,3 +1,7 @@
+---
+IMPORTANT: Read and strictly follow the standards in CORE_INSTRUCTIONS.md
+---
+
 # Zettelkasten Garden
 
 This is a personal knowledge management system (Second Brain) based on Niklas Luhmann's Zettelkasten methodology, optimized for scalability to 90,000+ notes.

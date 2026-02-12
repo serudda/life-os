@@ -531,3 +531,212 @@ La economía del tiempo: Para mí, el tiempo no es dinero; el tiempo es vida y a
 - **Core Insight:** En un fragmento tan poderoso, la esencia de la vida, la importancia del tiempo y el valor que tiene la libertad de elección.
 
 ---
+
+## No hay nada más agotador que una tarea incompleta
+
+- **ID:** 202602101635
+- **Type:** Literature
+- **Source:** William James - Habla menos, actúa más (Brian Tracy)
+- **Tags:** #inbox #productivity-system #mindset
+
+### Content
+
+"No hay nada más agotador que una tarea incompleta."
+
+### Capture Context
+
+- **Core Insight:** Explica que dejar cosas sin terminar hace que nuestro cerebro se mantenga siempre ocupado y no nos deja liberar espacio para dedicarnos a otra tarea posterior.
+
+---
+
+## Vive como si fueras a morir mañana. Aprende como si fueras a vivir para siempre
+
+- **ID:** 202602101637
+- **Type:** Literature
+- **Source:** Mahatma Gandhi - Habla menos, actúa más (Brian Tracy)
+- **Tags:** #inbox #self-improvement #mindset #habits
+
+### Content
+
+"Vive como si fueras a morir mañana. Aprende como si fueras a vivir para siempre."
+
+### Capture Context
+
+- **Core Insight:** Que tenemos que ser aprendices tiempo completo, 24/7, hasta el fin de nuestros días.
+
+---
+
+## Dudar de ti mismo es una de las emociones más destructivas
+
+- **ID:** 202602101640
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #human-behavior
+
+### Content
+
+"Dudar de ti mismo es una de las emociones negativas más destructivas. Puede hacer que renuncies antes de comenzar."
+
+### Capture Context
+
+- **Core Insight:** Una de las grandes piedras en nuestro camino que es dudar de nosotros mismos y nos muestra las consecuencias de ello.
+
+---
+
+## El conocimiento y las habilidades son los antídotos de la duda y el miedo
+
+- **ID:** 202602101643
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #performance #habits
+
+### Content
+
+Los mejores antídotos para la duda y el miedo son el conocimiento y las habilidades. Mientras más conocimiento tengas de un tema, menos dudas surgirán acerca de tu capacidad para tener éxito.
+
+Cuando te conviertes en un experto en el tema, desarrollas niveles tan altos de confianza que pronto estás dispuesto a asumir retos más y más grandes y lograr más y más en tu área.
+
+El antídoto del miedo son las habilidades. Cuando has dedicado tiempo para planear, prepararte y practicar una y otra vez, sabes en el fondo que puedes realizar esa tarea en particular y eventualmente, cualquier cosa que te propongas.
+
+Hay ciertos estilos de pensamiento que dividen a las personas exitosas de las promedio. Uno de ellos es la diferencia entre pensamiento informado y pensamiento uniforme.
+
+Varios de los grandes errores que las personas cometen vienen de actuar sin tener la suficiente información como resultado carecen de los hechos esenciales que ocasionan que cometan errores, fracasen o se queden cortos.
+
+Mientras mejor informado estés en cualquier área, más confianza tendrás de tomar la decisión correcta y lograr el resultado deseado.
+
+### Capture Context
+
+- **Core Insight:** Explica cómo el conocimiento es el antídoto para la duda y cómo las habilidades son el antídoto para el miedo, y cómo se complementan ambas para lograr tener éxito en la vida.
+
+---
+
+## El aprendizaje continuo como clave del éxito de los millonarios
+
+- **ID:** 202602101646
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #self-improvement #mindset #habits
+
+### Content
+
+Cuando les preguntaron a estos millonarios por qué sentían que habían tenido tanto éxito, muchos de ellos lo atribuyeron, al menos parcialmente, al aprendizaje continuo. Son como esponjas, constantemente absorben información de todas las fuentes posibles.
+
+Descubrieron que una idea o intuición que tomes del aprendizaje continuo puede ser todo lo que necesitas para iniciar una fortuna.
+
+### Capture Context
+
+- **Core Insight:** Motiva a ser un aprendiz tiempo completo. Estar abierto a aprender, a leer, a buscar información (que sea dentro de tu campo o fuera de tu campo), para poder encontrar más conexiones de información y así poder hacer que surjan ideas.
+
+---
+
+## No es cuestión de suerte, es cuestión de probabilidad
+
+- **ID:** 202602101648
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #decision-making
+
+### Content
+
+"Si lanzas suficientes dardos a la diana, incluso si comienzas con pocas habilidades, eventualmente darás en el blanco. No es cuestión de suerte, es cuestión de probabilidad."
+
+### Capture Context
+
+- **Core Insight:** Actuar es la analogía de intentarlo. Puede parecer bobada, pero son como boletos de lotería cada vez que lo intentas. Cada oportunidad es un dardo y estás tirando el dardo para ver si le apuntas al centro. Puedes tirar cientos de dardos aunque no tengas la habilidad, pero alguno pegará en el blanco. Pasa exactamente con la acción y con las oportunidades.
+
+---
+
+## Tu trabajo es incrementar las probabilidades a tu favor
+
+- **ID:** 202602101650
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #mindset #self-improvement #decision-making #habits
+
+### Content
+
+"Tu trabajo es incrementar las probabilidades a tu favor al realizar más y más cosas que hacen que sea más probable que pases la marca del millón de dólares.
+
+Continúa actualizando tus conocimientos y habilidades y reúne más información como si tu futuro dependiera de ello, porque así es."
+
+### Capture Context
+
+- **Core Insight:** Explica que nuestra única tarea es incrementar las probabilidades. ¿Y cómo se incrementan las probabilidades? Intentándole una y otra vez.
+
+---
+
+## La gente exitosa construye su aprendizaje cada día
+
+- **ID:** 202602101653
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #self-improvement #habits #mindset
+
+### Content
+
+La gente exitosa construye su aprendizaje cada día.
+
+Leen 30 o 60 minutos cada mañana, aproximadamente un libro cada semana. Leen en áreas que pueden ser útiles en su trabajo y navegan en Internet para exponerse continuamente a nuevas ideas e información en sus respectivas especialidades.
+
+Steve Jobs decía que no puedes estar demasiado apegado a cómo crees que tu vida debe funcionar en lugar de confiar en que todos los puntos se conectarán en el futuro.
+
+Tu trabajo es continuamente conectar más puntos, aprender más cosas, reunir más factoides (pequeñas piezas de información que agregan detalle a tu imagen) y obtener nuevas ideas y puntos de vista.
+
+### Capture Context
+
+- **Core Insight:** Ser un aprendiz tiempo completo nos permite llenarnos de conocimientos que no necesariamente tienen que ser en nuestro campo de expertise y así facilitar la constante conexión de puntos. Aprendemos más cosas y reunimos lo que llaman factoides. Con esos factoides, poder obtener nuevas ideas y así nuevos puntos de vista.
+
+---
+
+## Decido irme a dormir más inteligente que cuando desperté
+
+- **ID:** 202602101655
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #self-improvement #habits #mindset
+
+### Content
+
+Una periodista que trabajó en la revista Fortune durante 40 años se retiró recientemente. En el tributo a ella y a sus contribuciones a la revista, le preguntaron por qué sentía que había hecho una gran diferencia en los últimos años. Respondió: "Decido irme a dormir más inteligente que cuando desperté en la mañana".
+
+### Capture Context
+
+- **Core Insight:** Expone un caso de una periodista que aportó mucho durante muchos años a la revista Fortune y le preguntaron el por qué o cómo lo hacía. Ella respondió con una frase icónica: "Decido irme a dormir más inteligente que cuando desperté en la mañana".
+
+---
+
+## Aumenta la probabilidad de éxito conectando más puntos
+
+- **ID:** 202602101658
+- **Type:** Literature
+- **Source:** Brian Tracy - Habla menos, actúa más
+- **Tags:** #inbox #self-improvement #habits #mindset
+
+### Content
+
+"Aumenta la probabilidad de ser exitoso al aumentar el número de puntos que debes conectar con otros puntos para crear nuevas imágenes y generar nuevas ideas, permitiéndote lograr mejores objetivos. Las nuevas ideas y percepciones pueden motivarte a empezar y seguir hasta que tengas éxito."
+
+### Capture Context
+
+- **Core Insight:** Motiva a ser un aprendiz tiempo completo y estar abierto a aprender no solo del campo de expertise en el que estés, sino en cualquier otro rubro. Eso te ayuda a poder aumentar la cantidad de puntos y poderlos conectar con otros conocimientos que tengas, así generarán nuevas ideas y, por ende, te permitirá obtener o alcanzar nuevos objetivos.
+
+---
+
+## El Efecto de la Mera Exposición en Contenido
+
+- **ID:** 202602110500
+- **Type:** Literature
+- **Source:** Robert Zajonc (1968), Journal of Consumer Research (2019)
+- **Tags:** #inbox #personal-branding #human-behavior
+
+### Content
+
+En 1968, Robert Zajonc demostró que las personas desarrollan preferencia por cosas simplemente por estar expuestas a ellas repetidamente, incluso sin procesarlas conscientemente. Estudios posteriores en marketing digital (Journal of Consumer Research, 2019) confirmaron que creators que publican consistentemente en una plataforma generan confianza y "familiaridad percibida" después de 7-11 exposiciones, incluso si el usuario nunca interactuó con el contenido.
+
+El truco: no necesitan leer tu post. Solo ver tu nombre o avatar repetidamente en el feed ya activa el sesgo. Por eso los creators que publican 5x/semana pero con contenido "normal" suelen superar en seguidores a los que publican 1x/semana con contenido "perfecto".
+
+### Capture Context
+
+- **Core Insight:** La frecuencia de publicación pesa más que la calidad individual en la fase de crecimiento. No necesitas el post perfecto, necesitas aparecer. 7-11 exposiciones crean familiaridad y confianza, incluso sin interacción. Esto combate directamente el perfeccionismo que paraliza: publicar 5x/semana con contenido "normal" supera a 1x/semana con contenido "perfecto". La audiencia empieza a confiar en ti antes de siquiera leerte.
+
+---
