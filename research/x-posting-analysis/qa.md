@@ -253,3 +253,100 @@ Un tweet de texto normal tiene ratio bookmark/like de 2-5%. Las infografías han
 **Fuente:** Análisis de timestamps exactos en los 3 periodos
 
 ---
+
+## Q: ¿Dan Koe responde comentarios? ¿Tiene un patrón?
+
+**A:** Sí, y mucho más de lo que parece. En el periodo Dic 2025–Feb 2026:
+- **61 replies a otros** vs 36 tweets originales
+- **Ratio 1.7:1** — responde más de lo que postea
+
+### Patrón diario: Postea → Responde horas después
+
+| Actividad | Horario típico (COT) |
+|-----------|---------------------|
+| 📝 Postear tweet | 10:00 AM – 12:30 PM |
+| 💬 Responder comments | 12:00 PM – 2:30 PM (primera sesión) |
+| 💬 Replies sueltos | 4:00 PM – 10:00 PM (goteo durante la tarde) |
+
+**Gap promedio entre último post y primera reply: 0.5 – 3 horas.**
+
+### Sesiones de replies: responde en bloques
+
+Dan Koe NO responde todo el día. Se sienta en bloques de 5-30 minutos y responde varios seguidos:
+
+**Sesión tipo bloque corto (5-15 min):**
+- Ene 17, 1:13 PM → 1:26 PM (13 min, 5 replies, ❤️7,832 total)
+- Ene 18, 1:37 PM → 1:40 PM (3 min, 3 replies)
+- Ene 21, 12:12 PM → 12:39 PM (26 min, 7 replies)
+
+**Sesión tipo goteo (replies sueltos):**
+- Ene 17 tuvo replies a las 7:27am, 8:50am, 9:28am, 1:13pm, 1:58pm, 4:18pm, 4:41pm, 5:12pm, 6:47pm, 8:19pm, 8:42pm — un día ENTERO respondiendo intermitentemente
+- Ene 12 tuvo replies a las 11:24am, 2:29pm, 5:13pm, 6:01pm, 9:34pm
+
+**Ene 17 fue un día especial** — ese día sus Articles estaban explotando y dedicó todo el día a responder. 23 replies en un solo día.
+
+### ¿Responde antes o después de postear?
+
+**Ambos.** Algunos días responde ANTES de postear su tweet del día:
+- Ene 17: Replies desde las 7:27 AM → tweet a las 9:16 AM
+- Ene 18: Reply a las 12:08 AM (a Elon Musk!) → tweet a la 1:33 PM
+- Ene 12: Reply a las 11:24 AM → tweet a las 11:31 AM
+
+Pero la mayoría de días: postea primero (mañana) → responde después (mediodía-tarde).
+
+### Tono de las replies
+
+Casual, corto, cercano. Ejemplos reales:
+- "Brother in rhyme 🤝🫡" (a @CoachDanGo)
+- "😂😂😂" (a @JamesonCamp)
+- "Props man, writing is fun" (a @maurice_lippy)
+- "Good take" (a @mayukh_panja — ❤️2,257 likes en un reply de 2 palabras)
+- "Sorry Elon" (a @elonmusk — ❤️1,374 likes)
+- "I need to log off" (a @JamesonCamp — ❤️173 likes)
+
+**No responde con ensayos.** 1-2 líneas máximo. Los replies cortos y con personalidad generan más engagement que respuestas largas.
+
+### ¿A quién responde?
+
+Mezcla de:
+- **Creadores grandes:** @jackbutcher, @DaveShapi, @Dylanmadden, @elonmusk, @nikitabier
+- **Seguidores regulares:** Gente con pocos followers que dejó un buen comment
+- **@XCreators (cuenta oficial de X):** Interactúa con la plataforma directamente
+
+### ¿El engagement de sus replies?
+
+Algunos replies tienen MÁS engagement que tweets de otras personas:
+- Reply a @JamesonCamp con solo un meme: ❤️5,916
+- Reply a @XCreators: ❤️3,294
+- Reply a @XCreators (otro): ❤️2,843
+- "Good take": ❤️2,257
+- Reply a @PromptLLM: ❤️2,102
+
+**Sus replies son contenido en sí mismo.**
+
+### ¿Los tweets posteados cerca se pisan el engagement?
+
+En el periodo 2025 posteaba 3 tweets en la mañana (6:15, 8:15, 10:30). Análisis:
+- Ene 9 2026: tweet 11:10am (❤️8,424) + tweet 1:22pm (❤️6,734) — ambos rindieron bien
+- Mar 15 2025: 6:15am (❤️2,573) + 8:15am (❤️1,741) + 10:30am (❤️8,936) — el tercero fue el mejor
+- May 18 2025: 6:15am (❤️1,454) + 8:15am (❤️5,354) + 10:30am (❤️4,563) + 11:40am (❤️229) — el cuarto sí se pisó
+
+**Conclusión: 2-3 tweets con gap de 2h NO se pisan.** Pero 4 tweets ya se empiezan a canibalizar. El algoritmo tiene un "budget de distribución" por usuario y si posteas demasiado seguido, el último recibe menos push.
+
+### 📋 Mapa replicable para @serudda
+
+**Rutina diaria sugerida:**
+1. **9:00-10:00 AM COT** → Postear tweet principal
+2. **12:00-12:30 PM COT** → Sesión de replies (15-30 min, responder los mejores comments)
+3. **Tarde** → Replies sueltos si hay algo que valga la pena
+4. **Máximo 2 tweets/día** con gap mínimo de 2 horas entre ellos
+
+**Tips de replies:**
+- Cortos y con personalidad > respuestas largas y elaboradas
+- "Good take" con ❤️ puede rendir más que un thread de 10 tweets
+- Responder a creadores de tu tamaño = networking gratuito
+- Tus replies aparecen en el feed de tus followers = más exposición
+
+**Fuente:** `raw-data/thedankoe/period1-with-replies.json` — 100 tweets analizados
+
+---
