@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "identity/tones/direct-minimalism-aphoristic-writing.md",
+                "file": "research/x-posting-analysis/qa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "direct-minimalism-aphoristic-writing"
+              "title": "qa"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 429.5
   },
   "right": {
     "id": "f91b31bed210a9fe",
@@ -185,8 +185,21 @@
   },
   "active": "e6c5f48c321cf5d3",
   "lastOpenFiles": [
-    "identity/tones/frase-larga.md",
+    "research/x-posting-analysis/README.md",
+    "research/x-posting-analysis/qa.md",
+    "research/x-posting-analysis/dan-koe.md",
+    "research/x-posting-analysis/raw-data/thedankoe/profile.json",
+    "research/x-posting-analysis/raw-data/thedankoe/period2-mar2025-jul2025.json",
+    "research/x-posting-analysis/raw-data/thedankoe/period1-dec2025-feb2026.json",
+    "research/x-posting-analysis/raw-data/thedankoe",
+    "research/x-posting-analysis/raw-data",
+    "tasks.md",
+    "research/x-posting-analysis",
+    "research",
+    "prompts/1_testing/2026-01-30-viral-philosophy-post-creator.md",
     "prompts/2_approved/2026-01-31-prompt-generator.md",
+    "identity/tones/direct-minimalism-aphoristic-writing.md",
+    "identity/tones/frase-larga.md",
     "vocabulary/vocabulary.md",
     "zettelkasten/permanent/202601281445.md",
     "zettelkasten/permanent/INDEX.md",
@@ -207,18 +220,6 @@
     "playground/indentity/tones",
     "playground/indentity/CORE-INSIGHTS.md",
     "playground/indentity/CORE-BELIEFS.md",
-    "playground/_skills/viral-seed.md",
-    "playground/_skills/viral-seed",
-    "playground/_skills/viral-polish.md",
-    "playground/_skills/viral-core.md",
-    "playground/_skills/viral-core",
-    "playground/prompts",
-    "playground/indentity",
-    "playground/_skills",
-    "playground/CLAUDE.md",
-    "playground",
-    "breakdowns/the-anatomy-of-viral-philosophical-posts.md",
-    "LANGUAGE.md",
-    "playground/skills"
+    "playground/_skills/viral-seed"
   ]
 }

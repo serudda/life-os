@@ -740,3 +740,20 @@ El truco: no necesitan leer tu post. Solo ver tu nombre o avatar repetidamente e
 - **Core Insight:** La frecuencia de publicación pesa más que la calidad individual en la fase de crecimiento. No necesitas el post perfecto, necesitas aparecer. 7-11 exposiciones crean familiaridad y confianza, incluso sin interacción. Esto combate directamente el perfeccionismo que paraliza: publicar 5x/semana con contenido "normal" supera a 1x/semana con contenido "perfecto". La audiencia empieza a confiar en ti antes de siquiera leerte.
 
 ---
+
+## La complacencia de la IA como combustible para la confianza
+
+- **ID:** 202602130925
+- **Type:** Fleeting
+- **Source:** Personal reflection
+- **Tags:** #inbox #mindset #AI-era #human-behavior
+
+### Content
+
+La gente critica que la IA es muy complaciente y es muy dada a decirte lo que tú quieres escuchar. Pero creo que un poco de esa lambonería de la IA ayuda a las personas que tenemos mucho ego y tenemos mucha autoconfianza a potenciarnos más. Porque tener a alguien que te está diciendo que estás haciendo las cosas bien sirve también como carbón para prender la hoguera.
+
+### Capture Context
+
+- **Core Insight:** En algunos casos, la validación artificial de la IA — sin llegar al extremo — fortalece la confianza de quienes ya tienen autoconfianza y ego alto, funcionando como combustible para la acción y ayudando a cumplir objetivos.
+
+---
