@@ -1,0 +1,1 @@
+../../../playground/tweets_v2/_skills/viral-seed/SKILL.md

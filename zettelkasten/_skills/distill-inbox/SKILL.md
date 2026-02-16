@@ -25,7 +25,8 @@ The agent reads `inbox.md`.
 A Permanent Note must be written in the user's own words.
 **Ask:** "**Based on the Core Insight, how would you explain this idea to your future self in 2-3 sentences?**"
 **Goal:** Transform "someone else's idea" into "your own thought".
-**Rules:** 
+**Rules:**
+
 - Preserve the user's elaboration in the original language they used. Do NOT translate it.
 
 ### Step 3: Validate & Polish Draft
@@ -45,7 +46,8 @@ A Permanent Note must be written in the user's own words.
 - Add proper punctuation
 - Improve coherence between sentences
 
-**Rules:** 
+**Rules:**
+
 - Preserve the user's tone, voice, and original language. Do NOT rephrase or transform the idea.
 - **Challenge, don't just capture.** Do not be afraid to contradict or critique the user's points. Tell them what they need to hear, NOT what they want to hear. Challenge assumptions while showing genuine curiosity and care.
 - If an idea contains factual errors, misused terms, or flawed logic → point it out respectfully and explain the correction.
@@ -59,7 +61,7 @@ If -> Yes -> Add or change coherently and in a structured way, the new insight t
 
 If -> No -> Skip to question 2
 
-Question 2: 
+Question 2:
 **Ask:** "**Here's a polished version of your idea. Does it still capture what you meant?**"
 [Show polished version]
 
@@ -70,9 +72,88 @@ Permanent notes need a title that describes the _concept_, not the source.
 
 ### Step 5: Internal Connections (The Zettelkasten Link)
 
-Search the `/zettelkasten/permanent/` folder for existing notes.
-**Action:** Suggest 2-3 existing note titles/IDs that might be related.
-**Ask:** "**Does this note connect to any of these? If so, how?** (e.g., 'Builds on [[ID]]', 'Contradicts [[ID]]')"
+#### 5.1 Index Consultation
+
+1. Read `/zettelkasten/permanent/INDEX.md`
+2. Identify 2-4 relevant concepts based on the note's content
+3. Extract entry-point notes from those concepts
+
+#### 5.2 Semantic Search (Backup)
+
+If the Index doesn't yield enough candidates:
+
+- Search `/zettelkasten/permanent/` for notes with overlapping tags
+- Look for notes from the same Source
+
+#### 5.3 Present Candidates
+
+**Action:** Show ALL candidates, grouped by discovery source:
+
+```
+**Desde INDEX (conceptos relacionados):**
+- [[ID]] — Título de la nota
+- [[ID]] — Título de la nota
+
+**Desde Tags compartidos (#tag1, #tag2):**
+- [[ID]] — Título de la nota
+
+**Desde mismo Source (Autor/Libro):**
+- [[ID]] — Título de la nota
+```
+
+**Rules:**
+
+- Show ALL candidates found, not a fixed number
+- Group by discovery source for clarity
+- If a note appears in multiple groups, show it only in the highest-priority group (INDEX > Tags > Source)
+- If no candidates found in a group, omit that group header
+
+**Ask:** "**¿Con cuáles de estas notas conecta? Puedes elegir varias. Indica el tipo de relación para cada una.**"
+
+**Relationship types:**
+
+_Vertical (hierarchical):_
+
+- `Construye sobre (Parent)` — (↑) This idea is born directly from another (biological parent)
+- `Ejemplo de` — (↑) This idea is a concrete instance of an abstract concept (conceptual parent)
+
+_Horizontal (peers):_
+
+- `Complementa` — (↔) Sibling ideas that reinforce each other
+- `Contradice` — (↔) Sibling ideas in productive tension
+
+**Note:** You don't need a "Child" type — Backlinks automatically show which notes reference the current one (children).
+
+#### 5.4 Backlink Propagation
+
+**Action (automatic):** For each note linked in Connections:
+
+1. Open the target note file
+2. Find or create the `## Backlinks` section (before the `---` separator)
+3. Add entry including the relationship type: `- [Relationship type] [[NEW_ID]] — [Title of new note]`
+4. Save the target note
+
+**Example:** If the new note says `- Complementa [[202601221045]] — description`, then in note 202601221045 add:
+```
+## Backlinks
+- Complementa [[NEW_ID]] — Title of new note
+```
+
+**Rules:**
+
+- Always include the relationship type from the source note's Connections
+- If target note has no `## Backlinks` section, create it before `---`
+- Sort backlinks by ID (chronological order)
+- Do NOT duplicate existing backlinks
+
+#### 5.5 Index Update
+
+**Action (automatic):** Update `/zettelkasten/permanent/INDEX.md`:
+
+1. Identify 1-3 concepts this note should be indexed under
+2. Add the note as entry point under each concept (if concept has <5 notes)
+3. If concept doesn't exist, add it alphabetically under the correct letter
+4. Update the `_Last updated_` date at the bottom
 
 ### Step 6: Metadata & Tags Refinement
 
@@ -111,7 +192,11 @@ Search the `/zettelkasten/permanent/` folder for existing notes.
 
 ## Connections
 
-- [Connection details from Step 5]
+- [Relationship type] [[ID]] — [description]
+
+## Backlinks
+
+_(Auto-maintained section - do not add manually on creation)_
 
 ---
 
@@ -119,3 +204,8 @@ Search the `/zettelkasten/permanent/` folder for existing notes.
 
 > [Original Complete content from "### Content" section]
 ```
+
+**Notes:**
+
+- Parent relationships are expressed in Connections using the `Construye sobre (Parent)` type (e.g., `- Construye sobre (Parent) [[ID]] — description`)
+- The `Backlinks` section starts empty on new notes. It gets populated automatically when OTHER notes link to this one.

@@ -1,0 +1,1 @@
+../../../playground/horror-stories/_skills/story-brief-builder/SKILL.md

@@ -1,0 +1,1 @@
+../../../playground/horror-stories/_skills/character-ref-generator/SKILL.md
