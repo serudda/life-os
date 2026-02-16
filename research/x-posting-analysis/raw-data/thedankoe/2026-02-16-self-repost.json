@@ -1,0 +1,20 @@
+{
+	"original": {
+		"id": "2023431133413937637",
+		"created_at": "2026-02-16T16:15:50.000Z",
+		"text": "The secret is to have something you're excited to do when you wake up. It takes a few months of learning, failure, and experimentation to find what that thing is, but once you do, everything is just... better.",
+		"public_metrics": {
+			"retweet_count": 362,
+			"reply_count": 412,
+			"like_count": 3772,
+			"quote_count": 38,
+			"bookmark_count": 796,
+			"impression_count": 82700
+		}
+	},
+	"repost": {
+		"id": "2023538143056793649",
+		"created_at": "2026-02-16T23:21:03.000Z",
+		"gap_hours": 7.09
+	}
+}

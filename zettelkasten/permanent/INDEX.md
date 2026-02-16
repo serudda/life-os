@@ -20,6 +20,7 @@ Central index of key concepts linking to entry-point notes. Each concept points 
 - [[202601281430]] — El valor como fundamento de la autoconfianza
 - [[202601281445]] — Haz lo que te da miedo
 - [[202601281515]] — Duplica tu tasa de fracaso
+- [[202601281545]] — Los líderes no usan la palabra fracaso
 
 ## D
 
@@ -45,6 +46,7 @@ Central index of key concepts linking to entry-point notes. Each concept points 
 
 ### Fear / Miedo
 - [[202601281445]] — Haz lo que te da miedo
+- [[202601281530]] — Tener miedo es regalar tu poder
 - [[202601261815]] — El miedo de los Devs como herramienta de presión
 
 ## H
@@ -74,11 +76,12 @@ Central index of key concepts linking to entry-point notes. Each concept points 
 
 ### Success
 - [[202601240807]] — El Éxito en tus propios términos
+- [[202601281600]] — Proceso de cuatro pasos para el éxito
 
 ### Suffering
 - [[202601241715]] — Por qué no usted
 
 ---
 
-_Last updated: 2026-02-03_
-_Total concepts: 15 | Total entry points: 26_
+_Last updated: 2026-02-16_
+_Total concepts: 15 | Total entry points: 29_
