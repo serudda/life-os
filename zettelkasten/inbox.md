@@ -701,3 +701,41 @@ La gente critica que la IA es muy complaciente y es muy dada a decirte lo que t�
 - **Core Insight:** En algunos casos, la validación artificial de la IA — sin llegar al extremo — fortalece la confianza de quienes ya tienen autoconfianza y ego alto, funcionando como combustible para la acción y ayudando a cumplir objetivos.
 
 ---
+
+## El Efecto de Superioridad del Número Específico
+
+- **ID:** 202602170937
+- **Type:** Literature
+- **Source:** Investigadores de Cornell + análisis Conductor/Outbrain (150K titulares)
+- **Tags:** #inbox #content-creation #neurociencia #copywriting #persuasion
+
+### Content
+
+Los números específicos e "imprecisos" destrozan a los redondos en credibilidad y clicks. "127 horas de investigación" genera **41% más credibilidad** que "más de 100 horas". El cerebro usa un atajo heurístico: si alguien da un número tan preciso, es porque realmente lo midió — es una señal de rigor.
+
+Los números **impares** (7, 13, 23) generan **20% más clicks** que los pares/redondos. El cerebro los percibe como más auténticos y menos "fabricados".
+
+### Capture Context
+
+- **Core Insight:** Para contenido (Twitter, LinkedIn, newsletters), la especificidad numérica es un arma de persuasión gratuita. Cambiar "Analicé más de 20 design systems" por "Analicé 20 design systems y 1,247 props individuales" aumenta credibilidad sin costo. UI Guideline ya tiene los datos exactos — solo falta exponerlos con precisión quirúrgica.
+
+---
+
+## El Efecto Protégé: enseñar te hace más competente que estudiar
+
+- **ID:** 202602180745
+- **Type:** Literature
+- **Source:** Meta-análisis Koh, Lee & Lim (2018, 8,081 participantes) + Logan et al. (2017)
+- **Tags:** #inbox #crecimiento-personal #psicologia #aprendizaje #content-creation
+
+### Content
+
+Quienes enseñan material a otros retienen **90% más** que quienes solo estudian. El mecanismo se llama *generative processing*: al prepararte para enseñar, tu cerebro reorganiza la información en estructuras más profundas y detecta gaps que el estudio pasivo nunca revela.
+
+Incluso la **expectativa** de tener que enseñar algo (sin hacerlo realmente) ya mejora el aprendizaje un 28% (Logan et al., 2017).
+
+### Capture Context
+
+- **Core Insight:** Cada post en Twitter o LinkedIn no es solo contenido — es una sesión de aprendizaje acelerado. Truco: antes de estudiar algo nuevo, decide "voy a hacer un post sobre esto". Solo esa intención cambia cómo tu cerebro procesa la información. Crear contenido no es solo marketing — es tu herramienta de aprendizaje más potente.
+
+---
