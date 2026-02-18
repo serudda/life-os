@@ -1,0 +1,604 @@
+[
+	{
+		"created_at": "2025-12-19T23:02:20.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 1049
+		},
+		"edit_history_tweet_ids": ["2002152548724097471"],
+		"id": "2002152548724097471",
+		"text": "Contenido en español, en esta cuenta.\nEnglish → @serudda"
+	},
+	{
+		"created_at": "2025-12-19T03:43:20.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 442
+		},
+		"edit_history_tweet_ids": ["2001860877604040873"],
+		"id": "2001860877604040873",
+		"text": "Siempre han infravalorado a los Designers. \n\nSon quiénes tienen todo el contexto del producto / usuario. \n\nY eran a los que menos les pagaban.\n\nPero ahora la torta de volteo. https://t.co/KfS9pzuAkv"
+	},
+	{
+		"created_at": "2025-11-27T22:24:38.000Z",
+		"public_metrics": {
+			"retweet_count": 19,
+			"reply_count": 19,
+			"like_count": 207,
+			"quote_count": 2,
+			"bookmark_count": 23,
+			"impression_count": 11878
+		},
+		"edit_history_tweet_ids": ["1994170528366506067"],
+		"id": "1994170528366506067",
+		"text": "Las empresas están explotando el miedo de los Devs a ser reemplazados por la IA.\n\nUsan esa inseguridad para presionar estimaciones, deadlines y reproches.\n\nNo sé si es bueno o malo, pero es la realidad que estamos viviendo."
+	},
+	{
+		"created_at": "2025-11-27T15:58:53.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 405
+		},
+		"edit_history_tweet_ids": ["1994073452001525906"],
+		"id": "1994073452001525906",
+		"text": "Cada instante de nuestra vida es como un libro de \"Elige tu propia Aventura\".\n\nEl relato va ofreciéndote diferentes opciones que te permiten definir el rumbo en tu camino."
+	},
+	{
+		"created_at": "2025-11-25T17:14:41.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 2,
+			"like_count": 18,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 936
+		},
+		"edit_history_tweet_ids": ["1993367752250474814"],
+		"id": "1993367752250474814",
+		"text": "Creo que mi amistad con @GeminiApp, se está consolidando. https://t.co/PkqRRk1Qq9"
+	},
+	{
+		"created_at": "2025-11-20T15:00:01.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 17,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 706
+		},
+		"edit_history_tweet_ids": ["1991521922954252369"],
+		"id": "1991521922954252369",
+		"text": "Antes había muchos buckets: Front-end, Back-end, DevOps, Product Design.\n\nTu competencia se repartía.\n\nLos próximos años todo convergerá en 1–2 roles: Builder/Product Engineer.\n\nMás gente en el mismo bucket. Más competencia. Menos espacio y menos paga para los mediocres."
+	},
+	{
+		"created_at": "2025-11-19T18:14:33.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 4,
+			"like_count": 33,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 1128
+		},
+		"edit_history_tweet_ids": ["1991208490266710148"],
+		"id": "1991208490266710148",
+		"text": "Quedarse con un empleo, como única fuente de ingresos, será un juego cada vez más difícil el próximo año (especialmente en diseño y desarrollo).\n\nDiversificar ya no es opcional. Es la estrategia mínima para sobrevivir y seguir creciendo."
+	},
+	{
+		"created_at": "2025-11-11T15:34:22.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 2,
+			"like_count": 12,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 471
+		},
+		"edit_history_tweet_ids": ["1988269077496807738"],
+		"id": "1988269077496807738",
+		"text": "Para la gran mayoría, ser escuchado y ser amado es tan parecido... que es imposible encontrar la diferencia."
+	},
+	{
+		"created_at": "2025-10-27T03:36:54.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 1,
+			"like_count": 14,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 805
+		},
+		"edit_history_tweet_ids": ["1982652702279737782"],
+		"id": "1982652702279737782",
+		"text": "La medida de la inteligencia es la capacidad de cambiar"
+	},
+	{
+		"created_at": "2025-10-03T18:28:43.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 2,
+			"like_count": 18,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 959
+		},
+		"edit_history_tweet_ids": ["1974179825704448016"],
+		"id": "1974179825704448016",
+		"text": "Renta en 2025 vender un \"Curso\" de algo?\n\nLiteral lo tienes todo a un ChatGPT de distancia."
+	},
+	{
+		"created_at": "2025-09-21T00:15:49.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 18,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 645
+		},
+		"edit_history_tweet_ids": ["1969556131841257659"],
+		"id": "1969556131841257659",
+		"text": "\"Confía en el proyecto. Da tu 150%. Prometo que todos ganaremos. Somos una familia.\"\n\nHan pasado tres años... Ya tú eres millonario, y yo aún sigo esperando a que TU proyecto me vuelva millonario a mí."
+	},
+	{
+		"created_at": "2025-08-08T13:55:53.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 0,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 293
+		},
+		"edit_history_tweet_ids": ["1953817446042755564"],
+		"id": "1953817446042755564",
+		"text": "Ya no basta con tener el plan de 20 usd / mes, ahora tenemos que dejar un pulmón al mes, para acceder al modelo más inteligente.\n\nEspero que esto solo sea un pequeño A/B testing.. por que si esto se convierte en la norma, solo los más ricos tendrán acceso."
+	},
+	{
+		"created_at": "2025-08-08T13:53:20.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 6,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 501
+		},
+		"edit_history_tweet_ids": ["1953816801571144046"],
+		"id": "1953816801571144046",
+		"text": "Tengo que tener el plan de $200 usd/mes... para acceder al GPT-5 más inteligente?\n\nEso es una puta locura... https://t.co/A27EBTbwBv"
+	},
+	{
+		"created_at": "2025-08-05T01:07:25.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 0,
+			"like_count": 12,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 794
+		},
+		"edit_history_tweet_ids": ["1952536887773798843"],
+		"id": "1952536887773798843",
+		"text": "Tener que pedir \"permiso\" en el trabajo... porque a un familiar lo van a operar.\n\nEs una de las cosas que jamás entenderé de esta puta sociedad.\n\nLa salud no debería ser algo negociable."
+	},
+	{
+		"created_at": "2025-08-04T12:58:43.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 0,
+			"like_count": 13,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 725
+		},
+		"edit_history_tweet_ids": ["1952353506595422599"],
+		"id": "1952353506595422599",
+		"text": "Los hábitos no consisten en \"conseguir algo\". \n\nEn realidad, los hábitos se tratan de \"convertirte en alguien\"."
+	},
+	{
+		"created_at": "2025-08-02T16:37:55.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 9,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 633
+		},
+		"edit_history_tweet_ids": ["1951683895331520581"],
+		"id": "1951683895331520581",
+		"text": "Trabajar junto a los mejores… es una de las satisfacciones más grandes que tiene la vida."
+	},
+	{
+		"created_at": "2025-07-31T19:57:33.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 4,
+			"like_count": 24,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 919
+		},
+		"edit_history_tweet_ids": ["1951009356616470680"],
+		"id": "1951009356616470680",
+		"text": "Valora a las personas que hacen que tu dia a día en el trabajo sea más sencillo...\n\nPorque el día que ya no estén trabajando contigo, ese día vas a sentir muchísimo su ausencia."
+	},
+	{
+		"created_at": "2025-07-28T14:06:15.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 3,
+			"like_count": 20,
+			"quote_count": 1,
+			"bookmark_count": 0,
+			"impression_count": 1179
+		},
+		"edit_history_tweet_ids": ["1949833785010266577"],
+		"id": "1949833785010266577",
+		"text": "Lo siento, pero si es verdad que quieres tener un Producto Top...\nEntonces contrata a un Equipo Top."
+	},
+	{
+		"created_at": "2025-07-22T15:37:20.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 22,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 783
+		},
+		"edit_history_tweet_ids": ["1947682381831540754"],
+		"id": "1947682381831540754",
+		"text": "Recuerda que cada pequeña experiencia que te regala la vida… es una nueva oportunidad para ser Grande."
+	},
+	{
+		"created_at": "2025-07-20T14:25:48.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 2,
+			"like_count": 27,
+			"quote_count": 0,
+			"bookmark_count": 3,
+			"impression_count": 1086
+		},
+		"edit_history_tweet_ids": ["1946939603270680960"],
+		"id": "1946939603270680960",
+		"text": "Los sucesos de tu futuro, están ocultos en tu rutina diaria."
+	},
+	{
+		"created_at": "2025-07-18T15:08:36.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 7,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 525
+		},
+		"edit_history_tweet_ids": ["1946225598524731593"],
+		"id": "1946225598524731593",
+		"text": "38 años después... por fin lo entiendo 🙏🏻 https://t.co/efcaAaZWxj"
+	},
+	{
+		"created_at": "2025-07-16T00:17:23.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 0,
+			"like_count": 20,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 954
+		},
+		"edit_history_tweet_ids": ["1945276539299311825"],
+		"id": "1945276539299311825",
+		"text": "No hay mejor plan, que hacer lo que se nos venga en gana"
+	},
+	{
+		"created_at": "2025-05-07T03:09:37.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 3,
+			"like_count": 19,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 1322
+		},
+		"edit_history_tweet_ids": ["1919952732468683158"],
+		"id": "1919952732468683158",
+		"text": "Siempre he visto a los stock options como \"papel en blanco\". \n\nQuerer bajarme el salario a cambio de papel en blanco... mmm, es un poco molesto. \n\nSin embargo, esta vez decido creer. Tengo una corazonada de que ese papel en blanco va a tener un gran valor en el futuro. 🤞🏻"
+	},
+	{
+		"created_at": "2025-05-05T00:09:21.000Z",
+		"public_metrics": {
+			"retweet_count": 5,
+			"reply_count": 12,
+			"like_count": 68,
+			"quote_count": 0,
+			"bookmark_count": 9,
+			"impression_count": 4254
+		},
+		"edit_history_tweet_ids": ["1919182592202432551"],
+		"id": "1919182592202432551",
+		"text": "Nunca ha sido mejor momento para ser Programador 💰"
+	},
+	{
+		"created_at": "2025-05-03T15:57:45.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 14,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 971
+		},
+		"edit_history_tweet_ids": ["1918696489569681650"],
+		"id": "1918696489569681650",
+		"text": "MCP Servers puede que sea un primer paso hacia algo mejor... una moda pasajera.\n\nPERO, es una herramienta que te puede potenciar ahora.\n\nDesaprovechar su uso es desperdiciar la oportunidad de potenciarte AHORA, no en 1 año cuando salga algo mejor."
+	},
+	{
+		"created_at": "2025-05-02T19:17:04.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 7,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 824
+		},
+		"edit_history_tweet_ids": ["1918384260270153808"],
+		"id": "1918384260270153808",
+		"text": "True https://t.co/XUbg0sCO2w"
+	},
+	{
+		"created_at": "2025-04-07T18:00:40.000Z",
+		"public_metrics": {
+			"retweet_count": 4,
+			"reply_count": 1,
+			"like_count": 32,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 952
+		},
+		"edit_history_tweet_ids": ["1909305339788640268"],
+		"id": "1909305339788640268",
+		"text": "\"La meta es morir con Recuerdos, no con Sueños\"\n\nEntregar tu vida entera a un empleo, solo hará que tu jefe se lleve muchos lindos recuerdos a su tumba."
+	},
+	{
+		"created_at": "2025-04-03T18:03:49.000Z",
+		"public_metrics": {
+			"retweet_count": 6,
+			"reply_count": 3,
+			"like_count": 20,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 1118
+		},
+		"edit_history_tweet_ids": ["1907856579728121889"],
+		"id": "1907856579728121889",
+		"text": "Si tú me valoras, yo te valoraré mucho más. Si no me valoras, yo te valoraré mucho menos."
+	},
+	{
+		"created_at": "2025-04-02T01:08:00.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 5,
+			"like_count": 23,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 1073
+		},
+		"edit_history_tweet_ids": ["1907238552489832779"],
+		"id": "1907238552489832779",
+		"text": "Crear con \"Vibe Coding\" solo va a llenar Internet con mucha más mierda.\n\nAprender los fundamentos sicológicos y comportamientos humanos es lo que le dará valor a esa nueva mierda."
+	},
+	{
+		"created_at": "2025-04-01T12:54:05.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 12,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 711
+		},
+		"edit_history_tweet_ids": ["1907053855981891839"],
+		"id": "1907053855981891839",
+		"text": "De que te sirve crear un Proyecto con la IA... \n\nSi este no lo va a usar un Humano.\n\nEntender la sicología y comportamiento humano, eso no te lo dará una IA."
+	},
+	{
+		"created_at": "2025-03-31T04:17:10.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 1,
+			"like_count": 22,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 1280
+		},
+		"edit_history_tweet_ids": ["1906561381299577022"],
+		"id": "1906561381299577022",
+		"text": "La IA si o si va a seguir destruyendo carreras...\n\nY resistirse a ello no hará que no avance, solo hará que TU te estanques"
+	},
+	{
+		"created_at": "2025-03-20T03:01:13.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 1,
+			"like_count": 31,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 1012
+		},
+		"edit_history_tweet_ids": ["1902556003385618569"],
+		"id": "1902556003385618569",
+		"text": "\"Valora más... A quien te valora\"\n\nCuando tu jefe te pide que des el 110% por el proyecto... Pregúntate: Cuanto está dando el proyecto por ti?"
+	},
+	{
+		"created_at": "2025-03-12T20:56:46.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 5,
+			"like_count": 42,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 1449
+		},
+		"edit_history_tweet_ids": ["1899927569362792841"],
+		"id": "1899927569362792841",
+		"text": "👀 Después de 2 años sin escribir un guion para los videos clásicos de Serudda... aquí estamos nuevamente.\n\nSe vienen cositas 🍻 https://t.co/uxlpUp14bP"
+	},
+	{
+		"created_at": "2025-03-12T18:47:27.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 255
+		},
+		"edit_history_tweet_ids": ["1899895028874445095"],
+		"id": "1899895028874445095",
+		"text": "Nunca te pongas en una posición vulnerable... por que siempre la usarán en tu contra."
+	},
+	{
+		"created_at": "2025-03-12T18:44:39.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 280
+		},
+		"edit_history_tweet_ids": ["1899894320573854101"],
+		"id": "1899894320573854101",
+		"text": "- Necesitas urgente el laburo?\nNo te muestres desesperado... si lo notan, te terminarán cagando."
+	},
+	{
+		"created_at": "2025-03-12T18:42:26.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 2,
+			"like_count": 6,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 135
+		},
+		"edit_history_tweet_ids": ["1899893766384697830"],
+		"id": "1899893766384697830",
+		"text": "Eso aplica para todo:\n- Estás negociando un aumento de salario?. No muestres tus necesidades a nadie... la usarán para cagarte."
+	},
+	{
+		"created_at": "2025-03-12T18:41:15.000Z",
+		"public_metrics": {
+			"retweet_count": 6,
+			"reply_count": 3,
+			"like_count": 37,
+			"quote_count": 1,
+			"bookmark_count": 3,
+			"impression_count": 1232
+		},
+		"edit_history_tweet_ids": ["1899893468828168513"],
+		"id": "1899893468828168513",
+		"text": "Nunca olvides esto:\n\nEl que muestra el hambre, no come...\nO come mal."
+	},
+	{
+		"created_at": "2025-03-06T14:17:32.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 1,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 433
+		},
+		"edit_history_tweet_ids": ["1897652772473852239"],
+		"id": "1897652772473852239",
+		"text": "Ya sé, el día en que me despidan, o me aburra de ser empleado... me pondré a spamear videos de este tipo."
+	},
+	{
+		"created_at": "2025-03-06T14:15:51.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 6,
+			"like_count": 60,
+			"quote_count": 0,
+			"bookmark_count": 4,
+			"impression_count": 1739
+		},
+		"edit_history_tweet_ids": ["1897652347800543589"],
+		"id": "1897652347800543589",
+		"text": "Todo lo que un video puede generar es de locos 😳 https://t.co/kyl0nNBbn5"
+	},
+	{
+		"created_at": "2025-03-03T02:30:16.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 693
+		},
+		"edit_history_tweet_ids": ["1896387618335809961"],
+		"id": "1896387618335809961",
+		"text": "Si ya me cuesta salir rápido del baño solo por el celular, no me quiero imaginar si mi baño fuera asi https://t.co/ipFeMFc5JM"
+	},
+	{
+		"created_at": "2025-02-27T23:31:57.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 2,
+			"like_count": 15,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 876
+		},
+		"edit_history_tweet_ids": ["1895255582594257364"],
+		"id": "1895255582594257364",
+		"text": "🥰🥰🥰🥰🥰 https://t.co/bkWlPRlEHx"
+	},
+	{
+		"created_at": "2025-02-18T14:29:10.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 3,
+			"like_count": 8,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 1125
+		},
+		"edit_history_tweet_ids": ["1891857494319730976"],
+		"id": "1891857494319730976",
+		"text": "¿Qué es mejor: \"enum\" o \"as const\"?...\nY, ¿por qué? https://t.co/f0KqHPh3KP"
+	},
+	{
+		"created_at": "2025-02-04T23:23:42.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 16,
+			"quote_count": 0,
+			"bookmark_count": 2,
+			"impression_count": 768
+		},
+		"edit_history_tweet_ids": ["1886918586179944578"],
+		"id": "1886918586179944578",
+		"text": "https://t.co/vzOIyrddCJ"
+	}
+]

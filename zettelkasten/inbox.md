@@ -4,6 +4,31 @@ Raw captures waiting to be processed into permanent notes.
 
 ---
 
+## El Momento Mágico que se Esfuma: Documentar en Tiempo Real es No-Negociable
+
+- **ID:** 202602180936
+- **Type:** Fleeting
+- **Source:** Experiencia propia — OpenClaw/Sinistra
+- **Tags:** #inbox #AI-era #productivity-system
+
+### Content
+
+Estaba trabajando con mi agente de IA en algo técnicamente complejo. Después de varias iteraciones fallidas, finalmente lo logramos — el resultado exacto que buscaba. Algo potencialmente millonario, una solución perfecta a un problema nuevo.
+
+**El desastre:** Justo en el momento del éxito, el contexto del agente se compactó automáticamente (optimización de memoria). Cuando le pregunté "¿cómo lo hiciste?", me respondió: *"Te voy a ser honesto, justo acabo de compactar mi contexto y perdí el hilo de la conversación."*
+
+**La lección brutal:** El conocimiento que no se documenta en el momento en que se genera, se pierde. No importa qué tan brillante sea el resultado. Si no le pediste a tiempo que guardara su razonamiento en un README, en un archivo, en cualquier pinche archivo — se fue para siempre.
+
+**Principio:** Con agentes de IA, documentar no es un "nice to have" — es la única forma de capturar el valor real. El agente no tiene memoria persistente a menos que tú (o él) la cree explícitamente. El momento mágico sin documentación es como un sueño: increíble mientras dura, imposible de recuperar al despertar.
+
+**Acción:** Siempre pedir al agente que documente el proceso ANTES de que el contexto se llene. No esperar al final. Documentar incrementalmente.
+
+### Capture Context
+
+- **Core Insight:** Los agentes de IA no tienen memoria persistente — su contexto es volátil y se puede compactar o perder en cualquier momento. El conocimiento que no se documenta en el momento en que se genera, se pierde para siempre. Documentar no es un paso final, es un paso continuo. Cada iteración valiosa debe ir a un archivo inmediatamente, no al final cuando ya "funcione". El momento mágico sin documentación es como un sueño: increíble mientras dura, imposible de recuperar al despertar.
+
+---
+
 ## Mientras más pronto fracases, más rápido obtendrás éxito
 
 - **ID:** 202601281615

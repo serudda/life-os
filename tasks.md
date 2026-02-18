@@ -8,14 +8,20 @@
 ## Hoy — Feb 18, 2026 (Martes)
 
 ### 🔴 Prioridad Alta
-- No hay tareas de prioridad alta para hoy
+- [ ] Editar video grabado ("La mejor época para trabajar en ti mismo")
 
 ### 🟡 Prioridad Media
+- [ ] Leer sobre el método Zettelkasten — mejorar nuestro flujo
+- [ ] Programar 3 tweets para mañana
+
+### 🟢 Si da tiempo
 - [ ] Revisar métricas de los 3 tweets agendados el Feb 12
 - [ ] Definir cuentas de referencia para análisis de X
 
-### 🟢 Si da tiempo
-- No hay tareas opcionales para hoy
+### 📝 Notas del día
+- UI Guideline: dejamos correr, sin tocar. Hoy miércoles tiene buen tráfico. Esperamos resultados.
+- No hay tweets publicados hoy → no hay sesión de replies ni self-repost.
+- Ayer fue día de descanso post-burnout del launch.
 
 ## Backlog
 

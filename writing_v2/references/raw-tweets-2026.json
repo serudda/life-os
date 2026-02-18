@@ -1,0 +1,618 @@
+[
+	{
+		"created_at": "2026-02-18T22:01:23.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 2,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 158
+		},
+		"edit_history_tweet_ids": ["2024242870216012127"],
+		"id": "2024242870216012127",
+		"text": "Cometí el error de pagar la suscripción anual de @cursor_ai\n\nEn una industria que avanza tan rápido, en su momento parecía una buena decisión. No lo fue.\n\nDesde hace meses uso exclusivamente Claude Code (principalmente con @openclaw), y para proyectos que requieren auditoría https://t.co/MGgasXYeY3"
+	},
+	{
+		"created_at": "2026-02-17T17:12:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 8,
+			"quote_count": 0,
+			"bookmark_count": 2,
+			"impression_count": 308
+		},
+		"edit_history_tweet_ids": ["2023807655635243058"],
+		"id": "2023807655635243058",
+		"text": "La forma más peligrosa de procrastinación es la que se siente como progreso.\n\nLeer sobre “buildInPublic”. Planear el empezar. Organizar tus herramientas. Guardar posts sobre tomar acción.\n\nPuedes pasar un año entero “preparándote” y no arriesgarte ni una sola vez a estar"
+	},
+	{
+		"created_at": "2026-02-17T15:10:00.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 1,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 108
+		},
+		"edit_history_tweet_ids": ["2023776953325789695"],
+		"id": "2023776953325789695",
+		"text": "Adquiere el hábito de reemplazar la palabra fracaso\n\npor:\n\n· Experiencia de aprendizaje costosa\n· Experiencia de aprendizaje dolorosa\n· Experiencia de aprendizaje valiosa\n\nPero esto tiene un riesgo: si solo cambias la palabra sin realmente extraer la lección de lo que salió mal,"
+	},
+	{
+		"created_at": "2026-02-17T13:15:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 3,
+			"impression_count": 220
+		},
+		"edit_history_tweet_ids": ["2023748012854702572"],
+		"id": "2023748012854702572",
+		"text": "Todos quieren la fórmula secreta para construir un proyecto exitoso.\n\nAquí está:\n1. Decide qué problema resolver.\n2. Toma acción inmediatamente.\n3. Escoge el Modelo más inteligente del momento.\n4. Falla y aprende rapidamente.\n5. Si no funciona, repite los 4 pasos anteriores.\n\nEso"
+	},
+	{
+		"created_at": "2026-02-15T12:15:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 2,
+			"like_count": 16,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 718
+		},
+		"edit_history_tweet_ids": ["2023008138094387226"],
+		"id": "2023008138094387226",
+		"text": "Me tomó 15 años construir una identidad.\n\nA la IA solo le tomó 6 meses destruirla."
+	},
+	{
+		"created_at": "2026-02-15T00:29:00.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 1,
+			"like_count": 7,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 448
+		},
+		"edit_history_tweet_ids": ["2022830466466713783"],
+		"id": "2022830466466713783",
+		"text": "Internet cree que el debate sobre la IA es:\nUltra-optimistas vs Ultra-fatalistas.\n\nEn realidad no hay debate.\n\nLos primeros están construyendo en silencio.\n\nLos segundos son los que más opinan en @X."
+	},
+	{
+		"created_at": "2026-02-14T18:06:00.000Z",
+		"public_metrics": {
+			"retweet_count": 3,
+			"reply_count": 11,
+			"like_count": 30,
+			"quote_count": 2,
+			"bookmark_count": 3,
+			"impression_count": 3677
+		},
+		"edit_history_tweet_ids": ["2022734081369530861"],
+		"id": "2022734081369530861",
+		"text": "Alguien en un Starbucks me preguntó: A qué te dedicas?\n\nPor primera vez en 15 años, dudé.\n\nNo porque no tenga trabajo. Lo tengo. Más que nunca.\n\nSino porque la palabra \"Programador\", la que siempre usé ya no significa lo que antes significaba."
+	},
+	{
+		"created_at": "2026-02-14T14:18:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 3,
+			"like_count": 15,
+			"quote_count": 0,
+			"bookmark_count": 3,
+			"impression_count": 1321
+		},
+		"edit_history_tweet_ids": ["2022676703534035199"],
+		"id": "2022676703534035199",
+		"text": "Esto no es un simulacro.\n\nNo puedes esperar a que el debate se resuelva.\n\nUltra-optimistas: la IA vino a salvar el mundo y a hacer que el sistema por fin sea más “equitativo”.\n\nUltra-fatalistas: En un año el sistema colapsará por completo.\n\nYa está pasando.\n\nLos que sobreviven no"
+	},
+	{
+		"created_at": "2026-02-14T01:11:00.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 8,
+			"like_count": 41,
+			"quote_count": 0,
+			"bookmark_count": 7,
+			"impression_count": 3788
+		},
+		"edit_history_tweet_ids": ["2022478648297820671"],
+		"id": "2022478648297820671",
+		"text": "Deja de llamarte \"developer\".\nDeja de llamarte \"designer\".\nDeja de llamarte \"ux researcher\".\n\nEn el momento en que fusionas tu identidad con una herramienta, mueres el mismo día en que esa herramienta hace el trabajo 10 veces mejor que tú."
+	},
+	{
+		"created_at": "2026-02-13T20:05:00.000Z",
+		"public_metrics": {
+			"retweet_count": 15,
+			"reply_count": 16,
+			"like_count": 204,
+			"quote_count": 6,
+			"bookmark_count": 77,
+			"impression_count": 21472
+		},
+		"edit_history_tweet_ids": ["2022401641245479345"],
+		"id": "2022401641245479345",
+		"text": "Durante 15 años, cuando alguien me preguntaba a qué me dedicaba, tenía una respuesta.\n\nUna sola palabra. Limpia. Segura: \"Me gusta programar\".\n\nLa gente te miraba como alguien interesante. Inteligente. Misterioso.\n\nLuego llegó la IA y esa palabra empezó a disolverse. No de golpe,"
+	},
+	{
+		"created_at": "2026-02-13T12:00:02.000Z",
+		"public_metrics": {
+			"retweet_count": 5,
+			"reply_count": 7,
+			"like_count": 32,
+			"quote_count": 1,
+			"bookmark_count": 6,
+			"impression_count": 2422
+		},
+		"edit_history_tweet_ids": ["2022279595387658343"],
+		"id": "2022279595387658343",
+		"text": "Hay dos conversaciones sobre la IA en este momento.\n\nUna dice que nos va a salvar. La otra dice que nos va a destruir.\n\nAmbas suenan seguras. Ambas tienen gráficos, hilos y podcasts. Ambas están absolutamente convencidas.\n\nEs fácil ser optimista cuando la IA aun no te ha quitado"
+	},
+	{
+		"created_at": "2026-02-13T02:36:40.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 594
+		},
+		"edit_history_tweet_ids": ["2022137821322944873"],
+		"id": "2022137821322944873",
+		"text": "Imagínate lo que lograremos en 2 años. Da hasta miedo pensarlo."
+	},
+	{
+		"created_at": "2026-02-13T01:03:00.000Z",
+		"public_metrics": {
+			"retweet_count": 6,
+			"reply_count": 7,
+			"like_count": 88,
+			"quote_count": 1,
+			"bookmark_count": 12,
+			"impression_count": 5329
+		},
+		"edit_history_tweet_ids": ["2022114247522521091"],
+		"id": "2022114247522521091",
+		"text": "Esto no es sostenible.\n\nSi mi productividad se duplicó en 6 meses, el mundo no puede seguir igual.\n\nLa IA no optimiza el sistema: lo colapsa.\n\nEl problema no es la IA, es forzar crecimiento exponencial dentro de una estructura lineal."
+	},
+	{
+		"created_at": "2026-02-12T20:00:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 3,
+			"like_count": 18,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 1663
+		},
+		"edit_history_tweet_ids": ["2022037997844037850"],
+		"id": "2022037997844037850",
+		"text": "“Pero genera mucho código basura”\n\nSí. Hoy.\n\nPero si evolucionó así en 6 meses, ¿de verdad crees que esta es la versión final?\n\nEsa es la pregunta que más me perturba. No lo que la IA puede hacer hoy, sino lo que va a poder hacer cuando tú sigas diciendo “todavía no es tan buena”"
+	},
+	{
+		"created_at": "2026-02-12T13:00:01.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 12,
+			"like_count": 96,
+			"quote_count": 0,
+			"bookmark_count": 9,
+			"impression_count": 7575
+		},
+		"edit_history_tweet_ids": ["2021932303610679543"],
+		"id": "2021932303610679543",
+		"text": "Tengo amigos \"ingenieros\" que usan Claude para que solo les redacte un Pull Request.\n\nEso es todo. Eso es lo que hacen con la herramienta más poderosa que ha existido en la historia de la humanidad.\n\nRedactar un PR."
+	},
+	{
+		"created_at": "2026-02-05T15:00:02.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 1,
+			"like_count": 2,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 237
+		},
+		"edit_history_tweet_ids": ["2019425791906324541"],
+		"id": "2019425791906324541",
+		"text": "Prefiero ser un mensaje abrasivo que genere un cambio real, a ser un consejo tibio que se olvida a los cinco minutos."
+	},
+	{
+		"created_at": "2026-02-04T21:30:00.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 1,
+			"like_count": 6,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 347
+		},
+		"edit_history_tweet_ids": ["2019161541300613623"],
+		"id": "2019161541300613623",
+		"text": "El mundo está cambiando demasiado rápido como para seguir siendo la misma persona que ayer.\n\nEl mayor riesgo no es saltar, es quedarse sentado viendo cómo los demás evolucionan."
+	},
+	{
+		"created_at": "2026-02-04T15:00:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 8,
+			"quote_count": 0,
+			"bookmark_count": 2,
+			"impression_count": 403
+		},
+		"edit_history_tweet_ids": ["2019063396566544839"],
+		"id": "2019063396566544839",
+		"text": "A veces la seguridad es la forma más cara de pobreza.\n\nCambiaste el asombro por un salario fijo y la evolución por un horario de oficina."
+	},
+	{
+		"created_at": "2026-02-03T23:47:39.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 223
+		},
+		"edit_history_tweet_ids": ["2018833795231977570"],
+		"id": "2018833795231977570",
+		"text": "Tu miedo es un arquitecto brillante.\n\nCada vez que retrocedes para volver a lo que conoces, él pone un ladrillo más en tu celda.\n\nDecir “prefiero donde estaba” es firmar tu sentencia de insignificancia en la década más vibrante de la humanidad."
+	},
+	{
+		"created_at": "2026-02-03T14:10:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 17,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 734
+		},
+		"edit_history_tweet_ids": ["2018688424132403336"],
+		"id": "2018688424132403336",
+		"text": "No olvides que estás construyendo el sueño de alguien más, mientras el tuyo acumula polvo en un cajón."
+	},
+	{
+		"created_at": "2026-02-02T14:06:30.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 3,
+			"like_count": 9,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 648
+		},
+		"edit_history_tweet_ids": ["2018325154829684950"],
+		"id": "2018325154829684950",
+		"text": "¿En qué momento de la historia se normalizó que tener un empleo era lo correcto?\n\nSi fuera lo correcto, ¿por qué los ricos no son empleados?"
+	},
+	{
+		"created_at": "2026-01-31T01:51:17.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 302
+		},
+		"edit_history_tweet_ids": ["2017415357581996417"],
+		"id": "2017415357581996417",
+		"text": "No seas la persona que siente que está viviendo una vida prestada, cumpliendo un guión que alguien más escribió para ti."
+	},
+	{
+		"created_at": "2026-01-30T14:06:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 6,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 345
+		},
+		"edit_history_tweet_ids": ["2017237865491534013"],
+		"id": "2017237865491534013",
+		"text": "El verdadero valor de un Developer experimentado no está en la velocidad de output, sino en todo lo que evita que salga mal.\n\nY eso es precisamente lo que la métrica de \"eso lo haces con Cursor/Claude en 15 minutos\" es incapaz de medir."
+	},
+	{
+		"created_at": "2026-01-29T20:12:37.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 0,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 294
+		},
+		"edit_history_tweet_ids": ["2016967742331768988"],
+		"id": "2016967742331768988",
+		"text": "Por fin el Google Translate killer. Soñaba con este momento 🎉 https://t.co/0Gjo4nRUMv"
+	},
+	{
+		"created_at": "2026-01-29T14:30:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 11,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 270
+		},
+		"edit_history_tweet_ids": ["2016881520024441288"],
+		"id": "2016881520024441288",
+		"text": "Cuando entré, dijeron: \"somos una familia\"\n\nCuando me fui, dijeron: \"son solo negocios\"\n\nSiempre fueron solo negocios\n\nLo de la \"familia\" era solo el cuento que contaban para que trabajaras los fines de semana gratis\n\nNo dejo de sacarme esto de la cabeza"
+	},
+	{
+		"created_at": "2026-01-23T16:50:13.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 3,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 190
+		},
+		"edit_history_tweet_ids": ["2014742478599901553"],
+		"id": "2014742478599901553",
+		"text": "Estamos en la Era en que el código es un commodity, pero el criterio es un lujo."
+	},
+	{
+		"created_at": "2026-01-19T15:59:47.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 337
+		},
+		"edit_history_tweet_ids": ["2013280233042874731"],
+		"id": "2013280233042874731",
+		"text": "\"No tengo ideas para ningún proyecto.\"\n\nSiempre tienes uno: Tú mismo.\n\nCuando no sabes qué construir, trabaja en los cimientos que hacen posible todo lo demás."
+	},
+	{
+		"created_at": "2026-01-17T15:07:00.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 2,
+			"impression_count": 188
+		},
+		"edit_history_tweet_ids": ["2012542174454247610"],
+		"id": "2012542174454247610",
+		"text": "Usa las redes sociales como si estuvieras tomando \"Notas en público\".\n\nHáblale a tu yo del pasado, a tu yo del presente y a tu yo del futuro.\n\nComo si tú mismo fueras tu audiencia.\n\nSi logras impactarte a ti mismo con tus mensajes, con seguridad lograrás impactar a otros."
+	},
+	{
+		"created_at": "2026-01-16T19:03:00.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 3,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 139
+		},
+		"edit_history_tweet_ids": ["2012239177937772979"],
+		"id": "2012239177937772979",
+		"text": "La solución para dejar de crear para alguien más (por un sueldo)... es crear para ti mismo."
+	},
+	{
+		"created_at": "2026-01-16T18:34:57.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 4,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 159
+		},
+		"edit_history_tweet_ids": ["2012232119230030232"],
+		"id": "2012232119230030232",
+		"text": "Ojalá este principio se sostenga en el tiempo.\n\nSesgar las respuestas del modelo para favorecer a anunciantes sería un daño enorme para la sociedad.\n\nMás aún cuando millones de personas confían, sin cuestionarlo, en lo que el modelo les dice. https://t.co/S6pSExVA3z"
+	},
+	{
+		"created_at": "2026-01-16T12:43:17.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 3,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 68
+		},
+		"edit_history_tweet_ids": ["2012143621664133510"],
+		"id": "2012143621664133510",
+		"text": "El libro es una guía de dos caras:\n\n1. Cómo hiperenfocarte cuando necesitas ejecutar\n2. Cómo desenfocarte cuando necesitas crear\n\nA veces no hacer nada es lo más productivo que puedes hacer."
+	},
+	{
+		"created_at": "2026-01-16T12:43:17.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 1,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 66
+		},
+		"edit_history_tweet_ids": ["2012143620028256505"],
+		"id": "2012143620028256505",
+		"text": "4)\nDesenfocar la Atención: te ofrece la oportunidad de conectar ideas que te ayuden a descubrir conceptos ocultos, ser más creativo, planear para el futuro y descansar adecuadamente."
+	},
+	{
+		"created_at": "2026-01-16T12:43:17.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 1,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 25
+		},
+		"edit_history_tweet_ids": ["2012143618270851269"],
+		"id": "2012143618270851269",
+		"text": "3)\nLa diferencia está en la intención.\n\nDesenfoque accidental = scrollear sin fin, perderte en notificaciones.\n\nDesenfoque intencional = caminar sin música, ducharte sin celular, dejar que tu mente divague A PROPÓSITO."
+	},
+	{
+		"created_at": "2026-01-16T12:43:16.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 1,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 97
+		},
+		"edit_history_tweet_ids": ["2012143616538673545"],
+		"id": "2012143616538673545",
+		"text": "2)\nHemos satanizado estar distraídos.\n\n\"No te desconcentres.\"\n\"Deja el celular.\"\n\"Enfócate.\"\n\nPero resulta que el cerebro NECESITA momentos de desenfoque para conectar ideas que en el modo enfocado no puede."
+	},
+	{
+		"created_at": "2026-01-16T12:41:55.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 1,
+			"like_count": 2,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 99
+		},
+		"edit_history_tweet_ids": ["2012143277714321728"],
+		"id": "2012143277714321728",
+		"text": "1)\nLibro fácil de leer. Conceptos básicos sobre hiperenfoque.\n\nPero introduce un término que nuevo: \"Scatterfocus\".\n\nBásicamente: desenfocarte a propósito."
+	},
+	{
+		"created_at": "2026-01-16T12:41:55.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 1,
+			"like_count": 8,
+			"quote_count": 0,
+			"bookmark_count": 4,
+			"impression_count": 345
+		},
+		"edit_history_tweet_ids": ["2012143274635755649"],
+		"id": "2012143274635755649",
+		"text": "Hyperfocus de Chris Bailey\n\nPasé años sintiéndome culpable cada vez que me distraía.\n\nResulta que mi cerebro estaba haciendo exactamente lo que necesitaba hacer.\n\n4 lecciones de este libro 🧵 https://t.co/qmRX7OtMvb"
+	},
+	{
+		"created_at": "2026-01-16T00:15:37.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 2,
+			"like_count": 9,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 233
+		},
+		"edit_history_tweet_ids": ["2011955462443303257"],
+		"id": "2011955462443303257",
+		"text": "A veces hay que extrañar algo… para valorarlo de verdad y volver con más ganas.\n\nEstoy muy entusiasmado de retomar los streams los jueves."
+	},
+	{
+		"created_at": "2026-01-14T15:25:23.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 0,
+			"like_count": 10,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 392
+		},
+		"edit_history_tweet_ids": ["2011459638152020470"],
+		"id": "2011459638152020470",
+		"text": "La solución para dejar de crear para alguien más (porque necesitas que te de un sueldo) \n\n...es crear para ti mismo."
+	},
+	{
+		"created_at": "2026-01-12T14:06:53.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 2,
+			"like_count": 5,
+			"quote_count": 0,
+			"bookmark_count": 6,
+			"impression_count": 553
+		},
+		"edit_history_tweet_ids": ["2010715108138250312"],
+		"id": "2010715108138250312",
+		"text": "Ayer encontre este flujo simple para responder tweets en inglés:\n\n· Expresa tu pensamiento/opinión con @WisprFlow\n· Pule el texto con @grok\n· Traduce con @ChatGPTapp Atlas\n\nSigue siendo humano y genuino.\nCero bots. Cero auto-reply. https://t.co/NQDfsOmp8E"
+	},
+	{
+		"created_at": "2026-01-08T02:17:00.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 3,
+			"quote_count": 1,
+			"bookmark_count": 2,
+			"impression_count": 345
+		},
+		"edit_history_tweet_ids": ["2009086906718417218"],
+		"id": "2009086906718417218",
+		"text": "Todos hablan de que la IA va a reemplazar trabajos.\n\nPocos entienden: la IA no te va a reemplazar. Alguien usando IA como \"Segundo Cerebro\"... sí"
+	},
+	{
+		"created_at": "2026-01-07T20:03:00.000Z",
+		"public_metrics": {
+			"retweet_count": 2,
+			"reply_count": 0,
+			"like_count": 2,
+			"quote_count": 0,
+			"bookmark_count": 1,
+			"impression_count": 250
+		},
+		"edit_history_tweet_ids": ["2008992786729828862"],
+		"id": "2008992786729828862",
+		"text": "\"Solo estoy descansando\" es la mentira más cara que te cuentas.\n\nEsa hora scrolleando no es gratis. Te costó una hora de construir algo que realmente puede cambiar tu vida."
+	},
+	{
+		"created_at": "2026-01-06T17:28:33.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 0,
+			"like_count": 8,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 304
+		},
+		"edit_history_tweet_ids": ["2008591529271849362"],
+		"id": "2008591529271849362",
+		"text": "Un empleo es vender tu tiempo.\n\nEsclavitud es cuando además vendes tu disponibilidad, tus fines de semana, y tu derecho a desconectar.\n\nSi no sabes dónde está la línea, probablemente ya la cruzaste."
+	},
+	{
+		"created_at": "2026-01-05T15:48:43.000Z",
+		"public_metrics": {
+			"retweet_count": 0,
+			"reply_count": 0,
+			"like_count": 0,
+			"quote_count": 0,
+			"bookmark_count": 0,
+			"impression_count": 74
+		},
+		"edit_history_tweet_ids": ["2008204017856381303"],
+		"id": "2008204017856381303",
+		"text": "Hyperfocus de Chris Bailey\n10/10 👌🏻"
+	},
+	{
+		"created_at": "2026-01-05T15:48:41.000Z",
+		"public_metrics": {
+			"retweet_count": 1,
+			"reply_count": 2,
+			"like_count": 7,
+			"quote_count": 0,
+			"bookmark_count": 2,
+			"impression_count": 271
+		},
+		"edit_history_tweet_ids": ["2008204013045796900"],
+		"id": "2008204013045796900",
+		"text": "Así distribuyo mi energía/tiempo según el contenido que consumo:\n\n• Con energía → info útil.\n• Con menos energía → info equilibrada (útil pero a la vez entretenida).\n• Drenado → entretenimiento con propósito.\n• Y “basura” → al mínimo. https://t.co/28tsMPD1V4"
+	}
+]
