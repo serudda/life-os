@@ -1,39 +1,31 @@
 # Tasks
 
-## Hoy — Feb 13, 2026 (Jueves)
+## Recurrentes (diario, L-V)
+- [ ] Programar 3 tweets para mañana (8:15, 10:15, 12:15)
+- [ ] Sesión de replies (12:30 - 1:00 PM)
+- [ ] Self-repost condicional (5:00 - 6:00 PM)
+
+## Hoy — Feb 18, 2026 (Martes)
 
 ### 🔴 Prioridad Alta
-- [ ] Configurar API de X (Sergio pasa keys → Sinistra configura)
-- [ ] Análisis de posteo Dan Koe (@DanKoe):
-  - Periodo 1: Dic 2025 – Feb 2026 (últimos 2 meses)
-  - Periodo 2: Mar – Jul 2025 (comparación)
-  - Extraer: día de la semana, hora exacta de cada post
-  - Buscar patrones: ¿días fijos? ¿horas fijas? ¿frecuencia constante o variable?
-- [ ] Investigar shadow ban de @serudda
+- No hay tareas de prioridad alta para hoy
 
 ### 🟡 Prioridad Media
 - [ ] Revisar métricas de los 3 tweets agendados el Feb 12
 - [ ] Definir cuentas de referencia para análisis de X
 
 ### 🟢 Si da tiempo
-- [ ] Grabar video "La mejor época para trabajar en ti mismo"
-- [ ] Commit + push cambios pendientes en ui-guideline-v2
+- No hay tareas opcionales para hoy
 
 ## Backlog
 
 ### UI Guideline
-- [ ] Crear `polar-sync.ts` (automatizar uploads a Polar)
-- [ ] Generar spec packs restantes (44 de 46 pendientes)
 - [ ] Landing page `/spec-packs`
-- [ ] Implementar PostHog analytics
-- [ ] Conectar checkout links de Polar a pricing page
 - [ ] Build Slop Score waitlist
 
 ### Contenido
 - [ ] Extraer letra de canción (https://youtu.be/Nwcc-Xbhegc) → desarrollar guión Serudda con nuestro sistema
-- [ ] Grabar video "La mejor época para trabajar en ti mismo"
 - [ ] Investigar recursos visuales para video (METR graph, OpenAI docs, Amodei clip)
-- [ ] Construir tweet performance bank con métricas
 
 ### Crecimiento X/Twitter
 - [ ] Armar engagement pod: dedicar un día a contactar creadores por DM (mismo nicho, 1K-10K followers, español)
@@ -44,6 +36,45 @@
 ---
 
 ## Completado
+
+### Feb 18, 2026
+- [x] Enviar email Substack a ~3,500 suscriptores
+
+### Feb 17, 2026
+- [x] Subir 10 spec packs a Polar (link, file-uploader, popover, date-picker, stepper, carousel, card, select, combobox, menu)
+- [x] Crear Full Library ($149) en Polar con 38 zips
+- [x] Crear Library + Updates ($249) en Polar con 38 zips
+- [x] Crear Design System Audit ($799) en Polar
+- [x] Generar banners para los 3 bundles
+- [x] Conectar tiers Full Library, Library+Updates y Audit al código
+- [x] Redactar draft email Substack
+- [x] Commit + push checkout links al repo
+
+### Feb 16, 2026
+- [x] Setup Linear (API key, team, proyecto)
+- [x] Crear 9 issues en Linear
+- [x] SR-184: Previews formatos conectados
+- [x] SR-183: Newsletter → Substack link
+- [x] SR-178: Email contacto visible
+- [x] SR-179/SR-181: News tag + logo sin v2
+- [x] SR-185: Arreglar bloque newsletter del footer
+- [x] SR-186: PostHog analytics (12 eventos)
+- [x] Thank-you page con survey post-compra
+- [x] Spec Pack version 0.1 propagada a todo el pipeline
+
+### Feb 13-15, 2026
+- [x] Configurar API de X
+- [x] Análisis de posteo Dan Koe (3 periodos, 450+ tweets)
+- [x] Investigar shadow ban de @serudda
+- [x] Construir tweet performance bank (análisis Dan Koe)
+- [x] Grabar video "La mejor época para trabajar en ti mismo"
+- [x] Commit + push cambios pendientes en ui-guideline-v2
+- [x] Subir 16 spec packs a Polar (button → table)
+- [x] Generar spec packs restantes (38 de 38 completados)
+- [x] Conectar checkout links de Polar a pricing page
+- [x] Implementar PostHog analytics
+- [x] Polar webhook para trackear compras + PostHog dashboards
+- [x] Crear `polar-sync.ts` (automatizar uploads a Polar)
 
 ### Feb 12, 2026
 - [x] Subir Button spec pack a Polar ($9)
