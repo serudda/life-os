@@ -5,23 +5,21 @@
 - [ ] Sesión de replies (12:30 - 1:00 PM)
 - [ ] Self-repost condicional (5:00 - 6:00 PM)
 
-## Hoy — Feb 18, 2026 (Martes)
+## Hoy — Feb 19, 2026 (Miércoles)
 
 ### 🔴 Prioridad Alta
-- [ ] Editar video grabado ("La mejor época para trabajar en ti mismo")
+- [ ] Seguir editando video — más pasos automáticos/programáticos para jump cuts y edición
 
 ### 🟡 Prioridad Media
-- [ ] Leer sobre el método Zettelkasten — mejorar nuestro flujo
 - [ ] Programar 3 tweets para mañana
+- [ ] Leer sobre el método Zettelkasten — mejorar nuestro flujo
 
 ### 🟢 Si da tiempo
 - [ ] Revisar métricas de los 3 tweets agendados el Feb 12
 - [ ] Definir cuentas de referencia para análisis de X
 
 ### 📝 Notas del día
-- UI Guideline: dejamos correr, sin tocar. Hoy miércoles tiene buen tráfico. Esperamos resultados.
-- No hay tweets publicados hoy → no hay sesión de replies ni self-repost.
-- Ayer fue día de descanso post-burnout del launch.
+- (pendiente)
 
 ## Backlog
 
@@ -45,6 +43,9 @@
 
 ### Feb 18, 2026
 - [x] Enviar email Substack a ~3,500 suscriptores
+- [x] Unir audio con video + primera versión de jump cuts automáticos
+- [x] Crear vault writing_v2 en life-os (sistema de contenido viral)
+- [x] Trabajar 2 tweets: quote tweet Europa + tweet equipos/IA
 
 ### Feb 17, 2026
 - [x] Subir 10 spec packs a Polar (link, file-uploader, popover, date-picker, stepper, carousel, card, select, combobox, menu)

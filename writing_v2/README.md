@@ -13,6 +13,7 @@ Replicar el **proceso** de Dan Koe, no su resultado. Dos capas separadas:
 **Objetivo:** Extraer TUS arquetipos, TU psicología de escritura, TU voz.
 
 **Proceso:**
+
 1. Sergio selecciona 5-10 tweets/posts que admira o que siente "así quiero sonar" (propios o de otros, en español o inglés)
 2. Sinistra analiza cada uno: estructura, psicología, patrones, por qué funcionan
 3. Se combinan en una **Guía Maestra personalizada** con:
@@ -32,6 +33,7 @@ Replicar el **proceso** de Dan Koe, no su resultado. Dos capas separadas:
 **Objetivo:** Generar ideas y borradores de tweets a partir de tu contenido fresco.
 
 **Proceso (cada sesión de contenido, ~30 min):**
+
 1. Sergio alimenta su **materia prima** de la semana:
    - Notas del Zettelkasten (ideas, reflexiones, lecturas)
    - Newsletter si hay
@@ -57,8 +59,9 @@ writing_v2/
 ├── references/
 │   └── tweets/                ← Tweets de referencia para analizar (Capa 1)
 ├── prompt-generator.md        ← ✅ Meta-prompt de Dan Koe para crear prompts (herramienta)
-├── master-prompt.md           ← 🔨 Por crear (resultado de Capa 1)
-├── prompt.md                  ← ⚠️ Prompt actual de Dan Koe (legacy, se reemplaza)
+├── CONTENT-SYSTEM.md          ← ✅ Sistema operativo de contenido (9 arquetipos + tonos + flujo)
+├── master-prompt.md           ← 🔨 Por crear si se necesita para uso externo
+├── prompt.md                  ← ⚠️ Prompt original de Dan Koe (legacy, referencia)
 ├── drafts/                    ← Borradores semanales
 │   └── YYYY-MM-DD.md
 └── I-Watched-Dan-Koe-...md   ← Transcripción de referencia
@@ -66,18 +69,19 @@ writing_v2/
 
 ## Orden de Ejecución
 
-### Fase 1: Voice Profile (esta semana)
-- [ ] Sergio selecciona 5-10 tweets de referencia
-- [ ] Análisis profundo de cada tweet (estructura, psicología, patrones)
-- [ ] Combinar análisis → Guía de escritura con arquetipos propios
-- [ ] Definir qué contexto se necesita de Sergio (identidad, audiencia, filosofía)
-- [ ] Usar `prompt-generator.md` para generar el Master Prompt final
-      (Fase 1 del meta-prompt: interview con contexto de Sergio)
-      (Fase 2 del meta-prompt: instrucciones de escritura basadas en la guía)
-- [ ] Cruce con tonos + CORE-BELIEFS + CORE-INSIGHTS
+### Fase 1: Voice Profile ✅ COMPLETADA (2026-02-18)
+
+- [x] Obtener tweets históricos de @serudda_es (397 tweets, Oct 2023 - Feb 2026)
+- [x] Ranking top 10 por engagement
+- [x] Identificar tweets generados con Dan Koe vs orgánicos (6 de 6 top = Dan Koe)
+- [x] Análisis profundo de cada tweet (breakdown-top10-2026.md)
+- [x] Extracción de 6 arquetipos propios + 3 de Dan Koe = 9 totales
+- [x] Cruce con tonos + CORE-BELIEFS + CORE-INSIGHTS
+- [x] Generación del CONTENT-SYSTEM.md (sistema operativo de contenido)
 - [ ] Test: generar 9 tweets de prueba y validar con Sergio
 
 ### Fase 2: Primera Generación Real
+
 - [ ] Sergio trae materia prima del Zettelkasten
 - [ ] Generar building blocks (ideas, paradojas, quotes)
 - [ ] Generar borradores
@@ -85,6 +89,7 @@ writing_v2/
 - [ ] Publicar
 
 ### Fase 3: Iteración Continua
+
 - [ ] Trackear qué tweets performan mejor
 - [ ] Refinar arquetipos basado en data real
 - [ ] Actualizar Master Prompt cada 1-2 meses
