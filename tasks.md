@@ -1,40 +1,53 @@
 # Tasks
 
 ## Recurrentes (diario, L-V)
+
 - [ ] Programar 3 tweets para mañana (8:15, 10:15, 12:15)
-- [ ] Sesión de replies (12:30 - 1:00 PM)
+- [ ] Sesión de replies (1:30 PM - 2:00 PM)
 - [ ] Self-repost condicional (5:00 - 6:00 PM)
 
 ## Hoy — Feb 19, 2026 (Miércoles)
 
 ### 🔴 Prioridad Alta
+
 - [ ] Seguir editando video — más pasos automáticos/programáticos para jump cuts y edición
 
 ### 🟡 Prioridad Media
+
 - [ ] Programar 3 tweets para mañana
 - [ ] Leer sobre el método Zettelkasten — mejorar nuestro flujo
 
 ### 🟢 Si da tiempo
+
 - [ ] Revisar métricas de los 3 tweets agendados el Feb 12
 - [ ] Definir cuentas de referencia para análisis de X
 
+### 📌 Eventos
+
+- [ ] Stream en Twitch — 4:00 PM COT
+
 ### 📝 Notas del día
-- (pendiente)
+
+- Tweets de hoy ya programados (8, 10, 12). Semana de experimento con horarios.
 
 ## Backlog
 
 ### UI Guideline
+
 - [ ] Landing page `/spec-packs`
 - [ ] Build Slop Score waitlist
 
 ### Contenido
+
 - [ ] Extraer letra de canción (https://youtu.be/Nwcc-Xbhegc) → desarrollar guión Serudda con nuestro sistema
 - [ ] Investigar recursos visuales para video (METR graph, OpenAI docs, Amodei clip)
 
 ### Crecimiento X/Twitter
+
 - [ ] Armar engagement pod: dedicar un día a contactar creadores por DM (mismo nicho, 1K-10K followers, español)
 
 ### Life-OS
+
 - [ ] Migrar daily facts al Zettelkasten inbox con tag apropiado
 
 ---
@@ -42,12 +55,14 @@
 ## Completado
 
 ### Feb 18, 2026
+
 - [x] Enviar email Substack a ~3,500 suscriptores
 - [x] Unir audio con video + primera versión de jump cuts automáticos
 - [x] Crear vault writing_v2 en life-os (sistema de contenido viral)
 - [x] Trabajar 2 tweets: quote tweet Europa + tweet equipos/IA
 
 ### Feb 17, 2026
+
 - [x] Subir 10 spec packs a Polar (link, file-uploader, popover, date-picker, stepper, carousel, card, select, combobox, menu)
 - [x] Crear Full Library ($149) en Polar con 38 zips
 - [x] Crear Library + Updates ($249) en Polar con 38 zips
@@ -58,6 +73,7 @@
 - [x] Commit + push checkout links al repo
 
 ### Feb 16, 2026
+
 - [x] Setup Linear (API key, team, proyecto)
 - [x] Crear 9 issues en Linear
 - [x] SR-184: Previews formatos conectados
@@ -70,6 +86,7 @@
 - [x] Spec Pack version 0.1 propagada a todo el pipeline
 
 ### Feb 13-15, 2026
+
 - [x] Configurar API de X
 - [x] Análisis de posteo Dan Koe (3 periodos, 450+ tweets)
 - [x] Investigar shadow ban de @serudda
@@ -84,6 +101,7 @@
 - [x] Crear `polar-sync.ts` (automatizar uploads a Polar)
 
 ### Feb 12, 2026
+
 - [x] Subir Button spec pack a Polar ($9)
 - [x] Subir Calendar spec pack a Polar ($9)
 - [x] Crear checkout links para ambos productos
