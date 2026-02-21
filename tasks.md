@@ -46,6 +46,19 @@
 
 - [ ] Armar engagement pod: dedicar un día a contactar creadores por DM (mismo nicho, 1K-10K followers, español)
 
+### Serudda Twitter Dashboard (Side Project nuevo)
+
+- [ ] Diseñar MVP: qué métricas mostrar (engagement, impressions, top tweets, growth)
+- [ ] Recargar $5 en API de X (pay-per-use, créditos agotados)
+- [ ] Definir stack (canvas local, web app, o CLI + PostHog dashboard)
+- [ ] V1: Vista de tweets recientes + métricas de engagement ordenadas
+- [ ] V2: Comparar performance por horario, por arquetipo, por tema
+- [ ] V3: Scheduling integrado (reemplazar lo que hace Tweet Hunter)
+
+### Contenido / Writing System
+
+- [ ] Nuevo arquetipo A10: "El Guía de Trinchera" — estilo educativo desde la experiencia ("hice esto, funcionó, hazlo tú"). Estructura: resultado/hook → pasos de lo que hice → consejo directo. Diferente a los 9 actuales que son más emocionales/provocativos. Este es práctico, tipo tutorial personal. Agregar a CONTENT-SYSTEM.md con fórmula, tonos, ejemplos y anti-patrones.
+
 ### Life-OS
 
 - [ ] Migrar daily facts al Zettelkasten inbox con tag apropiado
