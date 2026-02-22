@@ -764,3 +764,95 @@ Incluso la **expectativa** de tener que enseñar algo (sin hacerlo realmente) ya
 - **Core Insight:** Cada post en Twitter o LinkedIn no es solo contenido — es una sesión de aprendizaje acelerado. Truco: antes de estudiar algo nuevo, decide "voy a hacer un post sobre esto". Solo esa intención cambia cómo tu cerebro procesa la información. Crear contenido no es solo marketing — es tu herramienta de aprendizaje más potente.
 
 ---
+
+## Tweet Draft: Legado vs Empleo — Dramatic Prophet
+
+- **ID:** 202602211730
+- **Type:** Fleeting
+- **Source:** Variación de @neet_sol — parafraseado por Sinistra
+- **Tags:** #inbox #tweet-draft #mindset #employment
+
+### Content
+
+Deja de optimizar tu carrera corporativa.
+
+Nadie en la historia de la humanidad ha sido recordado por cumplir un horario de 9 a 5.
+
+Ni uno.
+
+Tu legado no se construye fichando entrada y salida.
+
+### Capture Context
+
+- **Arquetipo:** A2 — Dramatic Prophet
+- **Uso futuro:** Tweet individual o hilo sobre legado vs empleo
+
+---
+
+## Tweet Draft: Legado vs Empleo — Quiet Devastator
+
+- **ID:** 202602211731
+- **Type:** Fleeting
+- **Source:** Variación de @neet_sol — parafraseado por Sinistra
+- **Tags:** #inbox #tweet-draft #mindset #employment
+
+### Content
+
+Piensa en cualquier persona que admires.
+
+Ahora piensa si esa persona es recordada por haber sido empleada de 9 a 5.
+
+No se me ocurre una sola.
+
+### Capture Context
+
+- **Arquetipo:** A3 — Quiet Devastator
+- **Uso futuro:** Alto potencial de bookmarks. Simple y reflexivo.
+
+---
+
+## Tweet Draft: Legado vs Empleo — Francotirador Irónico
+
+- **ID:** 202602211732
+- **Type:** Fleeting
+- **Source:** Variación de @neet_sol — parafraseado por Sinistra
+- **Tags:** #inbox #tweet-draft #mindset #employment
+
+### Content
+
+Hay gente que lleva 20 años optimizando su LinkedIn para conseguir el empleo perfecto.
+
+El empleo perfecto.
+
+Como si la historia recordara a alguien por tener un buen perfil de LinkedIn.
+
+### Capture Context
+
+- **Arquetipo:** A5 — Francotirador Irónico
+- **Uso futuro:** Tono sarcástico, bueno para engagement y replies.
+
+---
+
+## Tweet Draft: Legado vs Empleo — Demoledor de Objeciones
+
+- **ID:** 202602211733
+- **Type:** Fleeting
+- **Source:** Variación de @neet_sol — parafraseado por Sinistra
+- **Tags:** #inbox #tweet-draft #mindset #employment
+
+### Content
+
+"Pero necesito la estabilidad de un empleo."
+
+Sí. La necesitas.
+
+Pero no confundas necesitar estabilidad con merecer ser recordado por ella.
+
+Nadie lo ha sido. Nunca.
+
+### Capture Context
+
+- **Arquetipo:** A8 — Demoledor de Objeciones
+- **Uso futuro:** Ideal para quote tweet o respuesta a objeciones comunes.
+
+---

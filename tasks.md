@@ -6,29 +6,24 @@
 - [ ] Sesión de replies (1:30 PM - 2:00 PM)
 - [ ] Self-repost condicional (5:00 - 6:00 PM)
 
-## Hoy — Feb 19, 2026 (Miércoles)
+## Hoy — Feb 22, 2026 (Sábado)
 
 ### 🔴 Prioridad Alta
 
-- [ ] Seguir editando video — más pasos automáticos/programáticos para jump cuts y edición
+- [ ] Definir plan de acción UI Guideline — basado en análisis de ayer (Claude Code → Figma, dónde encaja UIG en el flujo)
 
 ### 🟡 Prioridad Media
 
-- [ ] Programar 3 tweets para mañana
-- [ ] Leer sobre el método Zettelkasten — mejorar nuestro flujo
+- [ ] Programar 3 tweets para lunes
 
 ### 🟢 Si da tiempo
 
 - [ ] Revisar métricas de los 3 tweets agendados el Feb 12
 - [ ] Definir cuentas de referencia para análisis de X
 
-### 📌 Eventos
-
-- [ ] Stream en Twitch — 4:00 PM COT
-
 ### 📝 Notas del día
 
-- Tweets de hoy ya programados (8, 10, 12). Semana de experimento con horarios.
+- (pendiente)
 
 ## Backlog
 
@@ -66,6 +61,13 @@
 ---
 
 ## Completado
+
+### Feb 21, 2026
+
+- [x] Programar 3 tweets para sábado (legado vs empleo + productividad/dividir tareas)
+- [x] Análisis de resultados del lanzamiento Component Spec Packs
+- [x] Pruebas Claude Code → Figma (explorar flujo y dónde encaja UI Guideline)
+- [x] Guardar 4 tweet drafts en Zettelkasten inbox (fleeting notes)
 
 ### Feb 18, 2026
 
